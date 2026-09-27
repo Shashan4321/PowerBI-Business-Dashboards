@@ -1,0 +1,21 @@
+warehouse_name,category,closing_qty,closing_value
+Bengaluru DC,Raw Material,23198.0,4477113.88
+Gurugram DC,Raw Material,25374.0,4808301.02
+Kolkata DC,Packaging,21172.0,616294.48
+Bengaluru DC,Spares,23282.0,58809131.37
+Mumbai DC,Finished Goods,27388.0,114491953.57
+Bengaluru DC,Packaging,24593.0,731826.72
+Kolkata DC,Spares,20319.0,55652734.23
+Gurugram DC,Packaging,26945.0,806804.07
+Kolkata DC,Raw Material,23138.0,4809215.55
+Chennai DC,Raw Material,22480.0,4511578.5
+Gurugram DC,Spares,23012.0,60087885.22
+Chennai DC,Packaging,25171.0,736042.22
+Chennai DC,Spares,21267.0,58502227.58
+Gurugram DC,Finished Goods,25457.0,103851356.32
+Bengaluru DC,Finished Goods,23074.0,96502906.19
+Kolkata DC,Finished Goods,23487.0,96496330.06
+Mumbai DC,Packaging,21251.0,662858.59
+Mumbai DC,Raw Material,23887.0,4882589.08
+Mumbai DC,Spares,20397.0,53114534.01
+Chennai DC,Finished Goods,22216.0,90109957.64

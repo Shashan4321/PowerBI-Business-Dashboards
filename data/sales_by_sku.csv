@@ -1,0 +1,421 @@
+year,product_name,category,revenue,cost_amt
+2025,Aurora Footwear 081,Fashion,2879967.0,2361798.9
+2025,Aurora Beverages 105,Grocery,768492.0,484116.64
+2025,Nimbus Mobiles 001,Electronics,25207470.0,18745274.79
+2023,Aurora Decor 053,Home & Kitchen,1345179.5,826951.56
+2023,Zenith Decor 055,Home & Kitchen,870800.0,711345.7
+2024,Nimbus Audio 022,Electronics,601146.0,422873.17
+2024,Orbit Staples 097,Grocery,40929.0,26782.14
+2024,Aurora Staples 092,Grocery,454902.5,300486.56
+2024,Lotus Appliances 041,Home & Kitchen,13220571.0,8270999.56
+2024,Nimbus Beverages 101,Grocery,73530.0,52053.35
+2025,Lotus Staples 099,Grocery,990148.5,816587.98
+2025,Zenith Snacks 117,Grocery,115284.0,77789.53
+2025,Lotus Cookware 034,Home & Kitchen,4962455.0,3552418.55
+2025,Kestrel Fitness 129,Sports,6679500.0,4525389.06
+2025,Zenith Decor 059,Home & Kitchen,3725416.0,2263482.9
+2025,Zenith Women 075,Fashion,1278829.0,859517.55
+2025,Lotus Fitness 128,Sports,1495885.5,1175908.96
+2025,Nimbus Audio 030,Electronics,4578007.5,3386429.8
+2025,Nimbus Mobiles 002,Electronics,37651775.5,27871944.26
+2025,Kestrel Staples 096,Grocery,477958.0,371623.4
+2025,Zenith Fitness 130,Sports,1909542.0,1135333.66
+2025,Nimbus Decor 060,Home & Kitchen,3388802.0,2144206.98
+2023,Zenith Women 077,Fashion,676594.5,435927.58
+2024,Zenith Footwear 086,Fashion,4234972.0,3308362.84
+2024,Zenith Cookware 039,Home & Kitchen,3782310.0,2437791.84
+2025,Vertex Audio 027,Electronics,2389271.5,1479139.87
+2025,Nimbus Laptops 015,Electronics,86961286.5,58647962.8
+2025,Kestrel Staples 100,Grocery,1099288.0,773998.9
+2025,Vertex Snacks 118,Grocery,166566.0,99148.68
+2025,Lotus Staples 098,Grocery,1014429.0,841011.37
+2025,Aurora Beverages 110,Grocery,727776.0,463759.36
+2024,Saffron Men 066,Fashion,2005708.5,1321656.45
+2024,Nimbus Cookware 040,Home & Kitchen,4364094.5,2808363.1
+2024,Lotus Footwear 087,Fashion,5214132.0,4035206.7
+2024,Aurora Fitness 122,Sports,2275230.0,1656646.32
+2024,Zenith Staples 091,Grocery,475068.0,342408.08
+2024,Zenith Decor 059,Home & Kitchen,3054225.0,1841924.18
+2024,Vertex Fitness 124,Sports,7044561.0,5389153.02
+2024,Saffron Women 079,Fashion,2330665.0,1480015.55
+2024,Lotus Staples 099,Grocery,675031.5,558435.87
+2025,Vertex Men 062,Fashion,2028840.0,1731522.25
+2025,Zenith Snacks 120,Grocery,416455.0,334422.13
+2025,Vertex Beverages 106,Grocery,48742.5,31196.6
+2025,Orbit Outdoor 140,Sports,7257232.5,5144008.6
+2025,Nimbus Appliances 045,Home & Kitchen,6725043.0,4220415.92
+2025,Aurora Appliances 043,Home & Kitchen,11366289.0,8325127.86
+2025,Saffron Cookware 031,Home & Kitchen,924189.0,593751.26
+2025,Zenith Footwear 086,Fashion,5657344.0,4412549.93
+2025,Aurora Appliances 046,Home & Kitchen,9836787.5,8103393.54
+2025,Zenith Women 078,Fashion,4193820.0,3494434.8
+2025,Orbit Beverages 108,Grocery,208164.0,138426.12
+2025,Lotus Footwear 089,Fashion,3416562.0,2751106.24
+2025,Aurora Laptops 012,Electronics,45456444.0,33515241.6
+2025,Saffron Cookware 038,Home & Kitchen,1183014.0,894625.68
+2025,Zenith Outdoor 135,Sports,4761713.0,4026167.26
+2025,Aurora Staples 092,Grocery,632482.5,416181.92
+2025,Kestrel Beverages 102,Grocery,386035.5,279496.98
+2025,Nimbus Audio 022,Electronics,798570.5,553946.06
+2025,Zenith Staples 091,Grocery,676335.0,485927.12
+2023,Aurora Appliances 043,Home & Kitchen,3591571.5,2682260.04
+2023,Saffron Laptops 013,Electronics,18848299.5,12983791.14
+2023,Zenith Decor 059,Home & Kitchen,1241313.0,766470.4
+2023,Vertex Snacks 113,Grocery,75816.0,55264.16
+2023,Aurora Fitness 125,Sports,6548514.0,5085133.65
+2023,Saffron Footwear 085,Fashion,507063.0,430990.56
+2023,Kestrel Mobiles 006,Electronics,13514100.0,9067490.22
+2023,Zenith Women 078,Fashion,1280410.0,1079640.0
+2023,Nimbus Cookware 040,Home & Kitchen,1806385.5,1160564.51
+2024,Kestrel Beverages 104,Grocery,304584.0,212018.72
+2024,Zenith Snacks 117,Grocery,91143.0,61805.38
+2024,Kestrel Fitness 129,Sports,4745365.0,3224455.86
+2025,Nimbus Decor 054,Home & Kitchen,2110404.0,1573333.93
+2025,Vertex Snacks 113,Grocery,260914.5,187607.28
+2025,Vertex Laptops 016,Electronics,55585950.0,40761517.19
+2025,Zenith Outdoor 138,Sports,6009481.5,5090075.25
+2025,Vertex Mobiles 010,Electronics,30264385.0,25746577.44
+2025,Aurora Fitness 125,Sports,17813040.0,13717390.5
+2025,Aurora Outdoor 136,Sports,4232203.5,3526085.08
+2025,Orbit Decor 051,Home & Kitchen,4595740.0,3472810.69
+2025,Kestrel Women 074,Fashion,3634800.0,2944660.05
+2025,Saffron Women 072,Fashion,3183147.0,2203007.04
+2025,Saffron Outdoor 139,Sports,1903116.0,1522057.32
+2025,Kestrel Mobiles 004,Electronics,44972382.5,30387833.4
+2025,Vertex Women 080,Fashion,1150105.0,926172.28
+2025,Orbit Fitness 121,Sports,12766898.0,10738476.89
+2025,Lotus Laptops 019,Electronics,61709674.0,37114260.98
+2025,Nimbus Cookware 035,Home & Kitchen,1032916.5,821858.65
+2025,Aurora Men 068,Fashion,3800013.0,3060433.44
+2025,Vertex Staples 093,Grocery,716376.0,444932.88
+2025,Kestrel Mobiles 009,Electronics,49210072.0,38898580.65
+2024,Saffron Decor 057,Home & Kitchen,3152786.0,2124403.05
+2024,Vertex Laptops 016,Electronics,42718182.5,31856319.79
+2025,Lotus Audio 025,Electronics,12035187.0,8390847.55
+2025,Kestrel Snacks 115,Grocery,140539.0,86776.2
+2025,Zenith Audio 028,Electronics,4247208.0,2652558.84
+2025,Orbit Snacks 119,Grocery,111282.0,70772.8
+2025,Orbit Men 063,Fashion,4074588.0,2916178.04
+2025,Lotus Appliances 050,Home & Kitchen,30377760.0,21931583.49
+2025,Kestrel Laptops 018,Electronics,67234941.0,47074139.1
+2025,Vertex Audio 023,Electronics,11909950.0,9316647.91
+2023,Lotus Staples 099,Grocery,347094.0,288027.28
+2023,Saffron Decor 057,Home & Kitchen,1411969.0,965637.75
+2024,Lotus Men 061,Fashion,363283.0,296541.53
+2024,Zenith Decor 055,Home & Kitchen,1920520.0,1552220.02
+2024,Kestrel Mobiles 004,Electronics,34352010.0,23127300.6
+2024,Orbit Cookware 037,Home & Kitchen,2887762.5,2092052.34
+2025,Vertex Mobiles 008,Electronics,12587207.5,8303490.92
+2025,Lotus Audio 021,Electronics,1353030.0,815026.67
+2025,Kestrel Decor 058,Home & Kitchen,754416.0,469234.5
+2025,Zenith Fitness 126,Sports,11175009.5,7827640.66
+2025,Orbit Laptops 014,Electronics,91536606.0,54461940.18
+2024,Nimbus Beverages 109,Grocery,499768.5,395158.74
+2024,Lotus Cookware 032,Home & Kitchen,1859793.0,1236944.72
+2024,Aurora Footwear 081,Fashion,2109612.0,1732801.68
+2024,Zenith Snacks 120,Grocery,326069.0,262506.86
+2024,Kestrel Laptops 011,Electronics,81909060.0,53229465.34
+2024,Nimbus Decor 060,Home & Kitchen,2440798.0,1561676.76
+2024,Nimbus Audio 030,Electronics,3270073.5,2403804.6
+2024,Nimbus Women 076,Fashion,4001804.0,2498817.37
+2024,Kestrel Mobiles 006,Electronics,38429050.0,25117609.77
+2024,Orbit Beverages 108,Grocery,156761.0,104606.88
+2024,Nimbus Audio 029,Electronics,6729500.0,5380568.48
+2024,Lotus Fitness 128,Sports,960379.5,754687.84
+2024,Kestrel Audio 026,Electronics,6419410.0,4504494.24
+2024,Aurora Laptops 012,Electronics,34132901.0,25276078.04
+2024,Orbit Outdoor 140,Sports,4592240.0,3259389.52
+2023,Saffron Men 064,Fashion,1341746.0,860047.3
+2023,Orbit Decor 052,Home & Kitchen,1312640.0,847544.53
+2023,Nimbus Appliances 045,Home & Kitchen,1970601.0,1245732.01
+2023,Aurora Outdoor 131,Sports,345397.5,224217.65
+2023,Nimbus Cookware 035,Home & Kitchen,330451.0,263427.8
+2023,Orbit Men 067,Fashion,1194380.0,773533.44
+2023,Orbit Beverages 108,Grocery,68167.0,45457.44
+2023,Kestrel Footwear 088,Fashion,1546511.0,1106383.89
+2023,Kestrel Audio 026,Electronics,3069308.0,2159130.96
+2024,Saffron Laptops 020,Electronics,43772288.0,32997579.52
+2024,Lotus Footwear 089,Fashion,2657673.0,2133937.92
+2024,Vertex Laptops 017,Electronics,47040636.0,30332688.26
+2024,Nimbus Appliances 045,Home & Kitchen,5377173.0,3386972.44
+2024,Lotus Mobiles 005,Electronics,13716915.5,9062278.83
+2024,Kestrel Decor 058,Home & Kitchen,604453.5,374848.25
+2023,Lotus Appliances 050,Home & Kitchen,8462160.0,6126267.87
+2023,Zenith Snacks 114,Grocery,50701.5,39611.74
+2023,Vertex Snacks 118,Grocery,50745.0,30200.46
+2023,Nimbus Mobiles 002,Electronics,10640588.5,7951538.77
+2023,Nimbus Mobiles 007,Electronics,14893558.5,9804665.04
+2023,Orbit Men 063,Fashion,1213641.0,867347.52
+2024,Nimbus Mobiles 007,Electronics,37914737.5,25097475.92
+2024,Aurora Outdoor 131,Sports,959445.0,618419.8
+2024,Aurora Appliances 046,Home & Kitchen,7686787.5,6327420.44
+2024,Lotus Cookware 034,Home & Kitchen,3986030.0,2875413.13
+2024,Vertex Beverages 106,Grocery,35687.5,22921.8
+2024,Zenith Women 077,Fashion,1407291.0,905093.04
+2024,Saffron Outdoor 134,Sports,3164148.0,1972495.83
+2024,Orbit Decor 052,Home & Kitchen,3557792.0,2301638.5
+2024,Lotus Laptops 019,Electronics,49784865.0,29831609.56
+2024,Vertex Mobiles 010,Electronics,22941254.0,19309933.08
+2023,Aurora Beverages 105,Grocery,206496.0,129295.6
+2023,Nimbus Footwear 083,Fashion,1712289.0,1107067.2
+2023,Lotus Beverages 107,Grocery,98440.5,81973.02
+2023,Kestrel Fitness 129,Sports,2164815.0,1482134.61
+2023,Nimbus Cookware 033,Home & Kitchen,1179189.0,706520.92
+2024,Aurora Footwear 090,Fashion,2961225.0,1958950.4
+2024,Aurora Appliances 043,Home & Kitchen,8028685.5,5904346.0
+2023,Vertex Snacks 111,Grocery,142459.0,111926.4
+2023,Orbit Outdoor 137,Sports,2411084.0,1624203.75
+2023,Vertex Beverages 106,Grocery,16127.5,10449.2
+2023,Orbit Fitness 121,Sports,3726128.0,3157173.51
+2023,Zenith Fitness 130,Sports,593861.0,352049.74
+2023,Kestrel Beverages 104,Grocery,155358.0,109014.78
+2023,Zenith Outdoor 138,Sports,1938713.0,1634044.67
+2023,Lotus Footwear 089,Fashion,943666.5,768845.28
+2024,Nimbus Men 065,Fashion,2105100.0,1596048.48
+2024,Orbit Snacks 119,Grocery,85776.0,54468.0
+2024,Lotus Staples 098,Grocery,782383.5,643885.88
+2024,Orbit Men 067,Fashion,3335052.5,2156761.64
+2024,Orbit Outdoor 133,Sports,6934945.5,5113778.52
+2024,Saffron Outdoor 139,Sports,1307640.0,1037627.43
+2023,Zenith Decor 056,Home & Kitchen,112960.0,85186.88
+2023,Aurora Men 070,Fashion,1036308.0,781921.14
+2023,Kestrel Laptops 011,Electronics,33310352.5,21713810.03
+2024,Saffron Laptops 013,Electronics,44731832.5,30337943.35
+2023,Orbit Snacks 119,Grocery,35862.0,22855.2
+2023,Lotus Footwear 087,Fashion,1793220.0,1387267.14
+2023,Vertex Mobiles 008,Electronics,2871064.0,1915636.24
+2023,Nimbus Women 076,Fashion,1449162.0,907172.23
+2024,Aurora Audio 024,Electronics,4905441.0,3078936.0
+2024,Aurora Outdoor 136,Sports,3373636.0,2803179.96
+2023,Kestrel Laptops 018,Electronics,24593967.0,17308170.45
+2023,Aurora Staples 092,Grocery,177840.0,117302.24
+2023,Aurora Footwear 090,Fashion,1277325.0,834780.0
+2023,Lotus Mobiles 005,Electronics,5349288.0,3562253.01
+2023,Kestrel Mobiles 009,Electronics,14823748.0,11891275.95
+2023,Aurora Appliances 046,Home & Kitchen,3512562.5,2866337.98
+2023,Aurora Fitness 123,Sports,5470586.0,4403031.22
+2023,Orbit Appliances 048,Home & Kitchen,7465130.0,5133658.86
+2023,Kestrel Cookware 036,Home & Kitchen,573664.0,431498.17
+2023,Lotus Staples 098,Grocery,325230.0,271155.15
+2023,Nimbus Footwear 082,Fashion,485982.0,321094.85
+2023,Aurora Men 068,Fashion,1229707.5,997149.42
+2023,Kestrel Snacks 115,Grocery,35966.0,22244.04
+2023,Saffron Appliances 047,Home & Kitchen,2080372.0,1240304.19
+2023,Saffron Outdoor 139,Sports,653208.0,519577.8
+2023,Aurora Fitness 122,Sports,903536.0,656177.76
+2023,Aurora Footwear 084,Fashion,2302529.0,1802233.94
+2023,Zenith Staples 091,Grocery,183579.0,133330.96
+2023,Zenith Snacks 117,Grocery,40956.5,27623.89
+2023,Vertex Laptops 017,Electronics,17008023.0,11075046.78
+2023,Orbit Laptops 014,Electronics,28495404.0,16896636.09
+2023,Aurora Staples 094,Grocery,75244.0,64474.87
+2025,Aurora Men 070,Fashion,3060083.0,2295853.56
+2025,Vertex Appliances 044,Home & Kitchen,34904509.5,21752810.1
+2025,Nimbus Audio 029,Electronics,8242670.0,6465565.19
+2025,Nimbus Women 076,Fashion,5585523.0,3471489.4
+2025,Lotus Men 069,Fashion,1929732.5,1424954.19
+2024,Nimbus Snacks 112,Grocery,344808.0,212017.29
+2024,Nimbus Laptops 015,Electronics,68014282.5,46080542.2
+2024,Kestrel Laptops 018,Electronics,49121685.0,34310001.6
+2024,Kestrel Cookware 036,Home & Kitchen,1264354.0,948783.81
+2024,Aurora Beverages 110,Grocery,483664.0,308870.98
+2024,Zenith Fitness 130,Sports,1433025.0,854977.94
+2024,Orbit Outdoor 137,Sports,6109300.0,4092993.45
+2024,Vertex Men 062,Fashion,1488452.0,1268656.79
+2025,Saffron Footwear 085,Fashion,1477679.5,1266725.46
+2025,Zenith Snacks 114,Grocery,188461.0,145197.04
+2025,Orbit Men 067,Fashion,3917112.5,2519355.44
+2025,Aurora Women 071,Fashion,4399777.0,3382710.24
+2025,Zenith Cookware 039,Home & Kitchen,4552835.0,2932459.2
+2025,Aurora Fitness 123,Sports,17907994.5,14179948.37
+2025,Saffron Appliances 047,Home & Kitchen,6732034.0,3948373.2
+2025,Aurora Fitness 127,Sports,4158434.5,3008417.28
+2025,Aurora Mobiles 003,Electronics,7368208.0,6221232.78
+2025,Zenith Decor 056,Home & Kitchen,393300.0,293950.78
+2025,Kestrel Audio 026,Electronics,8346557.5,5883777.36
+2023,Saffron Outdoor 134,Sports,1313442.0,826647.63
+2024,Vertex Appliances 044,Home & Kitchen,27307291.5,17123640.66
+2025,Orbit Outdoor 133,Sports,9777043.5,7169178.45
+2025,Lotus Cookware 032,Home & Kitchen,2446356.0,1627896.16
+2025,Saffron Decor 057,Home & Kitchen,4060212.0,2737373.1
+2025,Saffron Men 064,Fashion,4403097.0,2794439.4
+2025,Nimbus Beverages 103,Grocery,306405.0,242087.42
+2025,Nimbus Beverages 101,Grocery,92765.0,66111.07
+2025,Aurora Footwear 084,Fashion,6950482.0,5341950.9
+2024,Kestrel Mobiles 009,Electronics,38249499.0,30554532.78
+2024,Aurora Footwear 084,Fashion,4810954.0,3733969.72
+2024,Vertex Snacks 118,Grocery,125392.0,74836.36
+2024,Orbit Decor 051,Home & Kitchen,3930596.0,2979650.88
+2024,Kestrel Women 074,Fashion,2655800.0,2168146.8
+2024,Nimbus Decor 054,Home & Kitchen,1463203.5,1095528.64
+2024,Aurora Fitness 123,Sports,11979077.0,9489762.94
+2024,Nimbus Mobiles 001,Electronics,17516535.0,13142168.82
+2024,Aurora Beverages 105,Grocery,488052.0,304374.56
+2024,Orbit Fitness 121,Sports,9474236.0,8071738.1
+2024,Aurora Staples 094,Grocery,194740.0,165821.95
+2024,Saffron Appliances 047,Home & Kitchen,4991259.0,2974155.03
+2024,Kestrel Staples 096,Grocery,361894.0,280036.7
+2024,Orbit Appliances 048,Home & Kitchen,19079990.0,13035638.88
+2024,Zenith Women 073,Fashion,2416092.0,1784885.76
+2024,Kestrel Appliances 042,Home & Kitchen,19000754.5,11516785.5
+2024,Kestrel Footwear 088,Fashion,3737358.0,2690921.07
+2024,Zenith Outdoor 135,Sports,3327203.0,2810720.54
+2024,Zenith Women 078,Fashion,3137890.0,2627124.0
+2025,Kestrel Laptops 011,Electronics,105515260.0,68476780.22
+2025,Kestrel Appliances 042,Home & Kitchen,22620769.5,13568867.28
+2025,Nimbus Footwear 083,Fashion,6151833.0,3943926.9
+2025,Vertex Snacks 111,Grocery,423292.0,331063.2
+2025,Nimbus Cookware 040,Home & Kitchen,5840843.5,3755762.7
+2025,Saffron Outdoor 134,Sports,4699188.0,2919184.7
+2025,Lotus Mobiles 005,Electronics,18282353.0,12171998.07
+2025,Lotus Appliances 041,Home & Kitchen,18557349.0,11581542.13
+2025,Saffron Men 066,Fashion,2965461.0,1964675.12
+2025,Orbit Staples 097,Grocery,60042.0,39656.75
+2025,Vertex Staples 095,Grocery,977882.0,757524.34
+2025,Kestrel Cookware 036,Home & Kitchen,1597323.0,1192061.71
+2025,Kestrel Beverages 104,Grocery,401037.0,278137.96
+2025,Kestrel Footwear 088,Fashion,4938689.0,3528561.87
+2025,Orbit Decor 052,Home & Kitchen,3846304.0,2477646.15
+2025,Orbit Outdoor 137,Sports,6870674.0,4602743.55
+2025,Zenith Women 073,Fashion,3173264.5,2318462.72
+2025,Vertex Laptops 017,Electronics,55806090.0,35851182.36
+2023,Lotus Audio 025,Electronics,3639934.0,2537137.79
+2023,Nimbus Decor 060,Home & Kitchen,903241.0,574267.38
+2023,Lotus Snacks 116,Grocery,93887.5,60568.2
+2023,Vertex Fitness 124,Sports,2911117.5,2207185.41
+2023,Nimbus Snacks 112,Grocery,135384.0,83321.97
+2023,Vertex Staples 093,Grocery,235448.0,148016.4
+2023,Zenith Women 073,Fashion,954740.5,701205.12
+2023,Nimbus Decor 054,Home & Kitchen,645070.5,483759.25
+2023,Kestrel Mobiles 004,Electronics,17599828.5,11954842.8
+2025,Vertex Appliances 049,Home & Kitchen,10062376.0,8440033.68
+2025,Orbit Cookware 037,Home & Kitchen,3997381.5,2892113.7
+2025,Lotus Snacks 116,Grocery,344155.5,217255.5
+2025,Nimbus Mobiles 007,Electronics,50494685.0,33268030.12
+2025,Orbit Appliances 048,Home & Kitchen,25562830.0,17450935.92
+2025,Nimbus Cookware 033,Home & Kitchen,3454168.5,2044400.96
+2025,Nimbus Footwear 082,Fashion,1671781.5,1092775.26
+2025,Kestrel Mobiles 006,Electronics,47374250.0,31372192.44
+2025,Nimbus Men 065,Fashion,3273120.0,2498941.29
+2025,Nimbus Snacks 112,Grocery,449856.0,274165.03
+2025,Aurora Footwear 090,Fashion,4333275.0,2868860.6
+2025,Aurora Decor 053,Home & Kitchen,4610444.5,2819983.08
+2024,Zenith Outdoor 138,Sports,4498105.0,3774486.57
+2025,Zenith Women 077,Fashion,1887499.5,1209347.48
+2024,Lotus Audio 021,Electronics,1012060.0,611467.25
+2025,Saffron Laptops 020,Electronics,58433088.0,43660361.2
+2025,Aurora Staples 094,Grocery,269022.0,226383.01
+2025,Saffron Laptops 013,Electronics,71614215.5,48668001.43
+2025,Nimbus Beverages 109,Grocery,757141.0,593304.24
+2025,Lotus Footwear 087,Fashion,6871227.0,5332802.58
+2025,Lotus Beverages 107,Grocery,269236.0,221730.3
+2025,Zenith Outdoor 132,Sports,12463552.0,9775460.61
+2023,Lotus Fitness 128,Sports,456089.0,363083.83
+2025,Aurora Outdoor 131,Sports,1341292.5,861254.8
+2025,Aurora Fitness 122,Sports,2854244.0,2077896.24
+2025,Vertex Fitness 124,Sports,9455368.5,7164649.17
+2025,Aurora Audio 024,Electronics,6546784.5,4083866.5
+2025,Lotus Men 061,Fashion,503817.0,410356.57
+2025,Zenith Decor 055,Home & Kitchen,2435580.0,1981150.86
+2025,Saffron Women 079,Fashion,2634617.0,1672249.6
+2024,Zenith Women 075,Fashion,904098.0,605972.55
+2024,Nimbus Beverages 103,Grocery,246279.0,195824.0
+2024,Saffron Cookware 031,Home & Kitchen,695016.0,448559.6
+2024,Lotus Appliances 050,Home & Kitchen,24879120.0,18242158.23
+2024,Aurora Men 070,Fashion,2390674.0,1803884.94
+2024,Vertex Appliances 049,Home & Kitchen,7660492.0,6458684.31
+2024,Kestrel Beverages 102,Grocery,283617.5,205038.54
+2024,Aurora Women 071,Fashion,3367216.0,2573088.7
+2024,Orbit Men 063,Fashion,2979351.0,2137789.24
+2024,Lotus Snacks 116,Grocery,254412.0,161515.2
+2024,Vertex Snacks 111,Grocery,283026.0,220080.0
+2024,Nimbus Cookware 033,Home & Kitchen,2834194.5,1677181.88
+2024,Vertex Staples 093,Grocery,527934.0,329612.64
+2024,Saffron Cookware 038,Home & Kitchen,786177.0,594631.44
+2024,Saffron Men 064,Fashion,3272627.0,2097258.2
+2024,Lotus Men 069,Fashion,1375140.0,1037689.62
+2024,Orbit Laptops 014,Electronics,71257098.0,42629127.75
+2024,Lotus Beverages 107,Grocery,202753.5,168201.47
+2024,Aurora Mobiles 003,Electronics,5706612.0,4860542.54
+2023,Aurora Laptops 012,Electronics,16691196.5,12288921.92
+2023,Nimbus Beverages 109,Grocery,211211.0,168140.61
+2023,Lotus Laptops 019,Electronics,20838967.5,12657014.5
+2023,Lotus Men 061,Fashion,186383.0,154717.32
+2023,Vertex Mobiles 010,Electronics,9663599.0,8230463.28
+2023,Aurora Outdoor 136,Sports,1421917.0,1180488.68
+2023,Lotus Men 069,Fashion,649622.5,485949.75
+2023,Saffron Cookware 031,Home & Kitchen,287091.0,187096.57
+2023,Vertex Appliances 044,Home & Kitchen,10441613.5,6472264.68
+2023,Nimbus Men 065,Fashion,1053720.0,795466.47
+2023,Vertex Laptops 016,Electronics,16716700.0,12426798.19
+2023,Kestrel Staples 100,Grocery,363027.0,255931.5
+2023,Nimbus Beverages 103,Grocery,103702.5,82735.64
+2023,Lotus Appliances 041,Home & Kitchen,5204370.0,3289115.11
+2023,Zenith Footwear 086,Fashion,1583092.0,1234338.42
+2023,Zenith Women 075,Fashion,421899.0,283125.25
+2023,Vertex Men 062,Fashion,665574.0,569290.73
+2024,Zenith Fitness 126,Sports,7948698.5,5536047.67
+2024,Kestrel Staples 100,Grocery,804111.0,561498.2
+2024,Nimbus Cookware 035,Home & Kitchen,870534.5,694655.5
+2024,Saffron Footwear 085,Fashion,1104778.0,944863.92
+2024,Vertex Audio 023,Electronics,8906300.0,6937727.64
+2024,Vertex Snacks 113,Grocery,172030.5,123617.2
+2024,Kestrel Snacks 115,Grocery,89754.0,55895.28
+2023,Aurora Fitness 127,Sports,1281815.5,934623.36
+2023,Nimbus Beverages 101,Grocery,28580.0,20224.55
+2023,Nimbus Laptops 015,Electronics,23241156.0,15679353.32
+2023,Lotus Cookware 032,Home & Kitchen,752844.0,496700.6
+2023,Kestrel Beverages 102,Grocery,125952.0,91961.73
+2023,Zenith Outdoor 135,Sports,1286505.0,1091503.14
+2023,Aurora Beverages 110,Grocery,206530.0,132696.77
+2024,Aurora Fitness 125,Sports,13230336.0,10197979.2
+2024,Lotus Audio 025,Electronics,8338569.5,5837802.94
+2024,Zenith Decor 056,Home & Kitchen,283540.0,212406.76
+2024,Zenith Snacks 114,Grocery,130948.0,101582.72
+2024,Zenith Audio 028,Electronics,3445848.0,2127051.9
+2024,Vertex Staples 095,Grocery,711318.0,548423.81
+2024,Vertex Women 080,Fashion,935390.5,761438.08
+2024,Vertex Mobiles 008,Electronics,7475755.0,4911518.48
+2023,Vertex Audio 023,Electronics,4238650.0,3317219.5
+2023,Nimbus Audio 022,Electronics,277004.0,191568.07
+2024,Zenith Outdoor 132,Sports,8032822.0,6341098.59
+2024,Vertex Audio 027,Electronics,2039139.5,1264048.93
+2024,Aurora Decor 053,Home & Kitchen,3224363.5,1979988.12
+2023,Zenith Audio 028,Electronics,1310796.0,820235.7
+2023,Zenith Outdoor 132,Sports,3732138.5,2945109.33
+2024,Aurora Men 068,Fashion,2879642.5,2348631.81
+2023,Kestrel Staples 096,Grocery,132912.0,102893.7
+2023,Saffron Men 066,Fashion,1034593.5,682387.16
+2023,Aurora Audio 024,Electronics,2067079.5,1295718.9
+2023,Saffron Women 072,Fashion,994801.5,689616.52
+2023,Aurora Mobiles 003,Electronics,2215324.0,1903657.98
+2023,Lotus Audio 021,Electronics,462000.0,276146.5
+2024,Nimbus Footwear 083,Fashion,4947705.0,3195028.5
+2024,Aurora Fitness 127,Sports,3643578.5,2652819.84
+2023,Kestrel Appliances 042,Home & Kitchen,6562976.0,3936646.68
+2023,Vertex Appliances 049,Home & Kitchen,3212376.0,2701840.05
+2023,Nimbus Audio 029,Electronics,2105710.0,1656047.61
+2024,Saffron Women 072,Fashion,2499255.0,1722864.48
+2024,Nimbus Footwear 082,Fashion,1063620.0,699039.28
+2023,Aurora Footwear 081,Fashion,972444.0,812556.72
+2023,Vertex Audio 027,Electronics,927091.0,575134.47
+2023,Kestrel Women 074,Fashion,1210000.0,989673.75
+2023,Orbit Decor 051,Home & Kitchen,1410808.0,1072536.37
+2023,Vertex Women 080,Fashion,275577.5,223306.36
+2024,Nimbus Mobiles 002,Electronics,27576174.0,20502225.4
+2023,Kestrel Decor 058,Home & Kitchen,244311.0,149939.3
+2023,Zenith Snacks 120,Grocery,119970.0,95457.04
+2023,Nimbus Mobiles 001,Electronics,8263650.0,6180170.04
+2023,Nimbus Audio 030,Electronics,1322721.0,989220.0
+2023,Aurora Women 071,Fashion,1471554.0,1124292.26
+2023,Orbit Outdoor 140,Sports,2108087.5,1493128.16
+2023,Orbit Outdoor 133,Sports,2828721.0,2076589.62
+2023,Vertex Staples 095,Grocery,332226.5,257468.98
+2023,Lotus Cookware 034,Home & Kitchen,1447048.0,1052706.23
+2023,Orbit Staples 097,Grocery,17988.0,11878.58
+2023,Saffron Laptops 020,Electronics,17690176.0,13339447.04
+2023,Orbit Cookware 037,Home & Kitchen,1134756.0,832496.28
+2023,Saffron Cookware 038,Home & Kitchen,378126.0,288387.32
+2023,Saffron Women 079,Fashion,921590.0,591632.95
+2023,Zenith Cookware 039,Home & Kitchen,1314425.0,844192.8
+2023,Zenith Fitness 126,Sports,3491247.5,2456965.68

@@ -1,0 +1,1801 @@
+employee_id,department,grade,gender,location,hire_date,employment_type,overtime,rating,exit_date,exit_reason,exit_type
+E00001,Operations,L2,Female,Bengaluru,2021-02-07,Contract,True,3,2021-05-08,Resigned - better offer,Voluntary
+E00002,Operations,L3,Male,Bengaluru,2024-06-14,Permanent,False,4,,,
+E00003,Finance,L2,Male,Mumbai,2021-09-11,Permanent,False,3,,,
+E00004,Sales,L2,Female,Mumbai,2023-03-25,Permanent,False,3,,,
+E00005,IT,L2,Female,Gurugram,2022-04-03,Permanent,False,4,,,
+E00006,Supply Chain,L1,Male,Hyderabad,2023-12-15,Contract,False,3,2025-02-07,Resigned - better offer,Voluntary
+E00007,Customer Service,L2,Male,Mumbai,2021-05-27,Permanent,False,2,2024-09-08,Contract ended,Involuntary
+E00008,IT,L3,Female,Pune,2019-08-16,Contract,False,2,2022-03-03,Resigned - career change,Voluntary
+E00009,IT,L1,Female,Gurugram,2021-01-20,Permanent,False,4,2023-03-11,Resigned - career change,Voluntary
+E00010,HR,L4,Male,Gurugram,2023-05-28,Permanent,False,1,,,
+E00011,Operations,L4,Male,Mumbai,2023-05-03,Permanent,False,4,,,
+E00012,Operations,L1,Male,Bengaluru,2025-11-06,Permanent,True,4,,,
+E00013,Supply Chain,L1,Male,Mumbai,2020-09-10,Permanent,False,4,2024-02-22,Terminated - performance,Involuntary
+E00014,Operations,L4,Female,Bengaluru,2021-12-15,Contract,True,2,2022-07-13,Resigned - better offer,Voluntary
+E00015,HR,L1,Female,Gurugram,2025-08-10,Permanent,False,3,,,
+E00016,Customer Service,L3,Male,Hyderabad,2019-10-14,Permanent,True,3,2019-12-13,Resigned - better offer,Voluntary
+E00017,IT,L3,Male,Gurugram,2023-11-22,Permanent,True,3,2025-01-15,Resigned - better offer,Voluntary
+E00018,IT,L5,Male,Mumbai,2025-09-09,Permanent,True,3,,,
+E00019,Supply Chain,L1,Male,Pune,2025-05-28,Permanent,False,3,2025-06-27,Resigned - career change,Voluntary
+E00020,IT,L3,Male,Pune,2023-09-20,Contract,False,5,,,
+E00021,Operations,L4,Male,Pune,2025-03-25,Permanent,False,1,,,
+E00022,IT,L4,Female,Bengaluru,2020-05-17,Permanent,False,3,,,
+E00023,IT,L2,Female,Hyderabad,2024-04-13,Contract,False,5,2025-11-04,Resigned - relocation,Voluntary
+E00024,Supply Chain,L2,Female,Gurugram,2023-09-10,Permanent,False,3,,,
+E00025,Customer Service,L3,Female,Gurugram,2022-07-15,Permanent,False,3,2024-04-05,Resigned - relocation,Voluntary
+E00026,Supply Chain,L3,Male,Gurugram,2025-12-06,Permanent,True,3,,,
+E00027,Sales,L2,Male,Gurugram,2024-11-24,Permanent,True,3,,,
+E00028,Customer Service,L3,Male,Bengaluru,2020-06-18,Permanent,False,3,,,
+E00029,Supply Chain,L1,Female,Mumbai,2025-11-05,Permanent,False,5,,,
+E00030,Finance,L2,Male,Mumbai,2024-12-17,Permanent,False,3,,,
+E00031,Operations,L2,Male,Bengaluru,2021-08-09,Permanent,False,1,2023-12-27,Terminated - performance,Involuntary
+E00032,Operations,L4,Female,Gurugram,2023-11-18,Permanent,False,3,,,
+E00033,Operations,L4,Male,Pune,2024-06-17,Permanent,True,3,,,
+E00034,Sales,L1,Female,Gurugram,2020-07-19,Permanent,False,3,,,
+E00035,Sales,L1,Male,Pune,2020-10-29,Permanent,False,2,2020-11-28,Resigned - relocation,Voluntary
+E00036,Customer Service,L2,Female,Mumbai,2020-04-16,Permanent,False,3,,,
+E00037,Supply Chain,L2,Female,Hyderabad,2022-03-28,Permanent,False,3,,,
+E00038,Sales,L1,Male,Hyderabad,2025-08-30,Permanent,False,4,,,
+E00039,Supply Chain,L1,Female,Bengaluru,2021-09-22,Permanent,True,3,,,
+E00040,Sales,L3,Male,Gurugram,2021-05-18,Permanent,False,4,,,
+E00041,IT,L1,Male,Mumbai,2025-06-11,Permanent,False,3,,,
+E00042,Sales,L3,Male,Hyderabad,2022-01-30,Contract,True,2,2022-12-26,Resigned - relocation,Voluntary
+E00043,Operations,L3,Male,Hyderabad,2019-06-06,Permanent,False,3,2022-07-20,Resigned - better offer,Voluntary
+E00044,Supply Chain,L1,Male,Hyderabad,2023-08-01,Permanent,False,3,,,
+E00045,Finance,L2,Female,Gurugram,2024-05-03,Permanent,False,1,2024-09-30,Terminated - performance,Involuntary
+E00046,Finance,L1,Female,Mumbai,2022-01-27,Contract,False,3,,,
+E00047,Operations,L1,Female,Hyderabad,2025-08-08,Permanent,True,4,,,
+E00048,Customer Service,L1,Male,Mumbai,2019-01-01,Permanent,False,3,2020-04-25,Contract ended,Involuntary
+E00049,Supply Chain,L4,Male,Hyderabad,2025-01-19,Contract,False,3,,,
+E00050,Sales,L4,Male,Hyderabad,2020-10-25,Contract,False,2,,,
+E00051,Customer Service,L3,Female,Bengaluru,2024-08-01,Permanent,False,4,,,
+E00052,Supply Chain,L1,Female,Hyderabad,2022-04-19,Contract,False,2,2023-03-15,Contract ended,Involuntary
+E00053,IT,L1,Female,Mumbai,2023-07-13,Contract,False,5,2024-04-08,Terminated - performance,Involuntary
+E00054,Operations,L1,Male,Gurugram,2024-04-25,Permanent,False,4,,,
+E00055,IT,L4,Male,Bengaluru,2025-04-08,Permanent,False,3,,,
+E00056,Sales,L1,Male,Pune,2023-03-27,Permanent,False,4,,,
+E00057,Operations,L2,Female,Pune,2023-06-13,Contract,False,2,2023-07-13,Resigned - better offer,Voluntary
+E00058,Sales,L2,Male,Mumbai,2022-01-01,Permanent,False,3,2022-06-30,Resigned - career change,Voluntary
+E00059,Operations,L5,Male,Gurugram,2019-05-18,Permanent,False,3,2019-10-15,Resigned - relocation,Voluntary
+E00060,Sales,L4,Male,Hyderabad,2020-05-02,Permanent,True,3,2025-05-06,Resigned - better offer,Voluntary
+E00061,Operations,L1,Male,Bengaluru,2019-10-24,Permanent,False,4,2023-09-03,Resigned - better offer,Voluntary
+E00062,Operations,L4,Female,Gurugram,2024-06-23,Contract,True,3,,,
+E00063,Sales,L2,Female,Pune,2019-10-07,Permanent,False,3,2023-09-16,Resigned - career change,Voluntary
+E00064,Customer Service,L3,Male,Gurugram,2020-04-22,Contract,False,5,2022-03-13,Terminated - performance,Involuntary
+E00065,Finance,L3,Male,Hyderabad,2020-07-30,Permanent,True,5,,,
+E00066,Operations,L1,Male,Gurugram,2024-01-20,Permanent,False,3,,,
+E00067,Operations,L1,Female,Mumbai,2021-03-06,Permanent,False,4,,,
+E00068,Operations,L1,Male,Hyderabad,2022-06-22,Permanent,False,3,2022-10-20,Terminated - performance,Involuntary
+E00069,Supply Chain,L2,Male,Pune,2023-10-02,Permanent,True,5,2024-11-25,Terminated - performance,Involuntary
+E00070,Finance,L2,Male,Gurugram,2022-11-09,Permanent,False,2,2023-12-04,Resigned - better offer,Voluntary
+E00071,Operations,L3,Male,Mumbai,2022-05-17,Contract,True,3,,,
+E00072,Operations,L1,Female,Gurugram,2021-09-06,Permanent,False,4,2022-02-03,Resigned - better offer,Voluntary
+E00073,Finance,L2,Male,Pune,2025-07-28,Permanent,True,5,,,
+E00074,Operations,L2,Female,Hyderabad,2020-06-01,Permanent,False,5,2025-03-07,Terminated - performance,Involuntary
+E00075,Supply Chain,L2,Male,Gurugram,2024-07-17,Permanent,True,4,,,
+E00076,Operations,L3,Female,Mumbai,2020-03-08,Permanent,False,2,2023-03-23,Resigned - career change,Voluntary
+E00077,HR,L2,Female,Hyderabad,2022-05-04,Permanent,False,5,,,
+E00078,Operations,L2,Male,Bengaluru,2023-06-24,Permanent,True,4,2023-11-21,Resigned - better offer,Voluntary
+E00079,Operations,L1,Female,Hyderabad,2021-01-11,Permanent,True,3,2022-11-02,Terminated - performance,Involuntary
+E00080,Finance,L1,Male,Mumbai,2020-12-05,Permanent,False,4,2023-05-24,Resigned - relocation,Voluntary
+E00081,Customer Service,L3,Male,Mumbai,2020-03-09,Permanent,False,5,,,
+E00082,Operations,L3,Female,Gurugram,2019-02-06,Permanent,True,3,2025-12-31,Contract ended,Involuntary
+E00083,IT,L3,Male,Bengaluru,2020-11-02,Permanent,False,3,2024-09-12,Resigned - better offer,Voluntary
+E00084,Sales,L2,Female,Bengaluru,2020-05-06,Contract,False,1,,,
+E00085,Finance,L3,Female,Hyderabad,2023-07-21,Contract,True,3,2024-03-17,Terminated - performance,Involuntary
+E00086,IT,L3,Female,Bengaluru,2025-06-07,Contract,False,4,,,
+E00087,Sales,L1,Female,Bengaluru,2019-03-07,Permanent,False,3,,,
+E00088,Operations,L3,Male,Gurugram,2023-12-20,Permanent,True,3,,,
+E00089,IT,L2,Female,Pune,2021-10-26,Permanent,False,3,,,
+E00090,Sales,L2,Female,Pune,2023-01-19,Permanent,False,3,2024-11-09,Contract ended,Involuntary
+E00091,Finance,L5,Male,Gurugram,2025-09-19,Permanent,True,3,,,
+E00092,Finance,L3,Male,Gurugram,2021-10-21,Permanent,True,4,,,
+E00093,Operations,L5,Male,Hyderabad,2019-10-29,Permanent,False,4,,,
+E00094,Finance,L2,Male,Gurugram,2024-09-16,Contract,False,4,2025-08-12,Resigned - relocation,Voluntary
+E00095,Operations,L2,Female,Mumbai,2025-03-19,Permanent,True,4,2025-07-17,Resigned - better offer,Voluntary
+E00096,Sales,L4,Male,Bengaluru,2020-11-02,Permanent,False,3,2021-06-30,Contract ended,Involuntary
+E00097,Customer Service,L1,Male,Mumbai,2023-01-26,Contract,True,4,2025-03-16,Resigned - better offer,Voluntary
+E00098,IT,L1,Female,Bengaluru,2023-06-03,Permanent,True,3,,,
+E00099,Customer Service,L4,Female,Gurugram,2019-11-26,Permanent,False,4,,,
+E00100,IT,L1,Female,Gurugram,2019-01-31,Permanent,False,3,2022-07-14,Resigned - relocation,Voluntary
+E00101,Supply Chain,L4,Female,Hyderabad,2019-02-25,Permanent,False,3,2022-06-09,Resigned - career change,Voluntary
+E00102,Operations,L2,Male,Gurugram,2023-07-05,Permanent,True,4,,,
+E00103,IT,L1,Male,Mumbai,2023-04-27,Contract,False,2,,,
+E00104,Sales,L3,Male,Bengaluru,2025-10-16,Permanent,False,2,,,
+E00105,Finance,L2,Male,Gurugram,2023-03-09,Permanent,False,4,,,
+E00106,Sales,L1,Male,Gurugram,2023-12-12,Permanent,False,4,2025-07-04,Resigned - better offer,Voluntary
+E00107,Customer Service,L3,Male,Mumbai,2022-04-05,Permanent,False,3,,,
+E00108,Sales,L1,Male,Pune,2019-07-15,Permanent,False,3,2025-06-13,Resigned - better offer,Voluntary
+E00109,Customer Service,L1,Female,Mumbai,2021-05-08,Permanent,False,4,,,
+E00110,IT,L1,Male,Pune,2023-02-17,Permanent,True,4,2023-08-16,Resigned - better offer,Voluntary
+E00111,Sales,L2,Female,Bengaluru,2023-10-27,Permanent,False,2,2024-05-24,Resigned - better offer,Voluntary
+E00112,Customer Service,L2,Female,Mumbai,2021-03-18,Permanent,True,3,2023-02-06,Resigned - better offer,Voluntary
+E00113,Supply Chain,L2,Female,Pune,2019-11-21,Permanent,False,3,,,
+E00114,Finance,L2,Female,Pune,2025-06-03,Permanent,False,2,,,
+E00115,Operations,L1,Male,Hyderabad,2020-08-08,Permanent,False,1,2020-09-07,Contract ended,Involuntary
+E00116,Finance,L4,Female,Pune,2019-02-16,Permanent,False,5,,,
+E00117,Sales,L1,Female,Hyderabad,2021-11-10,Permanent,False,5,,,
+E00118,Sales,L3,Male,Bengaluru,2019-01-31,Permanent,True,3,2021-04-20,Contract ended,Involuntary
+E00119,Sales,L1,Female,Hyderabad,2023-08-04,Permanent,False,4,2023-12-02,Terminated - performance,Involuntary
+E00120,Customer Service,L1,Male,Hyderabad,2019-09-03,Permanent,False,3,2019-12-02,Resigned - career change,Voluntary
+E00121,Operations,L3,Male,Hyderabad,2021-03-05,Permanent,False,4,,,
+E00122,Finance,L2,Female,Gurugram,2021-05-15,Contract,False,3,2024-08-27,Resigned - relocation,Voluntary
+E00123,Sales,L1,Male,Bengaluru,2024-01-10,Permanent,False,3,,,
+E00124,Finance,L4,Male,Pune,2025-02-28,Permanent,True,5,,,
+E00125,Finance,L1,Male,Mumbai,2023-09-23,Contract,True,5,,,
+E00126,Sales,L2,Female,Bengaluru,2022-12-10,Permanent,False,5,2024-06-02,Resigned - relocation,Voluntary
+E00127,Customer Service,L3,Female,Bengaluru,2020-08-06,Permanent,False,4,2021-07-02,Resigned - career change,Voluntary
+E00128,Sales,L3,Male,Pune,2023-08-17,Permanent,False,1,,,
+E00129,Sales,L4,Male,Hyderabad,2024-02-28,Permanent,False,3,,,
+E00130,Sales,L1,Male,Pune,2019-04-24,Permanent,False,3,2023-06-02,Resigned - career change,Voluntary
+E00131,Finance,L2,Male,Gurugram,2023-01-16,Permanent,False,4,,,
+E00132,Operations,L5,Female,Gurugram,2020-03-21,Permanent,False,4,2024-09-26,Resigned - better offer,Voluntary
+E00133,HR,L1,Male,Bengaluru,2019-08-12,Contract,False,3,2020-11-04,Resigned - better offer,Voluntary
+E00134,Supply Chain,L2,Male,Hyderabad,2021-08-28,Permanent,True,3,2021-10-27,Resigned - better offer,Voluntary
+E00135,Sales,L2,Male,Bengaluru,2024-07-20,Permanent,False,1,,,
+E00136,Operations,L4,Male,Mumbai,2023-05-20,Permanent,False,2,,,
+E00137,Sales,L1,Female,Gurugram,2025-03-24,Permanent,False,3,,,
+E00138,HR,L1,Female,Hyderabad,2024-03-31,Contract,False,1,,,
+E00139,Finance,L1,Female,Bengaluru,2021-05-13,Permanent,False,4,,,
+E00140,Supply Chain,L2,Female,Pune,2023-01-05,Permanent,False,3,,,
+E00141,Finance,L3,Female,Mumbai,2021-01-19,Contract,True,4,,,
+E00142,IT,L1,Male,Gurugram,2020-12-13,Permanent,False,1,,,
+E00143,Operations,L3,Male,Gurugram,2023-07-29,Permanent,False,3,2025-01-19,Resigned - better offer,Voluntary
+E00144,Sales,L4,Male,Mumbai,2020-04-02,Permanent,True,3,2021-05-27,Terminated - performance,Involuntary
+E00145,Customer Service,L1,Male,Gurugram,2021-11-25,Permanent,False,2,2022-07-23,Resigned - better offer,Voluntary
+E00146,Sales,L3,Female,Pune,2021-12-11,Permanent,False,3,,,
+E00147,Operations,L4,Female,Hyderabad,2022-07-14,Permanent,False,1,2023-12-06,Resigned - better offer,Voluntary
+E00148,Supply Chain,L3,Male,Mumbai,2020-10-14,Permanent,False,4,2022-02-06,Resigned - better offer,Voluntary
+E00149,Operations,L1,Female,Bengaluru,2020-08-13,Permanent,False,2,2021-09-07,Terminated - performance,Involuntary
+E00150,Sales,L1,Male,Hyderabad,2024-04-21,Permanent,False,4,,,
+E00151,HR,L1,Female,Gurugram,2022-06-28,Permanent,False,2,2023-07-23,Resigned - better offer,Voluntary
+E00152,Sales,L1,Male,Mumbai,2025-03-27,Contract,True,3,2025-05-26,Resigned - relocation,Voluntary
+E00153,Sales,L2,Female,Bengaluru,2022-05-10,Permanent,False,5,2024-08-27,Resigned - better offer,Voluntary
+E00154,Sales,L4,Male,Hyderabad,2024-08-12,Contract,True,2,2025-10-06,Resigned - better offer,Voluntary
+E00155,Sales,L4,Male,Hyderabad,2024-07-31,Contract,False,2,,,
+E00156,Finance,L5,Male,Pune,2019-11-05,Contract,False,4,2024-08-10,Resigned - better offer,Voluntary
+E00157,Sales,L3,Male,Mumbai,2024-09-05,Permanent,False,4,,,
+E00158,Sales,L3,Female,Mumbai,2024-06-30,Permanent,False,2,,,
+E00159,Operations,L1,Female,Pune,2023-05-06,Contract,False,5,,,
+E00160,Finance,L2,Male,Bengaluru,2019-02-08,Permanent,False,3,2023-11-14,Resigned - better offer,Voluntary
+E00161,Finance,L4,Female,Gurugram,2024-12-17,Contract,False,3,,,
+E00162,Sales,L1,Female,Bengaluru,2019-12-11,Permanent,False,1,2022-04-29,Resigned - better offer,Voluntary
+E00163,Operations,L4,Female,Bengaluru,2025-04-11,Permanent,False,3,,,
+E00164,Supply Chain,L3,Female,Bengaluru,2023-11-23,Contract,False,5,2025-08-14,Resigned - better offer,Voluntary
+E00165,IT,L3,Female,Gurugram,2021-06-22,Permanent,False,3,2023-11-09,Resigned - relocation,Voluntary
+E00166,IT,L4,Male,Mumbai,2021-04-01,Permanent,True,3,,,
+E00167,Operations,L3,Male,Bengaluru,2022-11-06,Permanent,True,4,2023-02-04,Resigned - better offer,Voluntary
+E00168,HR,L2,Male,Gurugram,2024-10-10,Permanent,False,3,,,
+E00169,IT,L2,Male,Mumbai,2021-03-18,Contract,False,3,2025-04-26,Resigned - better offer,Voluntary
+E00170,Operations,L3,Male,Bengaluru,2023-10-22,Permanent,False,4,,,
+E00171,Operations,L2,Female,Gurugram,2021-09-28,Permanent,False,2,2023-02-20,Resigned - relocation,Voluntary
+E00172,Sales,L2,Female,Bengaluru,2023-06-21,Permanent,False,1,2023-11-18,Resigned - relocation,Voluntary
+E00173,Sales,L1,Male,Pune,2023-08-04,Contract,True,3,2025-09-22,Terminated - performance,Involuntary
+E00174,Sales,L1,Male,Mumbai,2023-03-12,Permanent,True,3,2023-04-11,Resigned - better offer,Voluntary
+E00175,Supply Chain,L2,Male,Gurugram,2020-07-02,Contract,False,3,2020-11-29,Resigned - relocation,Voluntary
+E00176,Sales,L2,Male,Pune,2025-05-17,Permanent,False,1,,,
+E00177,Customer Service,L5,Male,Pune,2022-12-25,Permanent,False,4,,,
+E00178,Supply Chain,L3,Male,Pune,2024-10-23,Permanent,False,4,,,
+E00179,Finance,L3,Male,Hyderabad,2021-10-23,Contract,True,5,2023-04-16,Resigned - career change,Voluntary
+E00180,Sales,L2,Female,Gurugram,2019-03-16,Permanent,False,2,2021-04-04,Resigned - relocation,Voluntary
+E00181,Supply Chain,L1,Male,Hyderabad,2025-08-30,Contract,False,3,,,
+E00182,IT,L5,Female,Hyderabad,2025-11-16,Permanent,False,3,,,
+E00183,Operations,L1,Male,Gurugram,2024-03-04,Permanent,True,3,,,
+E00184,Sales,L4,Male,Bengaluru,2022-01-04,Contract,False,1,2024-02-23,Resigned - career change,Voluntary
+E00185,Finance,L1,Female,Mumbai,2023-05-17,Permanent,False,1,2023-08-15,Resigned - better offer,Voluntary
+E00186,Sales,L3,Male,Mumbai,2021-01-23,Contract,False,4,2021-04-23,Resigned - better offer,Voluntary
+E00187,Operations,L1,Male,Pune,2020-08-06,Contract,False,2,,,
+E00188,Customer Service,L1,Female,Hyderabad,2025-01-26,Permanent,False,1,,,
+E00189,Sales,L1,Female,Hyderabad,2020-07-23,Permanent,False,4,,,
+E00190,Finance,L4,Female,Mumbai,2025-06-01,Permanent,False,1,,,
+E00191,Sales,L3,Male,Hyderabad,2023-03-25,Permanent,False,4,,,
+E00192,Supply Chain,L3,Male,Pune,2024-05-24,Contract,True,2,2024-10-21,Resigned - better offer,Voluntary
+E00193,Operations,L1,Female,Pune,2020-03-23,Contract,False,3,2020-07-21,Resigned - relocation,Voluntary
+E00194,Sales,L2,Female,Gurugram,2024-01-10,Permanent,False,4,2024-05-09,Resigned - better offer,Voluntary
+E00195,Sales,L1,Female,Hyderabad,2024-01-06,Permanent,True,4,2024-10-02,Resigned - relocation,Voluntary
+E00196,Supply Chain,L1,Female,Mumbai,2019-01-27,Permanent,True,3,2020-06-20,Resigned - career change,Voluntary
+E00197,Sales,L3,Female,Hyderabad,2025-09-16,Contract,False,3,,,
+E00198,Finance,L1,Male,Gurugram,2020-12-06,Permanent,True,2,2021-09-02,Resigned - relocation,Voluntary
+E00199,Sales,L2,Female,Bengaluru,2024-02-14,Permanent,False,5,,,
+E00200,IT,L2,Male,Gurugram,2024-09-01,Permanent,True,3,,,
+E00201,Finance,L4,Female,Pune,2021-01-11,Permanent,False,4,,,
+E00202,Operations,L1,Female,Bengaluru,2025-12-20,Permanent,False,4,,,
+E00203,Customer Service,L2,Male,Pune,2021-08-22,Permanent,False,4,,,
+E00204,Operations,L2,Female,Pune,2020-12-16,Permanent,False,2,,,
+E00205,Customer Service,L4,Male,Bengaluru,2023-04-20,Permanent,False,4,,,
+E00206,Finance,L4,Male,Gurugram,2024-04-24,Permanent,False,4,,,
+E00207,IT,L1,Male,Pune,2025-06-07,Permanent,True,3,2025-09-05,Resigned - better offer,Voluntary
+E00208,Operations,L1,Male,Mumbai,2019-10-16,Permanent,False,3,2021-10-05,Resigned - relocation,Voluntary
+E00209,Sales,L2,Male,Bengaluru,2019-04-24,Permanent,False,4,,,
+E00210,Operations,L1,Female,Gurugram,2024-03-21,Permanent,False,2,2024-07-19,Resigned - career change,Voluntary
+E00211,Supply Chain,L1,Female,Hyderabad,2025-07-17,Permanent,False,2,,,
+E00212,Customer Service,L4,Male,Gurugram,2021-06-28,Permanent,False,1,,,
+E00213,Supply Chain,L2,Male,Bengaluru,2019-03-07,Permanent,False,3,2019-04-06,Resigned - better offer,Voluntary
+E00214,Finance,L4,Male,Mumbai,2019-07-17,Permanent,False,5,,,
+E00215,Operations,L3,Male,Bengaluru,2019-08-16,Permanent,False,4,2022-08-30,Contract ended,Involuntary
+E00216,Finance,L2,Male,Gurugram,2020-03-24,Permanent,True,4,2023-01-08,Resigned - career change,Voluntary
+E00217,Sales,L2,Male,Mumbai,2020-11-14,Permanent,False,3,,,
+E00218,Sales,L5,Male,Gurugram,2022-12-18,Permanent,False,3,2024-01-12,Resigned - better offer,Voluntary
+E00219,Customer Service,L1,Female,Pune,2020-04-10,Contract,False,5,2023-11-21,Resigned - better offer,Voluntary
+E00220,Sales,L1,Female,Bengaluru,2022-04-19,Permanent,True,4,2022-09-16,Resigned - relocation,Voluntary
+E00221,Operations,L1,Male,Pune,2025-10-31,Permanent,False,4,,,
+E00222,Operations,L1,Female,Gurugram,2023-10-19,Contract,False,3,2025-02-10,Resigned - better offer,Voluntary
+E00223,Sales,L2,Male,Hyderabad,2019-03-12,Permanent,False,4,,,
+E00224,Finance,L1,Female,Hyderabad,2021-06-07,Permanent,False,4,2022-08-01,Resigned - career change,Voluntary
+E00225,Sales,L3,Female,Pune,2023-11-20,Permanent,False,3,,,
+E00226,IT,L3,Male,Gurugram,2023-03-01,Contract,True,3,2023-03-31,Resigned - career change,Voluntary
+E00227,Operations,L2,Male,Pune,2021-02-26,Permanent,False,4,2022-03-23,Resigned - better offer,Voluntary
+E00228,Sales,L1,Male,Hyderabad,2021-08-15,Permanent,False,4,,,
+E00229,Sales,L1,Male,Pune,2021-02-19,Permanent,True,3,2022-12-11,Resigned - better offer,Voluntary
+E00230,Sales,L2,Female,Pune,2024-05-12,Contract,False,5,2024-08-10,Resigned - better offer,Voluntary
+E00231,Finance,L2,Female,Mumbai,2024-11-14,Permanent,False,3,,,
+E00232,Operations,L1,Female,Gurugram,2019-01-17,Contract,False,4,2021-02-05,Contract ended,Involuntary
+E00233,Finance,L5,Male,Gurugram,2024-08-01,Permanent,False,5,,,
+E00234,HR,L2,Female,Bengaluru,2023-02-10,Contract,False,3,2025-07-29,Resigned - career change,Voluntary
+E00235,Sales,L1,Female,Gurugram,2022-09-16,Contract,False,1,2025-03-04,Resigned - career change,Voluntary
+E00236,Sales,L1,Male,Mumbai,2023-02-07,Permanent,False,3,2024-03-03,Terminated - performance,Involuntary
+E00237,Operations,L4,Male,Gurugram,2021-01-13,Contract,False,4,,,
+E00238,Sales,L2,Female,Bengaluru,2019-05-29,Contract,False,5,,,
+E00239,Sales,L1,Male,Mumbai,2020-11-17,Permanent,False,3,,,
+E00240,Operations,L3,Male,Pune,2024-05-03,Permanent,False,3,,,
+E00241,Sales,L1,Female,Pune,2024-08-12,Permanent,True,3,,,
+E00242,Operations,L4,Male,Pune,2023-06-07,Permanent,False,3,,,
+E00243,Finance,L5,Male,Pune,2023-01-11,Permanent,False,3,,,
+E00244,Finance,L4,Male,Hyderabad,2025-08-19,Permanent,False,4,,,
+E00245,Operations,L1,Male,Mumbai,2023-11-20,Permanent,False,1,2024-05-18,Resigned - career change,Voluntary
+E00246,Sales,L4,Male,Pune,2020-04-22,Permanent,False,3,2024-09-28,Contract ended,Involuntary
+E00247,Supply Chain,L4,Female,Hyderabad,2023-10-18,Permanent,False,3,,,
+E00248,Operations,L1,Female,Bengaluru,2021-12-19,Permanent,False,1,2022-06-17,Resigned - better offer,Voluntary
+E00249,Finance,L3,Female,Hyderabad,2021-12-09,Permanent,False,1,,,
+E00250,HR,L1,Male,Hyderabad,2025-01-14,Permanent,False,4,,,
+E00251,Sales,L1,Male,Gurugram,2025-12-02,Permanent,False,3,,,
+E00252,Finance,L5,Male,Pune,2025-08-04,Contract,False,4,,,
+E00253,Operations,L1,Female,Pune,2021-06-21,Permanent,False,4,2025-11-27,Resigned - relocation,Voluntary
+E00254,Operations,L4,Female,Pune,2023-10-14,Permanent,True,1,,,
+E00255,Finance,L4,Male,Hyderabad,2022-03-20,Permanent,True,3,,,
+E00256,Operations,L3,Female,Gurugram,2021-06-18,Permanent,False,3,2023-12-05,Resigned - better offer,Voluntary
+E00257,Sales,L1,Male,Bengaluru,2023-11-03,Contract,False,4,,,
+E00258,Sales,L2,Female,Gurugram,2024-03-11,Permanent,False,4,,,
+E00259,Operations,L2,Female,Pune,2022-05-05,Permanent,True,3,,,
+E00260,IT,L3,Male,Mumbai,2022-03-04,Permanent,True,4,2022-09-30,Resigned - career change,Voluntary
+E00261,Sales,L2,Male,Gurugram,2023-08-10,Permanent,False,3,,,
+E00262,IT,L3,Female,Bengaluru,2022-09-25,Permanent,False,3,,,
+E00263,IT,L1,Female,Pune,2024-04-29,Permanent,False,2,,,
+E00264,Operations,L3,Female,Hyderabad,2023-09-24,Permanent,True,3,,,
+E00265,Sales,L1,Female,Pune,2019-04-07,Permanent,False,3,2022-12-17,Resigned - relocation,Voluntary
+E00266,Sales,L2,Female,Bengaluru,2025-06-29,Permanent,False,3,,,
+E00267,Operations,L3,Male,Pune,2025-03-31,Contract,True,3,2025-09-27,Resigned - relocation,Voluntary
+E00268,Operations,L4,Female,Bengaluru,2019-01-23,Permanent,False,3,2023-11-28,Resigned - better offer,Voluntary
+E00269,Sales,L3,Female,Bengaluru,2021-08-20,Permanent,True,3,2022-04-17,Resigned - career change,Voluntary
+E00270,Supply Chain,L4,Male,Mumbai,2023-11-20,Permanent,False,3,,,
+E00271,Sales,L1,Male,Hyderabad,2019-06-06,Permanent,True,4,2020-01-02,Resigned - better offer,Voluntary
+E00272,Sales,L1,Male,Pune,2025-05-21,Permanent,False,3,,,
+E00273,Customer Service,L5,Female,Gurugram,2020-11-05,Permanent,False,3,,,
+E00274,IT,L3,Male,Mumbai,2021-08-12,Permanent,True,3,,,
+E00275,HR,L3,Female,Mumbai,2019-02-21,Permanent,True,4,2019-05-22,Terminated - performance,Involuntary
+E00276,Operations,L4,Female,Mumbai,2020-08-26,Permanent,False,4,,,
+E00277,Sales,L3,Female,Mumbai,2019-05-14,Permanent,False,3,2021-07-02,Resigned - better offer,Voluntary
+E00278,Operations,L3,Male,Mumbai,2022-12-23,Contract,False,3,,,
+E00279,IT,L2,Female,Bengaluru,2025-11-12,Permanent,False,4,,,
+E00280,Sales,L1,Male,Pune,2019-03-18,Permanent,False,3,2022-01-31,Resigned - better offer,Voluntary
+E00281,IT,L1,Male,Pune,2023-03-26,Permanent,False,3,,,
+E00282,Operations,L3,Male,Mumbai,2024-08-14,Permanent,True,2,2024-10-13,Resigned - better offer,Voluntary
+E00283,Customer Service,L5,Female,Gurugram,2024-06-22,Permanent,False,3,,,
+E00284,Sales,L3,Male,Hyderabad,2022-05-29,Permanent,False,3,,,
+E00285,Sales,L2,Female,Gurugram,2020-06-04,Permanent,True,3,2020-07-04,Resigned - better offer,Voluntary
+E00286,Operations,L2,Female,Bengaluru,2023-08-20,Permanent,False,3,2024-03-17,Resigned - better offer,Voluntary
+E00287,Finance,L1,Male,Mumbai,2021-10-06,Permanent,False,3,2024-04-23,Resigned - better offer,Voluntary
+E00288,IT,L2,Female,Hyderabad,2024-06-11,Permanent,False,3,2025-08-05,Resigned - career change,Voluntary
+E00289,Operations,L1,Male,Bengaluru,2022-09-19,Permanent,False,3,2023-01-17,Resigned - relocation,Voluntary
+E00290,Operations,L3,Female,Mumbai,2019-02-20,Permanent,False,5,,,
+E00291,IT,L2,Female,Pune,2024-09-02,Permanent,False,3,,,
+E00292,IT,L2,Male,Bengaluru,2020-04-28,Permanent,False,4,,,
+E00293,Sales,L2,Male,Bengaluru,2022-12-05,Permanent,False,3,,,
+E00294,Supply Chain,L3,Female,Pune,2021-12-01,Permanent,False,5,2022-10-27,Resigned - better offer,Voluntary
+E00295,IT,L2,Male,Pune,2019-10-20,Permanent,True,3,2022-04-07,Contract ended,Involuntary
+E00296,IT,L2,Male,Gurugram,2023-04-05,Contract,False,3,2023-11-01,Resigned - career change,Voluntary
+E00297,Supply Chain,L1,Female,Hyderabad,2025-05-14,Contract,False,3,,,
+E00298,Operations,L4,Male,Pune,2021-07-23,Contract,False,3,,,
+E00299,HR,L1,Male,Hyderabad,2022-08-28,Permanent,False,3,2022-10-27,Resigned - better offer,Voluntary
+E00300,Operations,L2,Male,Mumbai,2020-12-10,Permanent,False,1,,,
+E00301,Finance,L4,Female,Pune,2021-07-18,Permanent,False,3,,,
+E00302,Finance,L1,Male,Bengaluru,2019-03-06,Permanent,True,1,2020-06-28,Resigned - better offer,Voluntary
+E00303,Supply Chain,L2,Female,Gurugram,2024-03-23,Permanent,False,2,,,
+E00304,Finance,L2,Female,Pune,2021-12-25,Permanent,True,3,2024-07-12,Resigned - relocation,Voluntary
+E00305,Sales,L2,Female,Hyderabad,2021-12-08,Permanent,True,1,2024-01-27,Resigned - better offer,Voluntary
+E00306,Operations,L1,Female,Hyderabad,2025-07-23,Permanent,False,4,,,
+E00307,Supply Chain,L5,Male,Hyderabad,2021-10-10,Permanent,True,4,,,
+E00308,Finance,L5,Male,Hyderabad,2019-03-18,Contract,False,3,2019-07-16,Terminated - performance,Involuntary
+E00309,IT,L1,Male,Bengaluru,2024-01-06,Permanent,False,2,,,
+E00310,Finance,L2,Male,Bengaluru,2023-03-11,Permanent,False,4,2025-03-30,Resigned - better offer,Voluntary
+E00311,Supply Chain,L2,Female,Gurugram,2022-06-04,Permanent,True,5,,,
+E00312,Customer Service,L1,Male,Bengaluru,2020-06-04,Permanent,False,4,2021-07-29,Resigned - better offer,Voluntary
+E00313,Finance,L2,Male,Mumbai,2024-03-01,Permanent,False,3,,,
+E00314,Sales,L3,Female,Hyderabad,2025-10-13,Permanent,True,2,,,
+E00315,HR,L1,Female,Bengaluru,2021-04-08,Permanent,False,3,,,
+E00316,IT,L4,Male,Gurugram,2024-08-19,Contract,False,4,,,
+E00317,Customer Service,L3,Male,Bengaluru,2022-02-07,Permanent,False,5,,,
+E00318,Operations,L4,Female,Gurugram,2020-07-04,Permanent,False,5,,,
+E00319,IT,L4,Male,Hyderabad,2021-01-09,Permanent,False,3,,,
+E00320,IT,L3,Male,Pune,2025-10-12,Permanent,True,5,,,
+E00321,Finance,L5,Female,Bengaluru,2020-01-20,Contract,False,4,,,
+E00322,Supply Chain,L2,Male,Mumbai,2021-03-04,Permanent,True,4,2024-05-17,Terminated - performance,Involuntary
+E00323,Finance,L1,Male,Pune,2020-01-22,Permanent,True,3,2020-08-19,Resigned - better offer,Voluntary
+E00324,Sales,L1,Female,Hyderabad,2023-10-27,Permanent,False,3,2025-02-18,Resigned - better offer,Voluntary
+E00325,IT,L2,Male,Mumbai,2021-10-31,Permanent,False,3,2024-05-18,Resigned - better offer,Voluntary
+E00326,Sales,L4,Male,Hyderabad,2020-10-29,Permanent,False,5,,,
+E00327,Sales,L3,Male,Bengaluru,2019-10-30,Permanent,True,4,,,
+E00328,Supply Chain,L2,Female,Hyderabad,2021-01-14,Permanent,False,4,2023-04-04,Resigned - career change,Voluntary
+E00329,Sales,L1,Female,Mumbai,2021-04-25,Permanent,True,2,2022-08-18,Contract ended,Involuntary
+E00330,Sales,L3,Male,Pune,2019-06-12,Contract,True,1,2019-11-09,Contract ended,Involuntary
+E00331,Sales,L2,Male,Bengaluru,2020-02-19,Contract,False,3,2021-04-14,Terminated - performance,Involuntary
+E00332,Sales,L3,Female,Bengaluru,2021-01-19,Permanent,False,2,,,
+E00333,Supply Chain,L2,Male,Mumbai,2023-05-14,Permanent,False,5,2024-07-07,Resigned - relocation,Voluntary
+E00334,HR,L3,Female,Gurugram,2021-11-12,Permanent,False,3,,,
+E00335,HR,L4,Male,Hyderabad,2024-08-14,Permanent,False,3,2025-05-11,Resigned - better offer,Voluntary
+E00336,Customer Service,L2,Female,Hyderabad,2019-03-11,Permanent,False,4,2019-06-09,Resigned - career change,Voluntary
+E00337,Finance,L4,Female,Gurugram,2021-02-04,Permanent,False,4,2022-08-28,Terminated - performance,Involuntary
+E00338,Operations,L2,Male,Pune,2019-01-30,Permanent,False,3,2025-11-24,Resigned - career change,Voluntary
+E00339,Operations,L1,Female,Bengaluru,2019-08-06,Permanent,False,3,,,
+E00340,Operations,L1,Male,Gurugram,2019-01-27,Permanent,False,2,2019-06-26,Resigned - better offer,Voluntary
+E00341,HR,L1,Male,Gurugram,2023-02-18,Permanent,False,4,2025-10-05,Terminated - performance,Involuntary
+E00342,HR,L1,Male,Gurugram,2025-02-22,Permanent,False,3,,,
+E00343,Operations,L1,Female,Bengaluru,2023-05-24,Contract,False,3,,,
+E00344,Sales,L1,Male,Hyderabad,2021-11-23,Permanent,False,4,,,
+E00345,HR,L2,Male,Bengaluru,2020-12-30,Permanent,False,4,,,
+E00346,Sales,L3,Female,Gurugram,2025-05-26,Permanent,False,4,,,
+E00347,IT,L2,Female,Gurugram,2023-10-30,Permanent,True,3,2024-07-26,Resigned - better offer,Voluntary
+E00348,Customer Service,L4,Male,Gurugram,2022-05-08,Permanent,False,3,,,
+E00349,Sales,L2,Male,Pune,2024-06-23,Permanent,False,4,,,
+E00350,Finance,L5,Male,Gurugram,2022-11-26,Permanent,True,2,,,
+E00351,Sales,L4,Male,Pune,2019-08-07,Contract,False,3,2020-05-03,Resigned - relocation,Voluntary
+E00352,Operations,L4,Male,Bengaluru,2021-08-06,Permanent,True,5,,,
+E00353,Operations,L2,Female,Hyderabad,2025-04-12,Contract,False,5,,,
+E00354,Customer Service,L1,Male,Hyderabad,2024-06-12,Permanent,False,4,,,
+E00355,Finance,L2,Female,Gurugram,2019-08-25,Permanent,False,1,2020-03-22,Resigned - career change,Voluntary
+E00356,Sales,L2,Male,Bengaluru,2021-05-25,Permanent,False,3,,,
+E00357,Finance,L2,Female,Bengaluru,2025-05-18,Permanent,False,4,,,
+E00358,Sales,L4,Male,Gurugram,2024-08-21,Permanent,False,3,,,
+E00359,Operations,L2,Male,Pune,2019-07-29,Permanent,True,3,2022-09-11,Resigned - better offer,Voluntary
+E00360,Sales,L1,Male,Pune,2021-09-25,Permanent,False,3,2023-09-15,Terminated - performance,Involuntary
+E00361,Sales,L1,Male,Hyderabad,2019-11-09,Permanent,False,2,2022-11-23,Terminated - performance,Involuntary
+E00362,IT,L2,Female,Mumbai,2019-11-21,Permanent,False,3,,,
+E00363,IT,L5,Female,Gurugram,2020-08-02,Permanent,False,3,,,
+E00364,IT,L2,Female,Gurugram,2021-11-30,Permanent,False,3,2025-03-14,Resigned - better offer,Voluntary
+E00365,Operations,L2,Male,Hyderabad,2021-08-20,Permanent,False,3,,,
+E00366,HR,L2,Male,Pune,2019-03-16,Permanent,True,2,2019-06-14,Resigned - career change,Voluntary
+E00367,Operations,L4,Female,Mumbai,2023-06-17,Contract,True,3,2024-11-08,Resigned - better offer,Voluntary
+E00368,Finance,L2,Female,Hyderabad,2021-09-14,Permanent,False,5,2022-07-11,Contract ended,Involuntary
+E00369,Supply Chain,L3,Male,Mumbai,2021-05-21,Permanent,True,3,2023-06-10,Terminated - performance,Involuntary
+E00370,Sales,L1,Male,Mumbai,2021-09-13,Permanent,False,4,2021-12-12,Terminated - performance,Involuntary
+E00371,Sales,L2,Male,Gurugram,2020-07-23,Contract,False,5,2020-10-21,Resigned - better offer,Voluntary
+E00372,Supply Chain,L2,Female,Pune,2023-12-10,Permanent,False,5,2025-11-29,Resigned - career change,Voluntary
+E00373,Operations,L2,Male,Gurugram,2022-06-30,Permanent,True,3,2025-05-15,Contract ended,Involuntary
+E00374,Finance,L2,Male,Mumbai,2025-12-22,Permanent,False,1,,,
+E00375,IT,L1,Male,Mumbai,2025-07-27,Permanent,True,3,,,
+E00376,Supply Chain,L1,Male,Hyderabad,2020-02-01,Permanent,True,4,,,
+E00377,IT,L4,Female,Bengaluru,2020-06-10,Permanent,True,4,,,
+E00378,Sales,L2,Male,Mumbai,2023-04-03,Permanent,False,3,2023-08-31,Resigned - career change,Voluntary
+E00379,Finance,L1,Male,Mumbai,2022-06-14,Permanent,True,4,2022-10-12,Resigned - better offer,Voluntary
+E00380,Sales,L3,Female,Gurugram,2024-11-04,Permanent,False,5,,,
+E00381,Sales,L1,Female,Gurugram,2023-06-02,Permanent,True,4,,,
+E00382,Operations,L2,Male,Bengaluru,2023-10-06,Contract,False,5,,,
+E00383,Operations,L1,Female,Mumbai,2021-09-22,Permanent,False,3,,,
+E00384,Operations,L5,Female,Hyderabad,2020-08-18,Contract,False,3,2022-03-11,Contract ended,Involuntary
+E00385,Operations,L2,Male,Pune,2020-10-06,Contract,False,4,,,
+E00386,Supply Chain,L2,Female,Pune,2021-12-06,Permanent,False,4,,,
+E00387,IT,L3,Female,Bengaluru,2022-10-11,Permanent,False,3,2025-04-28,Resigned - better offer,Voluntary
+E00388,Operations,L1,Male,Mumbai,2025-07-07,Permanent,True,3,2025-11-04,Terminated - performance,Involuntary
+E00389,Sales,L5,Female,Hyderabad,2024-06-03,Permanent,False,3,,,
+E00390,Customer Service,L1,Male,Gurugram,2022-08-19,Permanent,False,3,,,
+E00391,Sales,L1,Male,Mumbai,2023-12-09,Permanent,False,3,2024-03-08,Resigned - better offer,Voluntary
+E00392,Sales,L2,Male,Hyderabad,2023-09-20,Permanent,True,3,,,
+E00393,IT,L2,Female,Pune,2019-11-04,Permanent,False,4,,,
+E00394,Finance,L4,Male,Bengaluru,2021-02-26,Permanent,False,2,,,
+E00395,Finance,L2,Male,Mumbai,2023-10-22,Permanent,False,5,,,
+E00396,Supply Chain,L3,Male,Mumbai,2024-07-13,Permanent,False,2,,,
+E00397,Sales,L2,Male,Pune,2019-12-28,Contract,True,4,2023-01-11,Resigned - better offer,Voluntary
+E00398,Sales,L2,Male,Hyderabad,2022-12-04,Permanent,False,4,2025-08-20,Resigned - better offer,Voluntary
+E00399,HR,L2,Female,Gurugram,2023-08-08,Permanent,False,3,,,
+E00400,Finance,L1,Male,Hyderabad,2024-06-29,Contract,False,4,,,
+E00401,Operations,L2,Female,Pune,2025-09-04,Permanent,False,5,,,
+E00402,HR,L1,Female,Bengaluru,2020-12-15,Permanent,False,1,2022-02-08,Terminated - performance,Involuntary
+E00403,HR,L2,Female,Hyderabad,2020-03-17,Contract,False,3,2020-12-12,Resigned - career change,Voluntary
+E00404,IT,L1,Male,Gurugram,2020-08-15,Permanent,True,4,,,
+E00405,IT,L1,Female,Mumbai,2025-10-15,Permanent,False,4,2025-12-14,Terminated - performance,Involuntary
+E00406,Operations,L4,Male,Bengaluru,2020-04-05,Permanent,True,4,,,
+E00407,IT,L3,Male,Pune,2021-04-29,Permanent,False,3,2025-11-04,Resigned - career change,Voluntary
+E00408,Sales,L1,Male,Hyderabad,2023-02-26,Permanent,False,3,2024-09-18,Resigned - better offer,Voluntary
+E00409,Sales,L3,Male,Hyderabad,2021-07-03,Permanent,False,1,,,
+E00410,Operations,L1,Male,Pune,2019-07-21,Permanent,True,3,2023-05-01,Resigned - better offer,Voluntary
+E00411,Operations,L1,Female,Mumbai,2020-02-04,Contract,False,3,,,
+E00412,Supply Chain,L2,Male,Hyderabad,2021-05-31,Permanent,True,2,2022-11-22,Resigned - career change,Voluntary
+E00413,Supply Chain,L1,Male,Pune,2025-03-02,Permanent,False,3,2025-07-30,Resigned - career change,Voluntary
+E00414,Customer Service,L2,Male,Bengaluru,2023-08-22,Permanent,True,1,2024-05-18,Resigned - better offer,Voluntary
+E00415,Customer Service,L1,Female,Bengaluru,2020-05-08,Permanent,False,2,2024-04-17,Contract ended,Involuntary
+E00416,Supply Chain,L2,Male,Pune,2020-12-09,Permanent,False,3,2024-02-22,Resigned - career change,Voluntary
+E00417,IT,L2,Female,Hyderabad,2025-08-12,Permanent,False,4,,,
+E00418,Sales,L3,Male,Hyderabad,2020-10-24,Permanent,False,3,2023-03-13,Resigned - relocation,Voluntary
+E00419,IT,L5,Male,Hyderabad,2020-11-06,Contract,False,3,,,
+E00420,Sales,L3,Male,Bengaluru,2020-08-19,Contract,False,5,2024-09-27,Resigned - career change,Voluntary
+E00421,Finance,L3,Male,Mumbai,2019-10-11,Permanent,True,3,2019-11-10,Resigned - better offer,Voluntary
+E00422,HR,L3,Female,Bengaluru,2022-04-21,Contract,False,1,2025-08-03,Resigned - career change,Voluntary
+E00423,Supply Chain,L3,Male,Bengaluru,2025-04-23,Contract,True,2,,,
+E00424,HR,L3,Male,Pune,2024-04-12,Permanent,False,2,,,
+E00425,Sales,L2,Female,Gurugram,2023-07-05,Permanent,False,3,2025-12-21,Resigned - relocation,Voluntary
+E00426,Operations,L4,Female,Pune,2020-11-03,Permanent,False,3,,,
+E00427,IT,L3,Male,Bengaluru,2024-02-15,Permanent,False,3,,,
+E00428,Sales,L4,Male,Hyderabad,2022-09-19,Permanent,True,3,2025-08-04,Resigned - better offer,Voluntary
+E00429,Operations,L3,Male,Bengaluru,2023-06-01,Permanent,False,4,,,
+E00430,Supply Chain,L1,Female,Pune,2025-11-30,Permanent,False,3,,,
+E00431,Sales,L3,Female,Mumbai,2025-05-09,Permanent,True,3,,,
+E00432,Operations,L3,Female,Bengaluru,2022-07-01,Permanent,True,3,,,
+E00433,Operations,L2,Female,Gurugram,2023-05-16,Permanent,False,3,,,
+E00434,IT,L2,Female,Hyderabad,2020-11-18,Permanent,False,2,2025-03-27,Resigned - relocation,Voluntary
+E00435,Supply Chain,L2,Male,Gurugram,2023-06-08,Permanent,False,2,2025-02-27,Resigned - better offer,Voluntary
+E00436,IT,L5,Female,Mumbai,2024-11-08,Permanent,True,4,,,
+E00437,Supply Chain,L2,Male,Mumbai,2020-01-26,Contract,False,3,2023-08-08,Terminated - performance,Involuntary
+E00438,Finance,L3,Male,Hyderabad,2025-04-27,Permanent,True,3,,,
+E00439,Operations,L2,Male,Bengaluru,2019-01-20,Permanent,False,5,2021-08-07,Resigned - relocation,Voluntary
+E00440,HR,L2,Female,Gurugram,2024-03-18,Permanent,False,3,,,
+E00441,Customer Service,L1,Male,Mumbai,2020-10-21,Permanent,False,3,2024-04-03,Terminated - performance,Involuntary
+E00442,IT,L1,Male,Mumbai,2021-04-09,Contract,False,2,,,
+E00443,IT,L1,Female,Hyderabad,2021-08-27,Contract,False,3,2025-09-05,Terminated - performance,Involuntary
+E00444,Sales,L1,Female,Hyderabad,2022-06-30,Permanent,False,3,2025-12-11,Resigned - relocation,Voluntary
+E00445,Operations,L3,Male,Pune,2023-05-10,Permanent,False,3,,,
+E00446,HR,L2,Female,Mumbai,2021-03-30,Permanent,False,3,2021-10-26,Terminated - performance,Involuntary
+E00447,Finance,L3,Male,Hyderabad,2022-07-05,Permanent,False,4,,,
+E00448,Sales,L2,Female,Mumbai,2025-06-11,Permanent,False,5,2025-10-09,Contract ended,Involuntary
+E00449,Sales,L3,Female,Hyderabad,2023-08-31,Permanent,False,4,,,
+E00450,Operations,L2,Male,Pune,2019-01-28,Permanent,False,4,2024-02-01,Resigned - better offer,Voluntary
+E00451,IT,L2,Male,Bengaluru,2023-02-20,Permanent,True,4,,,
+E00452,Operations,L1,Male,Gurugram,2025-02-07,Permanent,False,1,,,
+E00453,Sales,L2,Female,Bengaluru,2023-05-08,Contract,False,3,,,
+E00454,Operations,L2,Female,Bengaluru,2020-10-28,Permanent,False,3,,,
+E00455,Supply Chain,L1,Female,Gurugram,2021-01-10,Permanent,True,3,2021-06-09,Resigned - relocation,Voluntary
+E00456,Operations,L2,Female,Gurugram,2020-01-10,Contract,True,5,2023-08-22,Resigned - career change,Voluntary
+E00457,Finance,L1,Male,Hyderabad,2023-07-13,Permanent,False,3,2023-08-12,Contract ended,Involuntary
+E00458,IT,L1,Male,Hyderabad,2024-11-11,Contract,False,4,,,
+E00459,HR,L1,Male,Mumbai,2021-12-19,Permanent,False,4,2023-02-12,Resigned - career change,Voluntary
+E00460,Sales,L4,Male,Mumbai,2024-07-12,Permanent,True,2,,,
+E00461,Sales,L2,Male,Pune,2022-08-24,Permanent,False,4,,,
+E00462,Finance,L1,Female,Gurugram,2019-04-13,Permanent,False,3,2024-01-17,Contract ended,Involuntary
+E00463,HR,L2,Female,Pune,2019-01-14,Permanent,True,3,2019-04-14,Resigned - relocation,Voluntary
+E00464,Supply Chain,L1,Male,Pune,2021-01-22,Contract,False,3,2022-05-17,Resigned - better offer,Voluntary
+E00465,IT,L1,Male,Hyderabad,2023-05-17,Permanent,False,4,,,
+E00466,IT,L4,Female,Pune,2019-08-28,Permanent,True,3,,,
+E00467,Sales,L1,Male,Bengaluru,2022-07-06,Permanent,False,3,,,
+E00468,Customer Service,L1,Male,Hyderabad,2024-03-19,Permanent,True,3,2024-06-17,Resigned - better offer,Voluntary
+E00469,IT,L1,Male,Gurugram,2025-05-17,Permanent,True,2,2025-11-13,Terminated - performance,Involuntary
+E00470,Sales,L1,Male,Hyderabad,2025-04-24,Contract,False,3,,,
+E00471,Operations,L1,Male,Mumbai,2020-04-25,Permanent,False,3,,,
+E00472,Supply Chain,L2,Male,Bengaluru,2021-01-12,Permanent,True,4,2024-07-25,Resigned - career change,Voluntary
+E00473,Supply Chain,L3,Female,Gurugram,2019-03-30,Permanent,False,3,,,
+E00474,IT,L2,Female,Pune,2021-06-26,Permanent,False,2,2022-03-23,Resigned - better offer,Voluntary
+E00475,Sales,L3,Male,Bengaluru,2021-10-26,Permanent,False,3,2023-10-16,Terminated - performance,Involuntary
+E00476,Supply Chain,L3,Male,Gurugram,2019-03-26,Permanent,True,3,2020-06-18,Resigned - relocation,Voluntary
+E00477,IT,L2,Male,Mumbai,2025-01-18,Permanent,True,1,,,
+E00478,Operations,L1,Female,Hyderabad,2019-09-14,Permanent,False,3,2021-12-02,Resigned - career change,Voluntary
+E00479,Operations,L3,Male,Hyderabad,2022-04-17,Permanent,False,4,,,
+E00480,Operations,L5,Male,Mumbai,2019-06-13,Permanent,False,3,,,
+E00481,Supply Chain,L5,Male,Bengaluru,2019-02-04,Contract,False,1,2019-04-05,Resigned - better offer,Voluntary
+E00482,IT,L1,Female,Hyderabad,2024-01-21,Permanent,True,3,,,
+E00483,Finance,L4,Male,Pune,2020-12-01,Permanent,False,3,,,
+E00484,Operations,L1,Female,Bengaluru,2020-06-13,Permanent,False,2,,,
+E00485,Operations,L1,Male,Gurugram,2020-08-20,Permanent,False,4,2021-03-18,Resigned - relocation,Voluntary
+E00486,Finance,L2,Female,Hyderabad,2022-04-03,Permanent,False,3,,,
+E00487,Operations,L3,Female,Mumbai,2019-08-22,Permanent,True,2,2021-06-12,Resigned - better offer,Voluntary
+E00488,IT,L2,Male,Pune,2020-11-21,Permanent,False,3,2025-02-28,Resigned - better offer,Voluntary
+E00489,Sales,L1,Male,Hyderabad,2025-06-30,Permanent,True,2,,,
+E00490,Operations,L1,Male,Pune,2022-08-18,Permanent,False,3,2024-08-07,Contract ended,Involuntary
+E00491,Finance,L1,Male,Gurugram,2025-08-22,Permanent,False,3,,,
+E00492,Sales,L2,Female,Bengaluru,2022-11-15,Permanent,True,4,2023-02-13,Resigned - career change,Voluntary
+E00493,Operations,L3,Male,Hyderabad,2020-09-22,Permanent,False,3,2024-10-31,Resigned - better offer,Voluntary
+E00494,Sales,L2,Female,Gurugram,2021-06-03,Permanent,False,2,2021-11-30,Contract ended,Involuntary
+E00495,Sales,L5,Male,Pune,2023-09-11,Permanent,False,3,,,
+E00496,Supply Chain,L3,Female,Bengaluru,2020-11-02,Permanent,False,3,,,
+E00497,Customer Service,L2,Female,Bengaluru,2019-09-18,Permanent,False,4,2020-02-15,Resigned - better offer,Voluntary
+E00498,Supply Chain,L2,Male,Bengaluru,2025-05-04,Permanent,False,3,,,
+E00499,Sales,L2,Female,Mumbai,2019-07-28,Permanent,False,4,2020-07-22,Resigned - career change,Voluntary
+E00500,Supply Chain,L1,Female,Pune,2025-07-12,Permanent,True,4,,,
+E00501,Sales,L2,Male,Gurugram,2024-12-20,Permanent,False,3,,,
+E00502,HR,L3,Female,Mumbai,2022-04-06,Permanent,False,3,2024-02-25,Contract ended,Involuntary
+E00503,Operations,L2,Female,Pune,2019-06-04,Permanent,False,2,2022-01-19,Resigned - better offer,Voluntary
+E00504,Finance,L1,Male,Bengaluru,2021-10-11,Contract,True,1,2022-06-08,Resigned - better offer,Voluntary
+E00505,Operations,L2,Male,Mumbai,2020-05-25,Permanent,False,5,2023-01-10,Resigned - relocation,Voluntary
+E00506,HR,L1,Male,Hyderabad,2022-08-14,Permanent,False,5,2025-06-29,Resigned - better offer,Voluntary
+E00507,Sales,L1,Female,Gurugram,2021-06-19,Permanent,True,5,2022-02-14,Resigned - better offer,Voluntary
+E00508,IT,L1,Male,Bengaluru,2022-10-13,Permanent,False,3,,,
+E00509,HR,L2,Male,Pune,2020-04-12,Contract,False,4,2025-08-14,Resigned - better offer,Voluntary
+E00510,Customer Service,L2,Male,Hyderabad,2025-09-07,Permanent,False,3,,,
+E00511,HR,L1,Male,Gurugram,2020-07-14,Permanent,True,3,,,
+E00512,Operations,L3,Female,Hyderabad,2022-01-10,Permanent,False,3,,,
+E00513,Finance,L4,Male,Hyderabad,2019-02-24,Permanent,True,3,2020-02-19,Contract ended,Involuntary
+E00514,Customer Service,L2,Female,Mumbai,2021-05-25,Permanent,False,3,,,
+E00515,Customer Service,L1,Female,Gurugram,2023-11-24,Permanent,False,3,,,
+E00516,Customer Service,L3,Male,Bengaluru,2025-08-19,Permanent,True,4,,,
+E00517,Operations,L3,Female,Hyderabad,2021-05-09,Contract,True,5,2024-01-24,Resigned - better offer,Voluntary
+E00518,HR,L1,Male,Gurugram,2023-07-13,Permanent,False,3,2024-03-09,Resigned - better offer,Voluntary
+E00519,Operations,L2,Female,Gurugram,2021-07-13,Permanent,False,4,2023-02-03,Resigned - relocation,Voluntary
+E00520,Operations,L1,Male,Gurugram,2019-12-08,Permanent,True,4,2020-07-05,Resigned - career change,Voluntary
+E00521,Supply Chain,L3,Female,Gurugram,2024-01-31,Permanent,True,3,2025-01-25,Resigned - better offer,Voluntary
+E00522,Finance,L2,Female,Gurugram,2022-10-26,Permanent,False,2,2023-02-23,Resigned - better offer,Voluntary
+E00523,Finance,L4,Female,Hyderabad,2024-01-26,Contract,False,3,,,
+E00524,Supply Chain,L2,Female,Pune,2024-09-18,Contract,False,5,2024-11-17,Terminated - performance,Involuntary
+E00525,Sales,L1,Female,Gurugram,2020-05-28,Contract,False,4,,,
+E00526,Supply Chain,L4,Male,Bengaluru,2022-12-10,Permanent,False,3,,,
+E00527,Sales,L1,Male,Pune,2021-10-13,Permanent,True,3,2022-01-11,Resigned - better offer,Voluntary
+E00528,Sales,L2,Male,Hyderabad,2020-11-03,Permanent,True,4,2021-04-02,Resigned - better offer,Voluntary
+E00529,Finance,L2,Male,Pune,2022-05-28,Contract,False,2,,,
+E00530,Customer Service,L2,Female,Hyderabad,2021-07-14,Permanent,False,2,,,
+E00531,Finance,L3,Female,Bengaluru,2024-09-22,Permanent,False,2,,,
+E00532,Operations,L3,Female,Pune,2024-02-04,Permanent,False,3,2024-09-01,Resigned - better offer,Voluntary
+E00533,Sales,L3,Female,Bengaluru,2025-03-18,Permanent,False,3,,,
+E00534,Sales,L1,Male,Bengaluru,2022-11-20,Permanent,True,3,2023-10-16,Contract ended,Involuntary
+E00535,IT,L2,Male,Bengaluru,2020-10-11,Contract,False,1,2024-04-23,Contract ended,Involuntary
+E00536,Supply Chain,L1,Male,Mumbai,2019-02-11,Permanent,False,5,,,
+E00537,IT,L1,Female,Hyderabad,2021-08-21,Contract,False,4,2025-04-02,Resigned - better offer,Voluntary
+E00538,Operations,L1,Female,Hyderabad,2021-03-29,Contract,False,3,2023-03-19,Resigned - relocation,Voluntary
+E00539,Sales,L3,Male,Mumbai,2022-07-02,Permanent,False,3,2025-04-17,Terminated - performance,Involuntary
+E00540,IT,L2,Male,Hyderabad,2024-03-02,Permanent,True,3,,,
+E00541,Supply Chain,L2,Male,Hyderabad,2022-08-28,Permanent,True,3,2023-05-25,Resigned - better offer,Voluntary
+E00542,Customer Service,L3,Female,Mumbai,2019-06-06,Permanent,True,3,,,
+E00543,IT,L3,Female,Hyderabad,2021-02-13,Permanent,False,5,,,
+E00544,Finance,L3,Female,Gurugram,2021-10-22,Permanent,False,1,2022-10-17,Resigned - relocation,Voluntary
+E00545,IT,L2,Female,Mumbai,2024-02-08,Permanent,False,3,,,
+E00546,Sales,L3,Male,Mumbai,2022-11-24,Permanent,False,3,,,
+E00547,Operations,L1,Female,Mumbai,2024-10-04,Contract,True,3,2025-08-30,Resigned - career change,Voluntary
+E00548,Operations,L3,Male,Mumbai,2021-02-10,Permanent,False,2,,,
+E00549,Operations,L1,Male,Bengaluru,2019-08-19,Permanent,False,3,2023-07-29,Resigned - relocation,Voluntary
+E00550,Supply Chain,L1,Female,Bengaluru,2023-10-16,Permanent,False,4,2024-02-13,Contract ended,Involuntary
+E00551,Supply Chain,L3,Female,Pune,2024-08-03,Contract,True,2,,,
+E00552,Sales,L4,Female,Hyderabad,2019-06-15,Permanent,False,3,2020-10-07,Contract ended,Involuntary
+E00553,IT,L1,Male,Pune,2023-04-01,Permanent,True,2,2024-06-24,Resigned - better offer,Voluntary
+E00554,HR,L1,Female,Mumbai,2025-07-12,Permanent,False,2,,,
+E00555,Operations,L2,Female,Bengaluru,2024-06-30,Permanent,True,5,2024-08-29,Resigned - better offer,Voluntary
+E00556,Sales,L2,Female,Gurugram,2024-04-12,Contract,True,3,2025-03-08,Resigned - relocation,Voluntary
+E00557,Supply Chain,L1,Male,Gurugram,2022-02-12,Permanent,True,3,2022-05-13,Contract ended,Involuntary
+E00558,Sales,L1,Male,Mumbai,2025-02-12,Permanent,False,4,,,
+E00559,Sales,L2,Male,Pune,2020-04-14,Permanent,False,3,,,
+E00560,Operations,L1,Male,Gurugram,2022-08-24,Permanent,True,2,2023-06-20,Terminated - performance,Involuntary
+E00561,Sales,L2,Male,Mumbai,2022-01-14,Permanent,False,4,,,
+E00562,Supply Chain,L1,Female,Gurugram,2022-04-01,Permanent,False,3,2023-12-22,Terminated - performance,Involuntary
+E00563,Sales,L3,Female,Gurugram,2020-01-24,Permanent,False,3,2025-03-28,Resigned - better offer,Voluntary
+E00564,Operations,L2,Female,Gurugram,2021-02-26,Permanent,True,3,2022-07-21,Resigned - better offer,Voluntary
+E00565,Sales,L3,Male,Pune,2025-07-24,Contract,False,4,,,
+E00566,Finance,L4,Female,Bengaluru,2019-09-14,Contract,False,4,2019-12-13,Resigned - career change,Voluntary
+E00567,Sales,L4,Male,Hyderabad,2024-03-11,Permanent,True,3,2025-12-31,Contract ended,Involuntary
+E00568,IT,L3,Male,Gurugram,2022-08-11,Permanent,False,4,,,
+E00569,Customer Service,L2,Female,Bengaluru,2024-07-23,Permanent,False,2,,,
+E00570,Sales,L3,Male,Mumbai,2021-03-01,Permanent,False,3,2024-06-13,Contract ended,Involuntary
+E00571,Sales,L2,Male,Mumbai,2019-06-24,Permanent,False,4,2023-09-01,Contract ended,Involuntary
+E00572,Sales,L3,Female,Hyderabad,2025-01-13,Permanent,False,4,,,
+E00573,Operations,L2,Male,Bengaluru,2022-08-23,Contract,False,3,,,
+E00574,Supply Chain,L2,Male,Hyderabad,2020-02-23,Permanent,False,2,2020-12-19,Contract ended,Involuntary
+E00575,Sales,L1,Male,Hyderabad,2020-11-30,Permanent,False,3,,,
+E00576,Operations,L3,Female,Gurugram,2019-04-15,Permanent,False,4,,,
+E00577,HR,L1,Male,Pune,2023-01-13,Permanent,False,3,,,
+E00578,IT,L3,Male,Mumbai,2024-07-03,Contract,False,4,,,
+E00579,Supply Chain,L4,Female,Mumbai,2022-10-12,Permanent,True,2,2025-03-30,Contract ended,Involuntary
+E00580,Finance,L2,Male,Bengaluru,2025-11-05,Contract,False,3,,,
+E00581,Operations,L3,Male,Mumbai,2023-09-05,Contract,False,3,,,
+E00582,Operations,L1,Female,Hyderabad,2022-01-06,Permanent,False,3,2023-08-29,Resigned - better offer,Voluntary
+E00583,Customer Service,L4,Male,Mumbai,2024-08-03,Permanent,False,3,,,
+E00584,IT,L1,Male,Gurugram,2025-01-29,Permanent,True,3,,,
+E00585,Finance,L1,Male,Gurugram,2020-09-07,Permanent,False,4,2022-12-26,Terminated - performance,Involuntary
+E00586,Sales,L2,Male,Gurugram,2024-01-07,Contract,True,3,,,
+E00587,Finance,L1,Male,Bengaluru,2023-09-08,Contract,False,3,2024-12-31,Resigned - better offer,Voluntary
+E00588,Sales,L1,Male,Pune,2024-06-28,Permanent,False,5,,,
+E00589,Operations,L1,Male,Bengaluru,2023-06-09,Contract,False,3,2024-04-04,Resigned - better offer,Voluntary
+E00590,HR,L4,Female,Hyderabad,2023-02-12,Permanent,False,2,2023-07-12,Resigned - better offer,Voluntary
+E00591,Sales,L4,Female,Gurugram,2021-12-22,Permanent,False,3,,,
+E00592,Operations,L2,Female,Gurugram,2022-07-15,Permanent,False,5,,,
+E00593,Supply Chain,L2,Male,Hyderabad,2024-10-02,Permanent,False,1,,,
+E00594,Customer Service,L1,Male,Mumbai,2023-05-25,Permanent,False,2,2024-02-19,Resigned - better offer,Voluntary
+E00595,HR,L2,Female,Gurugram,2025-11-23,Permanent,False,2,,,
+E00596,Operations,L3,Male,Gurugram,2024-07-24,Contract,False,2,,,
+E00597,Customer Service,L1,Female,Hyderabad,2025-12-16,Permanent,False,5,,,
+E00598,Supply Chain,L2,Female,Bengaluru,2025-08-20,Permanent,False,2,,,
+E00599,IT,L1,Female,Gurugram,2021-12-24,Permanent,False,4,2023-04-18,Terminated - performance,Involuntary
+E00600,Sales,L1,Male,Pune,2025-03-19,Permanent,False,3,,,
+E00601,IT,L1,Male,Bengaluru,2025-05-20,Permanent,False,5,,,
+E00602,Operations,L1,Female,Bengaluru,2024-02-13,Contract,True,3,2024-11-09,Resigned - better offer,Voluntary
+E00603,Operations,L4,Male,Gurugram,2024-12-30,Permanent,False,1,,,
+E00604,Supply Chain,L3,Female,Pune,2025-06-29,Contract,True,2,,,
+E00605,Finance,L1,Male,Mumbai,2024-06-18,Permanent,False,3,,,
+E00606,Sales,L3,Male,Hyderabad,2019-03-10,Permanent,False,3,,,
+E00607,Finance,L5,Female,Hyderabad,2020-09-08,Permanent,False,4,,,
+E00608,IT,L2,Male,Gurugram,2019-01-28,Permanent,False,3,2020-01-23,Resigned - career change,Voluntary
+E00609,IT,L1,Male,Gurugram,2024-06-26,Permanent,False,4,,,
+E00610,Supply Chain,L3,Male,Mumbai,2020-10-11,Permanent,False,3,,,
+E00611,Supply Chain,L5,Male,Hyderabad,2025-05-19,Contract,True,2,,,
+E00612,Operations,L2,Male,Bengaluru,2019-01-18,Permanent,True,1,2019-09-15,Resigned - relocation,Voluntary
+E00613,IT,L2,Male,Hyderabad,2023-09-17,Permanent,False,2,2025-10-06,Terminated - performance,Involuntary
+E00614,Sales,L1,Male,Hyderabad,2022-11-28,Permanent,False,3,,,
+E00615,HR,L1,Female,Hyderabad,2023-05-05,Contract,False,5,,,
+E00616,Customer Service,L1,Male,Gurugram,2020-05-19,Contract,False,2,2020-12-15,Resigned - career change,Voluntary
+E00617,Finance,L4,Female,Pune,2024-11-09,Permanent,False,2,,,
+E00618,Operations,L3,Male,Gurugram,2025-02-14,Permanent,False,3,,,
+E00619,Customer Service,L1,Female,Gurugram,2025-12-06,Permanent,False,2,,,
+E00620,Finance,L1,Female,Pune,2019-09-03,Permanent,False,2,2020-09-27,Resigned - relocation,Voluntary
+E00621,Sales,L1,Female,Bengaluru,2023-11-10,Contract,True,3,,,
+E00622,Operations,L1,Male,Pune,2024-05-24,Permanent,False,1,,,
+E00623,Operations,L2,Female,Mumbai,2024-05-31,Permanent,True,5,2025-12-22,Resigned - better offer,Voluntary
+E00624,HR,L4,Male,Bengaluru,2019-06-04,Contract,False,2,2025-03-04,Resigned - career change,Voluntary
+E00625,HR,L2,Female,Pune,2019-11-21,Permanent,True,2,2022-08-07,Resigned - career change,Voluntary
+E00626,Customer Service,L1,Female,Bengaluru,2025-07-21,Permanent,True,3,,,
+E00627,Customer Service,L4,Male,Hyderabad,2019-11-08,Permanent,True,3,,,
+E00628,Supply Chain,L2,Male,Gurugram,2021-07-16,Permanent,True,3,,,
+E00629,IT,L1,Male,Bengaluru,2022-03-18,Permanent,False,4,,,
+E00630,Finance,L1,Male,Bengaluru,2020-12-11,Permanent,True,4,2022-02-04,Contract ended,Involuntary
+E00631,Sales,L5,Male,Gurugram,2023-12-08,Contract,False,3,,,
+E00632,IT,L4,Male,Gurugram,2021-03-29,Permanent,False,4,,,
+E00633,Finance,L3,Female,Hyderabad,2025-02-13,Permanent,False,3,,,
+E00634,HR,L1,Female,Bengaluru,2023-12-03,Permanent,False,4,,,
+E00635,Sales,L3,Male,Bengaluru,2020-12-11,Contract,False,4,2024-03-25,Terminated - performance,Involuntary
+E00636,Sales,L1,Female,Gurugram,2025-01-16,Permanent,True,3,,,
+E00637,Supply Chain,L4,Male,Gurugram,2023-01-04,Permanent,False,4,,,
+E00638,Sales,L1,Female,Hyderabad,2023-09-04,Contract,False,3,,,
+E00639,Operations,L1,Male,Hyderabad,2021-02-13,Contract,False,2,2024-01-29,Terminated - performance,Involuntary
+E00640,Supply Chain,L2,Female,Gurugram,2019-12-25,Permanent,False,2,2024-01-03,Terminated - performance,Involuntary
+E00641,IT,L3,Female,Gurugram,2022-05-21,Permanent,True,5,2022-11-17,Resigned - better offer,Voluntary
+E00642,Sales,L2,Female,Hyderabad,2021-08-11,Contract,False,3,,,
+E00643,IT,L2,Male,Bengaluru,2019-01-16,Permanent,False,4,2023-09-22,Resigned - better offer,Voluntary
+E00644,IT,L4,Male,Hyderabad,2022-05-26,Permanent,False,2,,,
+E00645,Operations,L1,Male,Gurugram,2020-04-08,Permanent,False,3,,,
+E00646,Sales,L1,Male,Mumbai,2020-11-26,Contract,False,4,2022-05-20,Resigned - career change,Voluntary
+E00647,Sales,L2,Male,Pune,2019-05-24,Permanent,True,1,2020-12-14,Resigned - better offer,Voluntary
+E00648,Supply Chain,L2,Female,Gurugram,2025-07-10,Permanent,True,4,,,
+E00649,Customer Service,L2,Female,Hyderabad,2023-01-17,Contract,False,4,2023-04-17,Resigned - career change,Voluntary
+E00650,IT,L1,Female,Bengaluru,2023-12-09,Permanent,True,3,,,
+E00651,Operations,L2,Male,Hyderabad,2020-04-17,Permanent,True,2,2020-12-13,Resigned - better offer,Voluntary
+E00652,IT,L1,Female,Mumbai,2023-11-24,Permanent,True,3,2025-01-17,Resigned - relocation,Voluntary
+E00653,IT,L2,Female,Gurugram,2022-11-08,Permanent,False,4,2025-06-25,Resigned - better offer,Voluntary
+E00654,Supply Chain,L3,Female,Pune,2020-09-24,Permanent,True,4,2022-05-17,Terminated - performance,Involuntary
+E00655,Operations,L1,Male,Mumbai,2022-05-29,Permanent,False,2,2022-07-28,Terminated - performance,Involuntary
+E00656,Sales,L1,Female,Mumbai,2022-09-15,Contract,False,4,,,
+E00657,Sales,L3,Female,Hyderabad,2024-03-24,Permanent,False,3,,,
+E00658,Supply Chain,L4,Female,Gurugram,2020-08-15,Permanent,True,5,2022-12-03,Resigned - better offer,Voluntary
+E00659,Operations,L1,Male,Gurugram,2025-03-08,Permanent,False,4,2025-09-04,Resigned - relocation,Voluntary
+E00660,IT,L4,Male,Mumbai,2021-04-02,Permanent,True,3,,,
+E00661,IT,L4,Male,Bengaluru,2023-08-03,Contract,False,4,,,
+E00662,IT,L3,Female,Bengaluru,2024-06-03,Permanent,False,4,,,
+E00663,HR,L3,Male,Gurugram,2024-06-30,Contract,True,5,,,
+E00664,Operations,L1,Male,Gurugram,2020-09-28,Permanent,False,3,2022-11-17,Resigned - better offer,Voluntary
+E00665,Sales,L3,Male,Gurugram,2021-06-17,Permanent,False,2,2025-02-26,Resigned - better offer,Voluntary
+E00666,Supply Chain,L1,Female,Gurugram,2023-10-07,Permanent,False,4,,,
+E00667,IT,L1,Male,Mumbai,2021-03-12,Permanent,False,1,,,
+E00668,IT,L4,Male,Hyderabad,2020-09-07,Permanent,True,4,2023-04-25,Resigned - relocation,Voluntary
+E00669,Operations,L2,Male,Gurugram,2025-01-26,Permanent,False,5,,,
+E00670,Finance,L4,Male,Gurugram,2024-07-15,Permanent,False,2,,,
+E00671,Operations,L2,Male,Hyderabad,2020-04-07,Permanent,False,3,,,
+E00672,Finance,L1,Male,Bengaluru,2020-02-13,Contract,False,4,2020-09-10,Resigned - better offer,Voluntary
+E00673,Sales,L3,Male,Mumbai,2021-10-07,Permanent,False,4,2025-05-19,Resigned - better offer,Voluntary
+E00674,Operations,L3,Female,Pune,2025-03-03,Permanent,True,3,,,
+E00675,Sales,L5,Male,Pune,2021-04-21,Permanent,False,4,2024-06-04,Resigned - relocation,Voluntary
+E00676,Operations,L3,Female,Hyderabad,2019-05-13,Permanent,False,2,2024-12-12,Resigned - better offer,Voluntary
+E00677,Sales,L4,Female,Bengaluru,2023-06-05,Permanent,False,3,,,
+E00678,Supply Chain,L2,Female,Gurugram,2020-06-28,Permanent,True,5,,,
+E00679,Finance,L1,Male,Pune,2022-01-06,Permanent,False,3,2024-08-23,Resigned - better offer,Voluntary
+E00680,Sales,L5,Female,Pune,2023-08-03,Permanent,False,4,,,
+E00681,Supply Chain,L1,Female,Hyderabad,2021-06-02,Permanent,False,4,2024-07-16,Terminated - performance,Involuntary
+E00682,IT,L2,Male,Mumbai,2021-07-05,Contract,True,4,2022-06-30,Resigned - better offer,Voluntary
+E00683,Finance,L1,Female,Gurugram,2021-11-16,Permanent,True,2,2023-02-09,Resigned - career change,Voluntary
+E00684,Finance,L2,Male,Hyderabad,2020-02-20,Contract,True,4,2020-11-16,Resigned - relocation,Voluntary
+E00685,Supply Chain,L1,Male,Gurugram,2020-03-06,Permanent,False,2,2025-03-10,Resigned - better offer,Voluntary
+E00686,Supply Chain,L1,Male,Bengaluru,2020-01-18,Permanent,True,5,2021-10-09,Resigned - better offer,Voluntary
+E00687,IT,L5,Male,Bengaluru,2025-05-10,Permanent,False,2,,,
+E00688,Operations,L2,Male,Gurugram,2022-08-26,Permanent,True,4,,,
+E00689,Supply Chain,L1,Male,Gurugram,2021-10-03,Permanent,False,3,2022-05-01,Resigned - better offer,Voluntary
+E00690,Operations,L1,Female,Gurugram,2021-02-23,Permanent,False,4,2024-01-09,Resigned - better offer,Voluntary
+E00691,Operations,L3,Female,Hyderabad,2023-02-21,Permanent,False,2,,,
+E00692,Finance,L1,Male,Mumbai,2025-04-21,Permanent,False,1,,,
+E00693,Customer Service,L1,Female,Gurugram,2024-10-31,Permanent,False,3,,,
+E00694,Sales,L3,Male,Bengaluru,2024-03-19,Permanent,False,3,,,
+E00695,Customer Service,L2,Male,Mumbai,2025-09-29,Permanent,False,3,,,
+E00696,Operations,L2,Male,Bengaluru,2022-06-03,Contract,False,2,,,
+E00697,Sales,L3,Male,Hyderabad,2025-07-27,Permanent,True,2,2025-11-24,Resigned - better offer,Voluntary
+E00698,Operations,L1,Female,Mumbai,2023-07-21,Permanent,False,2,,,
+E00699,Supply Chain,L3,Male,Hyderabad,2024-02-26,Permanent,False,3,2025-06-20,Terminated - performance,Involuntary
+E00700,Supply Chain,L2,Female,Gurugram,2020-07-24,Permanent,True,1,2023-05-10,Resigned - better offer,Voluntary
+E00701,IT,L2,Female,Bengaluru,2021-10-14,Contract,False,2,,,
+E00702,Sales,L3,Male,Pune,2022-01-04,Permanent,False,3,2023-09-26,Terminated - performance,Involuntary
+E00703,Sales,L4,Female,Pune,2019-06-03,Contract,False,4,,,
+E00704,Operations,L2,Female,Pune,2024-08-21,Contract,False,3,,,
+E00705,IT,L1,Male,Hyderabad,2021-03-06,Permanent,False,3,2023-06-24,Resigned - relocation,Voluntary
+E00706,IT,L1,Male,Pune,2025-04-20,Permanent,False,5,,,
+E00707,Sales,L2,Female,Pune,2020-03-26,Permanent,False,4,2020-11-21,Resigned - better offer,Voluntary
+E00708,HR,L2,Male,Bengaluru,2020-01-14,Permanent,False,3,,,
+E00709,Sales,L4,Male,Hyderabad,2023-09-03,Contract,False,4,,,
+E00710,Sales,L1,Female,Mumbai,2021-03-27,Permanent,True,3,2022-01-21,Contract ended,Involuntary
+E00711,Customer Service,L4,Female,Bengaluru,2023-10-16,Permanent,True,4,2024-07-12,Contract ended,Involuntary
+E00712,Operations,L2,Female,Pune,2024-05-26,Contract,False,2,,,
+E00713,Supply Chain,L5,Male,Hyderabad,2020-07-21,Permanent,False,2,2021-09-14,Resigned - better offer,Voluntary
+E00714,HR,L1,Male,Bengaluru,2020-12-31,Contract,False,3,2021-04-30,Contract ended,Involuntary
+E00715,Operations,L1,Male,Hyderabad,2019-03-03,Permanent,False,5,2022-11-12,Terminated - performance,Involuntary
+E00716,Supply Chain,L3,Male,Mumbai,2021-05-12,Permanent,False,4,2022-08-05,Resigned - better offer,Voluntary
+E00717,HR,L1,Female,Gurugram,2022-02-20,Contract,False,4,2022-10-18,Resigned - relocation,Voluntary
+E00718,Supply Chain,L2,Female,Hyderabad,2019-09-07,Permanent,False,4,2020-10-31,Resigned - better offer,Voluntary
+E00719,Operations,L2,Female,Hyderabad,2024-09-30,Permanent,False,4,,,
+E00720,Operations,L4,Male,Mumbai,2024-11-02,Contract,False,3,,,
+E00721,Sales,L3,Male,Bengaluru,2019-08-14,Contract,False,3,2022-06-29,Terminated - performance,Involuntary
+E00722,Finance,L3,Male,Hyderabad,2019-10-09,Permanent,False,2,2020-04-06,Resigned - better offer,Voluntary
+E00723,Operations,L1,Male,Mumbai,2022-02-16,Permanent,False,5,,,
+E00724,IT,L4,Male,Pune,2023-09-17,Permanent,True,3,,,
+E00725,Finance,L1,Female,Gurugram,2021-06-04,Permanent,True,4,2022-05-30,Resigned - better offer,Voluntary
+E00726,Sales,L1,Female,Pune,2019-08-23,Permanent,False,3,,,
+E00727,Operations,L4,Male,Gurugram,2021-11-23,Contract,True,3,2023-12-13,Resigned - relocation,Voluntary
+E00728,Sales,L2,Female,Bengaluru,2020-11-04,Permanent,True,3,2021-09-30,Resigned - better offer,Voluntary
+E00729,Operations,L2,Male,Hyderabad,2024-06-06,Permanent,True,3,,,
+E00730,Sales,L1,Male,Mumbai,2025-06-18,Permanent,False,3,,,
+E00731,Operations,L3,Male,Gurugram,2024-10-26,Permanent,True,5,,,
+E00732,Sales,L3,Female,Hyderabad,2019-11-03,Permanent,False,3,2023-01-16,Terminated - performance,Involuntary
+E00733,Operations,L4,Female,Bengaluru,2022-10-11,Permanent,True,3,2023-03-10,Resigned - better offer,Voluntary
+E00734,Sales,L4,Female,Gurugram,2024-06-23,Permanent,True,2,,,
+E00735,IT,L2,Female,Pune,2020-09-11,Permanent,False,4,2021-08-07,Resigned - better offer,Voluntary
+E00736,Supply Chain,L3,Female,Mumbai,2020-07-07,Permanent,False,3,,,
+E00737,Supply Chain,L1,Female,Bengaluru,2025-06-28,Permanent,False,3,,,
+E00738,Finance,L5,Male,Bengaluru,2024-09-28,Permanent,False,3,,,
+E00739,IT,L3,Female,Gurugram,2019-01-13,Contract,False,3,,,
+E00740,IT,L2,Male,Pune,2021-04-29,Permanent,False,4,2024-03-14,Resigned - relocation,Voluntary
+E00741,Supply Chain,L1,Male,Gurugram,2019-09-13,Permanent,False,1,2020-01-11,Resigned - career change,Voluntary
+E00742,IT,L1,Male,Hyderabad,2022-10-06,Permanent,True,4,2025-05-23,Resigned - career change,Voluntary
+E00743,IT,L2,Female,Mumbai,2019-03-14,Permanent,True,2,2020-04-07,Contract ended,Involuntary
+E00744,Finance,L3,Male,Bengaluru,2024-09-05,Permanent,True,5,,,
+E00745,Sales,L2,Male,Mumbai,2022-05-19,Contract,True,3,,,
+E00746,HR,L5,Male,Gurugram,2019-08-17,Permanent,False,3,,,
+E00747,IT,L1,Male,Gurugram,2025-11-16,Contract,False,3,,,
+E00748,Operations,L5,Female,Hyderabad,2021-08-25,Permanent,True,3,,,
+E00749,IT,L2,Male,Gurugram,2024-10-23,Permanent,False,4,,,
+E00750,Operations,L1,Female,Mumbai,2025-04-23,Permanent,False,1,,,
+E00751,Finance,L2,Male,Bengaluru,2021-11-09,Permanent,False,3,,,
+E00752,Supply Chain,L1,Male,Hyderabad,2020-11-05,Contract,False,3,2021-12-30,Terminated - performance,Involuntary
+E00753,Operations,L1,Male,Mumbai,2025-08-24,Contract,False,4,,,
+E00754,Supply Chain,L1,Female,Pune,2022-12-19,Permanent,True,3,,,
+E00755,Sales,L1,Female,Mumbai,2020-05-02,Permanent,True,4,2025-05-06,Resigned - better offer,Voluntary
+E00756,Operations,L1,Male,Hyderabad,2025-05-12,Permanent,False,2,,,
+E00757,Operations,L2,Male,Hyderabad,2020-09-30,Contract,False,3,2025-10-04,Contract ended,Involuntary
+E00758,Finance,L2,Female,Mumbai,2023-12-02,Permanent,False,4,,,
+E00759,Supply Chain,L1,Male,Pune,2019-06-10,Contract,False,3,2020-12-01,Terminated - performance,Involuntary
+E00760,Customer Service,L3,Male,Hyderabad,2025-05-27,Permanent,False,4,,,
+E00761,Customer Service,L2,Female,Bengaluru,2024-09-20,Permanent,False,3,,,
+E00762,Operations,L1,Male,Hyderabad,2022-11-14,Permanent,False,3,2025-12-28,Resigned - better offer,Voluntary
+E00763,Customer Service,L4,Male,Pune,2022-12-17,Permanent,False,3,2023-10-13,Resigned - relocation,Voluntary
+E00764,Operations,L1,Male,Mumbai,2023-09-07,Contract,False,3,2024-02-04,Resigned - better offer,Voluntary
+E00765,Finance,L2,Female,Hyderabad,2021-12-09,Permanent,False,3,,,
+E00766,HR,L2,Female,Hyderabad,2019-06-14,Permanent,False,2,2024-07-17,Resigned - relocation,Voluntary
+E00767,IT,L1,Female,Gurugram,2020-07-10,Permanent,False,3,2021-06-05,Resigned - better offer,Voluntary
+E00768,IT,L2,Female,Mumbai,2025-08-02,Contract,False,2,,,
+E00769,Customer Service,L5,Male,Hyderabad,2023-07-10,Contract,True,4,2023-11-07,Resigned - better offer,Voluntary
+E00770,Operations,L5,Male,Bengaluru,2021-12-08,Contract,False,1,2022-08-05,Resigned - better offer,Voluntary
+E00771,Finance,L1,Female,Mumbai,2019-04-18,Permanent,False,5,2019-05-18,Resigned - relocation,Voluntary
+E00772,Operations,L1,Male,Gurugram,2022-09-26,Contract,False,3,,,
+E00773,HR,L4,Male,Pune,2025-02-28,Permanent,True,2,,,
+E00774,Operations,L2,Male,Mumbai,2022-09-18,Permanent,False,3,2025-10-02,Resigned - career change,Voluntary
+E00775,Sales,L2,Male,Bengaluru,2019-06-02,Permanent,False,3,,,
+E00776,Finance,L2,Female,Hyderabad,2021-03-12,Permanent,False,4,2025-02-19,Resigned - better offer,Voluntary
+E00777,Finance,L1,Male,Bengaluru,2019-04-10,Contract,False,2,2022-04-24,Resigned - career change,Voluntary
+E00778,Sales,L3,Male,Bengaluru,2025-09-09,Permanent,False,3,,,
+E00779,Finance,L3,Male,Pune,2020-01-04,Permanent,True,2,2021-03-29,Resigned - better offer,Voluntary
+E00780,Operations,L1,Female,Hyderabad,2023-08-04,Permanent,True,3,,,
+E00781,IT,L3,Male,Hyderabad,2019-08-01,Permanent,False,5,2019-10-30,Resigned - better offer,Voluntary
+E00782,Supply Chain,L1,Male,Gurugram,2022-09-14,Permanent,False,4,,,
+E00783,Operations,L3,Female,Bengaluru,2025-04-01,Contract,False,3,,,
+E00784,Supply Chain,L3,Female,Mumbai,2020-01-25,Permanent,False,3,,,
+E00785,Finance,L2,Female,Hyderabad,2023-06-08,Contract,False,5,2025-03-29,Resigned - better offer,Voluntary
+E00786,Supply Chain,L1,Male,Bengaluru,2024-02-08,Permanent,False,2,,,
+E00787,IT,L2,Male,Gurugram,2019-02-23,Contract,False,5,,,
+E00788,Operations,L1,Female,Mumbai,2023-06-23,Permanent,False,3,,,
+E00789,Sales,L3,Male,Hyderabad,2019-12-01,Permanent,False,2,,,
+E00790,Supply Chain,L4,Male,Pune,2025-08-14,Permanent,False,5,,,
+E00791,Sales,L3,Male,Pune,2023-05-18,Contract,True,3,2024-04-12,Resigned - better offer,Voluntary
+E00792,Operations,L1,Male,Bengaluru,2022-12-24,Permanent,False,3,,,
+E00793,Supply Chain,L2,Female,Gurugram,2019-03-31,Permanent,False,3,2023-01-09,Resigned - better offer,Voluntary
+E00794,Operations,L2,Female,Hyderabad,2021-04-19,Permanent,True,2,2021-07-18,Resigned - career change,Voluntary
+E00795,Operations,L1,Female,Mumbai,2021-10-11,Permanent,False,3,2025-09-20,Resigned - relocation,Voluntary
+E00796,HR,L1,Female,Pune,2023-05-15,Permanent,False,2,2024-07-08,Resigned - better offer,Voluntary
+E00797,Customer Service,L3,Female,Hyderabad,2022-05-31,Contract,True,5,,,
+E00798,Sales,L1,Female,Gurugram,2020-01-14,Permanent,False,3,2025-04-17,Resigned - better offer,Voluntary
+E00799,Sales,L1,Male,Hyderabad,2020-01-22,Permanent,False,3,,,
+E00800,Customer Service,L2,Male,Pune,2020-08-02,Permanent,True,3,,,
+E00801,IT,L1,Female,Gurugram,2019-01-22,Permanent,True,3,2021-02-10,Resigned - career change,Voluntary
+E00802,IT,L1,Male,Mumbai,2023-01-03,Permanent,True,4,2023-07-02,Terminated - performance,Involuntary
+E00803,Operations,L1,Male,Mumbai,2020-07-18,Permanent,False,3,2023-02-03,Contract ended,Involuntary
+E00804,IT,L2,Female,Gurugram,2023-07-01,Permanent,False,4,,,
+E00805,Sales,L5,Male,Mumbai,2022-12-15,Permanent,False,3,2023-02-13,Contract ended,Involuntary
+E00806,HR,L2,Female,Pune,2025-09-29,Permanent,True,3,,,
+E00807,IT,L2,Female,Pune,2023-07-13,Contract,False,3,,,
+E00808,Sales,L3,Male,Pune,2019-04-05,Permanent,False,3,,,
+E00809,Operations,L3,Female,Gurugram,2019-03-10,Permanent,True,2,2022-05-23,Terminated - performance,Involuntary
+E00810,HR,L3,Male,Mumbai,2025-02-12,Permanent,False,4,,,
+E00811,Sales,L1,Male,Pune,2019-03-22,Permanent,False,5,,,
+E00812,IT,L2,Male,Pune,2021-10-31,Permanent,False,3,,,
+E00813,Sales,L1,Female,Hyderabad,2020-01-31,Permanent,False,2,2023-04-15,Resigned - better offer,Voluntary
+E00814,Sales,L2,Male,Bengaluru,2019-03-21,Permanent,False,2,,,
+E00815,Sales,L4,Female,Bengaluru,2021-12-09,Permanent,False,4,,,
+E00816,Sales,L3,Male,Hyderabad,2021-10-09,Permanent,True,4,,,
+E00817,Finance,L5,Male,Pune,2025-05-11,Contract,True,4,2025-08-09,Resigned - better offer,Voluntary
+E00818,Operations,L4,Female,Mumbai,2023-03-07,Contract,False,5,,,
+E00819,Sales,L2,Male,Hyderabad,2023-01-01,Permanent,False,3,2024-06-24,Resigned - better offer,Voluntary
+E00820,Sales,L2,Female,Pune,2021-07-29,Permanent,False,3,2025-06-08,Resigned - relocation,Voluntary
+E00821,Supply Chain,L2,Female,Hyderabad,2023-05-10,Contract,False,4,,,
+E00822,Operations,L1,Male,Gurugram,2021-06-14,Permanent,False,3,2022-01-10,Resigned - better offer,Voluntary
+E00823,HR,L4,Male,Mumbai,2023-07-14,Permanent,True,4,,,
+E00824,Sales,L3,Male,Hyderabad,2024-09-10,Permanent,False,4,2025-07-07,Resigned - better offer,Voluntary
+E00825,Supply Chain,L1,Female,Mumbai,2022-12-28,Permanent,True,3,2024-02-21,Terminated - performance,Involuntary
+E00826,Operations,L3,Male,Pune,2021-12-19,Contract,True,4,2025-07-31,Contract ended,Involuntary
+E00827,Sales,L1,Female,Gurugram,2021-09-17,Permanent,False,3,,,
+E00828,Sales,L1,Male,Mumbai,2025-09-08,Permanent,False,3,,,
+E00829,Operations,L3,Female,Gurugram,2019-09-20,Permanent,False,3,,,
+E00830,Supply Chain,L4,Male,Hyderabad,2020-10-21,Permanent,False,3,,,
+E00831,Sales,L2,Male,Pune,2020-09-17,Permanent,False,3,2025-05-24,Contract ended,Involuntary
+E00832,IT,L1,Male,Bengaluru,2019-09-09,Permanent,True,3,2024-09-12,Resigned - better offer,Voluntary
+E00833,Sales,L1,Male,Hyderabad,2025-02-21,Permanent,False,4,,,
+E00834,Customer Service,L3,Male,Bengaluru,2022-05-18,Permanent,False,3,2024-12-03,Resigned - relocation,Voluntary
+E00835,HR,L1,Male,Hyderabad,2019-05-01,Contract,False,1,2019-05-31,Resigned - better offer,Voluntary
+E00836,Finance,L2,Male,Hyderabad,2024-02-03,Permanent,False,4,,,
+E00837,Sales,L2,Female,Gurugram,2020-09-25,Permanent,False,4,,,
+E00838,Sales,L1,Female,Mumbai,2021-06-13,Permanent,True,3,2023-01-04,Resigned - career change,Voluntary
+E00839,Sales,L2,Female,Hyderabad,2024-02-25,Contract,False,1,,,
+E00840,Operations,L1,Male,Gurugram,2020-09-14,Permanent,False,4,2024-10-23,Resigned - better offer,Voluntary
+E00841,Sales,L1,Female,Gurugram,2024-10-27,Permanent,False,3,,,
+E00842,Finance,L1,Male,Gurugram,2022-12-03,Permanent,False,4,,,
+E00843,Finance,L2,Male,Pune,2024-08-09,Permanent,False,4,,,
+E00844,Operations,L2,Male,Bengaluru,2024-09-24,Permanent,False,2,,,
+E00845,IT,L2,Female,Hyderabad,2024-06-04,Contract,True,5,,,
+E00846,Supply Chain,L1,Male,Mumbai,2023-01-08,Permanent,False,3,,,
+E00847,Sales,L2,Male,Hyderabad,2019-01-07,Permanent,True,3,2022-11-17,Resigned - better offer,Voluntary
+E00848,IT,L1,Female,Gurugram,2023-03-12,Permanent,False,2,,,
+E00849,Sales,L2,Female,Pune,2024-01-11,Permanent,False,5,,,
+E00850,Sales,L2,Male,Bengaluru,2021-10-06,Permanent,True,3,,,
+E00851,Sales,L3,Male,Bengaluru,2021-08-02,Permanent,True,3,2023-09-21,Resigned - better offer,Voluntary
+E00852,Operations,L5,Male,Mumbai,2023-07-27,Permanent,False,5,,,
+E00853,Sales,L2,Male,Bengaluru,2022-07-27,Permanent,True,4,,,
+E00854,Operations,L1,Male,Mumbai,2024-04-22,Permanent,False,3,,,
+E00855,HR,L1,Male,Bengaluru,2021-01-25,Permanent,True,2,2024-04-09,Resigned - career change,Voluntary
+E00856,Supply Chain,L1,Female,Mumbai,2019-07-20,Permanent,False,2,2021-03-11,Resigned - relocation,Voluntary
+E00857,Sales,L4,Male,Bengaluru,2022-11-04,Permanent,True,3,,,
+E00858,Operations,L1,Male,Mumbai,2025-10-28,Permanent,False,4,,,
+E00859,Sales,L1,Male,Mumbai,2025-05-20,Permanent,False,3,,,
+E00860,IT,L4,Male,Gurugram,2022-01-07,Permanent,False,3,2023-10-29,Resigned - better offer,Voluntary
+E00861,Operations,L2,Male,Pune,2022-12-05,Permanent,False,3,,,
+E00862,HR,L1,Male,Bengaluru,2022-03-15,Contract,False,3,2025-05-28,Resigned - better offer,Voluntary
+E00863,Finance,L1,Male,Gurugram,2023-12-06,Permanent,False,2,2024-09-01,Resigned - better offer,Voluntary
+E00864,Sales,L2,Male,Bengaluru,2022-06-16,Permanent,True,5,,,
+E00865,Finance,L2,Female,Pune,2023-11-21,Permanent,False,4,,,
+E00866,Operations,L2,Male,Gurugram,2024-02-12,Permanent,True,4,2024-04-12,Resigned - better offer,Voluntary
+E00867,Sales,L3,Male,Bengaluru,2019-05-13,Permanent,False,3,,,
+E00868,Operations,L1,Male,Hyderabad,2022-04-15,Permanent,True,3,2023-04-10,Resigned - career change,Voluntary
+E00869,Sales,L2,Male,Hyderabad,2019-07-04,Contract,True,3,,,
+E00870,Supply Chain,L1,Male,Mumbai,2023-03-27,Permanent,False,1,,,
+E00871,Sales,L2,Male,Gurugram,2019-06-15,Permanent,False,2,2022-08-28,Contract ended,Involuntary
+E00872,Supply Chain,L4,Female,Mumbai,2021-01-29,Permanent,False,2,,,
+E00873,Supply Chain,L5,Male,Gurugram,2025-07-07,Contract,True,4,,,
+E00874,HR,L3,Male,Pune,2020-10-09,Permanent,True,3,,,
+E00875,Sales,L2,Female,Mumbai,2025-06-17,Permanent,False,3,,,
+E00876,Sales,L1,Male,Pune,2022-08-01,Permanent,True,4,,,
+E00877,Customer Service,L1,Female,Gurugram,2019-10-30,Permanent,False,3,,,
+E00878,Operations,L3,Female,Pune,2019-11-02,Permanent,True,5,2020-04-30,Resigned - better offer,Voluntary
+E00879,Sales,L2,Male,Mumbai,2020-12-11,Permanent,False,3,,,
+E00880,Finance,L2,Male,Gurugram,2019-04-30,Contract,False,3,,,
+E00881,Finance,L1,Male,Mumbai,2024-07-11,Permanent,False,3,,,
+E00882,IT,L1,Male,Mumbai,2023-12-17,Permanent,True,3,2024-06-14,Resigned - relocation,Voluntary
+E00883,Sales,L1,Female,Bengaluru,2024-03-28,Permanent,False,1,,,
+E00884,Sales,L1,Female,Bengaluru,2020-01-05,Permanent,False,3,2021-09-26,Resigned - relocation,Voluntary
+E00885,IT,L4,Male,Hyderabad,2023-08-03,Permanent,True,2,,,
+E00886,Operations,L1,Female,Hyderabad,2023-05-11,Permanent,True,3,,,
+E00887,Operations,L2,Female,Bengaluru,2020-04-15,Permanent,True,3,2022-07-04,Resigned - career change,Voluntary
+E00888,Supply Chain,L2,Male,Pune,2025-06-04,Permanent,True,2,,,
+E00889,Operations,L4,Male,Pune,2019-04-12,Permanent,False,3,,,
+E00890,Sales,L3,Female,Bengaluru,2024-10-26,Permanent,False,3,,,
+E00891,Customer Service,L1,Male,Pune,2019-03-23,Permanent,False,2,2020-09-13,Resigned - career change,Voluntary
+E00892,Operations,L4,Male,Pune,2019-09-29,Contract,True,5,2025-12-26,Resigned - better offer,Voluntary
+E00893,Supply Chain,L3,Male,Pune,2025-02-01,Contract,True,3,,,
+E00894,Sales,L3,Male,Hyderabad,2022-04-03,Contract,False,5,,,
+E00895,Sales,L3,Male,Gurugram,2024-08-09,Permanent,True,4,,,
+E00896,Operations,L4,Male,Gurugram,2022-11-06,Permanent,False,1,,,
+E00897,Operations,L4,Male,Pune,2022-11-14,Permanent,False,2,,,
+E00898,Sales,L3,Male,Pune,2021-05-30,Permanent,True,3,2022-03-26,Contract ended,Involuntary
+E00899,Customer Service,L2,Female,Bengaluru,2020-08-09,Permanent,False,3,,,
+E00900,IT,L2,Male,Mumbai,2021-07-26,Permanent,False,3,2021-10-24,Contract ended,Involuntary
+E00901,Supply Chain,L4,Female,Hyderabad,2021-05-29,Permanent,False,4,,,
+E00902,Customer Service,L1,Female,Pune,2025-09-06,Permanent,False,3,,,
+E00903,Supply Chain,L4,Male,Gurugram,2019-12-31,Permanent,False,3,,,
+E00904,Customer Service,L3,Female,Mumbai,2020-02-07,Permanent,False,2,2023-01-22,Resigned - better offer,Voluntary
+E00905,Sales,L2,Male,Hyderabad,2022-10-14,Permanent,False,4,,,
+E00906,Operations,L2,Male,Bengaluru,2024-12-05,Permanent,True,3,,,
+E00907,Supply Chain,L3,Female,Mumbai,2023-03-30,Permanent,False,3,,,
+E00908,Customer Service,L1,Male,Bengaluru,2024-06-16,Permanent,True,3,2024-10-14,Resigned - better offer,Voluntary
+E00909,Sales,L2,Male,Gurugram,2019-01-18,Permanent,True,3,2020-02-12,Contract ended,Involuntary
+E00910,Sales,L1,Female,Bengaluru,2020-04-14,Permanent,False,3,2024-10-20,Terminated - performance,Involuntary
+E00911,IT,L2,Male,Pune,2019-12-15,Permanent,False,2,2024-12-18,Resigned - better offer,Voluntary
+E00912,HR,L3,Male,Bengaluru,2021-08-01,Permanent,False,2,2025-05-12,Resigned - better offer,Voluntary
+E00913,Operations,L2,Male,Hyderabad,2021-01-01,Permanent,False,3,,,
+E00914,Finance,L3,Male,Gurugram,2022-09-01,Permanent,False,4,2024-02-23,Resigned - better offer,Voluntary
+E00915,Operations,L2,Male,Bengaluru,2024-11-19,Permanent,False,3,,,
+E00916,Sales,L4,Male,Mumbai,2025-04-24,Contract,False,5,,,
+E00917,Finance,L3,Female,Gurugram,2020-05-15,Permanent,False,3,2022-12-01,Resigned - better offer,Voluntary
+E00918,Finance,L1,Male,Pune,2019-01-02,Permanent,False,4,2019-05-02,Contract ended,Involuntary
+E00919,HR,L2,Female,Pune,2019-05-29,Contract,False,3,2023-03-09,Resigned - better offer,Voluntary
+E00920,Customer Service,L5,Female,Bengaluru,2025-04-01,Permanent,True,3,,,
+E00921,Sales,L2,Female,Pune,2021-04-20,Permanent,True,5,2025-07-28,Contract ended,Involuntary
+E00922,Customer Service,L1,Male,Hyderabad,2019-05-25,Permanent,True,2,2021-04-14,Resigned - better offer,Voluntary
+E00923,Operations,L1,Male,Mumbai,2022-01-13,Permanent,True,3,2023-01-08,Contract ended,Involuntary
+E00924,Sales,L1,Female,Gurugram,2021-02-01,Permanent,True,5,2021-05-02,Resigned - better offer,Voluntary
+E00925,Operations,L5,Male,Mumbai,2021-02-17,Permanent,True,1,,,
+E00926,HR,L2,Male,Hyderabad,2019-01-09,Permanent,False,4,2019-10-06,Resigned - better offer,Voluntary
+E00927,Supply Chain,L1,Female,Mumbai,2023-04-19,Permanent,False,5,2025-05-08,Resigned - relocation,Voluntary
+E00928,Operations,L1,Female,Bengaluru,2025-10-07,Contract,False,3,,,
+E00929,Sales,L2,Male,Hyderabad,2023-08-11,Permanent,True,4,2023-10-10,Resigned - career change,Voluntary
+E00930,IT,L1,Male,Mumbai,2025-09-18,Permanent,True,3,2025-10-18,Resigned - better offer,Voluntary
+E00931,Operations,L1,Male,Gurugram,2024-01-22,Permanent,True,2,2024-02-21,Resigned - better offer,Voluntary
+E00932,Sales,L2,Female,Hyderabad,2022-01-11,Contract,False,3,2024-05-30,Terminated - performance,Involuntary
+E00933,IT,L3,Male,Mumbai,2021-05-25,Permanent,False,3,2021-09-22,Terminated - performance,Involuntary
+E00934,Operations,L4,Male,Hyderabad,2023-12-15,Permanent,False,4,,,
+E00935,Sales,L3,Male,Mumbai,2025-10-02,Permanent,True,4,,,
+E00936,Customer Service,L4,Female,Mumbai,2019-05-09,Permanent,False,3,2022-01-23,Resigned - relocation,Voluntary
+E00937,Sales,L2,Female,Pune,2025-04-30,Permanent,False,3,,,
+E00938,Sales,L2,Male,Pune,2022-11-14,Contract,False,3,,,
+E00939,Customer Service,L2,Male,Gurugram,2023-06-03,Permanent,True,4,,,
+E00940,Supply Chain,L4,Male,Pune,2021-06-07,Permanent,False,3,2023-12-24,Resigned - better offer,Voluntary
+E00941,Sales,L3,Male,Hyderabad,2025-01-14,Permanent,False,2,,,
+E00942,Finance,L3,Female,Gurugram,2022-11-07,Permanent,False,4,,,
+E00943,Operations,L1,Male,Mumbai,2021-01-12,Permanent,False,3,2021-05-12,Resigned - relocation,Voluntary
+E00944,Customer Service,L1,Female,Hyderabad,2021-02-22,Contract,True,2,2022-03-19,Resigned - better offer,Voluntary
+E00945,Sales,L3,Female,Bengaluru,2024-01-16,Permanent,True,3,,,
+E00946,Operations,L2,Female,Mumbai,2023-08-24,Permanent,False,3,,,
+E00947,IT,L4,Female,Hyderabad,2022-11-04,Permanent,False,4,,,
+E00948,Operations,L1,Female,Hyderabad,2022-05-07,Permanent,False,4,2023-01-02,Resigned - better offer,Voluntary
+E00949,Operations,L1,Male,Hyderabad,2019-03-24,Contract,False,3,2021-04-12,Contract ended,Involuntary
+E00950,Supply Chain,L1,Female,Mumbai,2022-06-10,Permanent,True,4,2025-08-23,Resigned - better offer,Voluntary
+E00951,IT,L1,Male,Pune,2024-10-23,Contract,False,4,,,
+E00952,Customer Service,L1,Male,Hyderabad,2022-06-06,Contract,False,3,,,
+E00953,Sales,L5,Female,Mumbai,2024-01-25,Permanent,True,4,,,
+E00954,Operations,L1,Male,Pune,2021-06-10,Permanent,False,2,2022-09-03,Resigned - better offer,Voluntary
+E00955,IT,L3,Female,Mumbai,2024-02-16,Permanent,False,5,2025-11-07,Resigned - career change,Voluntary
+E00956,Customer Service,L2,Male,Pune,2022-07-23,Permanent,False,2,,,
+E00957,Sales,L1,Female,Hyderabad,2022-07-07,Permanent,False,5,2022-11-04,Resigned - better offer,Voluntary
+E00958,HR,L5,Male,Hyderabad,2024-01-06,Permanent,True,2,2025-04-30,Contract ended,Involuntary
+E00959,HR,L3,Female,Pune,2025-05-18,Permanent,False,3,,,
+E00960,IT,L1,Female,Pune,2023-06-02,Permanent,False,3,,,
+E00961,IT,L2,Male,Gurugram,2021-12-21,Contract,False,3,,,
+E00962,Sales,L2,Male,Bengaluru,2019-12-10,Permanent,False,3,,,
+E00963,Supply Chain,L2,Female,Hyderabad,2022-07-01,Contract,False,4,2022-09-29,Resigned - better offer,Voluntary
+E00964,Operations,L2,Female,Mumbai,2023-08-13,Permanent,False,3,,,
+E00965,Operations,L2,Female,Bengaluru,2021-01-16,Permanent,False,3,,,
+E00966,Operations,L2,Male,Bengaluru,2020-05-22,Permanent,False,5,,,
+E00967,Sales,L3,Male,Gurugram,2021-11-12,Permanent,True,4,2021-12-12,Resigned - career change,Voluntary
+E00968,IT,L1,Male,Gurugram,2023-07-13,Permanent,False,4,2025-02-02,Resigned - career change,Voluntary
+E00969,HR,L5,Male,Mumbai,2023-01-11,Permanent,False,5,2023-12-07,Resigned - relocation,Voluntary
+E00970,Customer Service,L4,Male,Mumbai,2024-03-02,Permanent,True,2,2025-06-25,Terminated - performance,Involuntary
+E00971,Customer Service,L1,Male,Bengaluru,2022-08-27,Contract,False,1,2022-09-26,Terminated - performance,Involuntary
+E00972,Finance,L2,Female,Mumbai,2023-06-28,Permanent,False,3,,,
+E00973,Customer Service,L2,Female,Mumbai,2023-03-15,Permanent,False,3,,,
+E00974,Supply Chain,L2,Male,Pune,2024-07-09,Permanent,True,3,2024-08-08,Resigned - career change,Voluntary
+E00975,Sales,L2,Female,Bengaluru,2024-04-09,Contract,False,4,2025-04-04,Resigned - better offer,Voluntary
+E00976,IT,L1,Male,Gurugram,2021-11-07,Contract,False,5,,,
+E00977,Operations,L3,Female,Gurugram,2025-09-17,Permanent,False,2,,,
+E00978,Sales,L1,Male,Mumbai,2025-12-01,Permanent,False,4,,,
+E00979,HR,L3,Male,Mumbai,2022-08-22,Permanent,False,3,2022-09-21,Resigned - career change,Voluntary
+E00980,Sales,L3,Male,Bengaluru,2025-03-10,Permanent,False,2,,,
+E00981,Supply Chain,L2,Male,Gurugram,2022-11-16,Permanent,True,3,,,
+E00982,Sales,L2,Female,Bengaluru,2022-09-14,Contract,False,4,2024-01-07,Resigned - relocation,Voluntary
+E00983,Operations,L2,Female,Pune,2023-04-11,Permanent,False,4,2023-11-07,Resigned - career change,Voluntary
+E00984,Finance,L4,Male,Pune,2021-02-11,Permanent,True,3,,,
+E00985,Supply Chain,L1,Male,Gurugram,2019-10-15,Contract,False,4,2020-07-11,Resigned - better offer,Voluntary
+E00986,Sales,L1,Female,Mumbai,2025-07-13,Contract,False,3,,,
+E00987,Sales,L2,Female,Hyderabad,2025-12-18,Permanent,True,2,,,
+E00988,IT,L3,Female,Hyderabad,2023-01-11,Permanent,False,5,,,
+E00989,HR,L1,Female,Mumbai,2024-06-27,Permanent,True,3,,,
+E00990,IT,L4,Male,Pune,2020-01-07,Contract,False,4,,,
+E00991,IT,L1,Male,Hyderabad,2023-08-21,Permanent,False,4,2025-07-11,Resigned - better offer,Voluntary
+E00992,IT,L2,Male,Gurugram,2021-11-12,Permanent,False,3,,,
+E00993,Sales,L4,Male,Hyderabad,2025-06-25,Permanent,False,3,,,
+E00994,HR,L3,Male,Mumbai,2019-10-30,Permanent,False,5,2020-09-24,Resigned - better offer,Voluntary
+E00995,IT,L1,Male,Gurugram,2020-12-01,Permanent,False,4,2022-05-25,Contract ended,Involuntary
+E00996,Customer Service,L3,Female,Hyderabad,2022-06-01,Permanent,True,4,2024-06-20,Resigned - better offer,Voluntary
+E00997,Sales,L1,Male,Gurugram,2021-07-21,Permanent,False,3,2023-03-13,Terminated - performance,Involuntary
+E00998,Sales,L1,Male,Mumbai,2020-11-01,Contract,False,2,2021-03-31,Resigned - better offer,Voluntary
+E00999,Sales,L1,Male,Pune,2024-05-01,Permanent,False,4,,,
+E01000,Customer Service,L5,Female,Gurugram,2020-01-29,Permanent,True,4,,,
+E01001,IT,L1,Male,Pune,2021-05-18,Permanent,False,4,2024-06-01,Resigned - career change,Voluntary
+E01002,Sales,L1,Male,Pune,2024-04-20,Permanent,False,3,,,
+E01003,Sales,L2,Male,Bengaluru,2019-03-31,Permanent,True,3,,,
+E01004,Sales,L2,Male,Hyderabad,2021-03-08,Contract,True,3,2022-01-02,Terminated - performance,Involuntary
+E01005,Sales,L2,Female,Bengaluru,2020-02-18,Permanent,True,4,2021-04-13,Contract ended,Involuntary
+E01006,Sales,L1,Male,Bengaluru,2025-09-05,Permanent,False,4,,,
+E01007,Operations,L3,Male,Pune,2020-03-16,Contract,True,2,2023-03-31,Resigned - relocation,Voluntary
+E01008,IT,L3,Female,Mumbai,2023-10-25,Contract,False,2,2025-12-13,Resigned - better offer,Voluntary
+E01009,Operations,L3,Male,Hyderabad,2024-06-02,Contract,False,2,,,
+E01010,IT,L3,Male,Hyderabad,2021-09-11,Contract,False,5,,,
+E01011,Operations,L4,Male,Bengaluru,2025-06-10,Contract,False,3,,,
+E01012,Sales,L1,Male,Hyderabad,2021-01-15,Permanent,False,2,2021-11-11,Resigned - better offer,Voluntary
+E01013,Sales,L2,Male,Pune,2019-10-30,Permanent,True,2,2020-04-27,Resigned - better offer,Voluntary
+E01014,Supply Chain,L1,Female,Pune,2019-12-27,Permanent,False,1,,,
+E01015,Operations,L1,Male,Hyderabad,2025-10-12,Contract,False,3,,,
+E01016,IT,L2,Male,Mumbai,2021-06-15,Permanent,True,5,2022-05-11,Contract ended,Involuntary
+E01017,Sales,L3,Female,Mumbai,2021-05-27,Permanent,True,4,2024-08-09,Resigned - better offer,Voluntary
+E01018,IT,L2,Male,Pune,2022-11-14,Permanent,False,4,,,
+E01019,Operations,L1,Female,Bengaluru,2025-04-25,Permanent,False,3,2025-06-24,Resigned - better offer,Voluntary
+E01020,Operations,L2,Male,Bengaluru,2019-02-06,Permanent,False,5,2024-09-07,Resigned - better offer,Voluntary
+E01021,Operations,L4,Female,Bengaluru,2022-12-02,Permanent,False,3,,,
+E01022,Sales,L4,Male,Hyderabad,2022-12-31,Permanent,False,2,,,
+E01023,Sales,L4,Male,Hyderabad,2023-07-10,Contract,True,3,,,
+E01024,IT,L3,Female,Hyderabad,2020-06-25,Permanent,False,2,2024-10-02,Resigned - better offer,Voluntary
+E01025,IT,L1,Male,Pune,2021-10-26,Permanent,False,4,,,
+E01026,Customer Service,L4,Female,Hyderabad,2020-02-26,Permanent,False,3,2025-12-26,Resigned - career change,Voluntary
+E01027,Supply Chain,L1,Female,Pune,2020-12-02,Contract,False,2,2023-12-17,Resigned - better offer,Voluntary
+E01028,Sales,L1,Male,Gurugram,2020-01-26,Permanent,False,2,2022-10-12,Resigned - better offer,Voluntary
+E01029,Sales,L4,Female,Hyderabad,2019-07-09,Permanent,False,4,2024-04-13,Terminated - performance,Involuntary
+E01030,Finance,L3,Male,Hyderabad,2021-01-08,Contract,False,3,,,
+E01031,Supply Chain,L4,Male,Pune,2019-10-18,Permanent,False,5,,,
+E01032,HR,L1,Male,Bengaluru,2023-04-02,Permanent,False,4,,,
+E01033,Supply Chain,L3,Female,Mumbai,2021-02-09,Permanent,False,4,,,
+E01034,Operations,L2,Female,Hyderabad,2020-10-21,Contract,False,5,,,
+E01035,Operations,L2,Male,Gurugram,2021-12-17,Permanent,False,2,,,
+E01036,Supply Chain,L3,Male,Bengaluru,2023-09-09,Permanent,True,5,,,
+E01037,Sales,L4,Female,Mumbai,2023-06-03,Permanent,False,4,,,
+E01038,Finance,L1,Female,Mumbai,2022-06-21,Permanent,False,3,2023-05-17,Resigned - relocation,Voluntary
+E01039,Operations,L5,Male,Gurugram,2020-01-20,Contract,True,3,2025-01-23,Resigned - career change,Voluntary
+E01040,HR,L1,Female,Mumbai,2021-06-23,Contract,False,3,,,
+E01041,Customer Service,L1,Female,Pune,2022-04-01,Contract,False,3,2023-04-26,Resigned - better offer,Voluntary
+E01042,Sales,L4,Female,Bengaluru,2025-09-15,Contract,True,4,,,
+E01043,Sales,L1,Male,Pune,2025-03-13,Permanent,False,3,,,
+E01044,Customer Service,L3,Male,Bengaluru,2025-07-11,Permanent,True,3,,,
+E01045,IT,L1,Male,Hyderabad,2021-04-12,Permanent,False,3,,,
+E01046,Finance,L5,Male,Mumbai,2020-06-01,Permanent,True,4,,,
+E01047,IT,L2,Male,Gurugram,2020-11-27,Permanent,False,3,2025-11-01,Resigned - better offer,Voluntary
+E01048,IT,L5,Female,Mumbai,2022-04-05,Contract,False,3,2023-11-26,Resigned - better offer,Voluntary
+E01049,Operations,L3,Female,Mumbai,2020-03-06,Permanent,False,5,,,
+E01050,Operations,L4,Male,Hyderabad,2022-11-25,Permanent,True,3,,,
+E01051,Operations,L3,Male,Bengaluru,2025-03-31,Contract,True,3,2025-07-29,Terminated - performance,Involuntary
+E01052,Operations,L5,Male,Gurugram,2021-06-05,Permanent,True,3,,,
+E01053,Sales,L1,Male,Hyderabad,2020-05-12,Contract,False,5,2020-10-09,Resigned - relocation,Voluntary
+E01054,Supply Chain,L1,Female,Gurugram,2021-07-28,Permanent,False,3,,,
+E01055,IT,L1,Female,Gurugram,2020-01-21,Permanent,False,1,2020-08-18,Resigned - better offer,Voluntary
+E01056,Finance,L4,Male,Bengaluru,2025-09-12,Permanent,False,3,,,
+E01057,IT,L4,Male,Hyderabad,2019-08-09,Contract,True,5,2020-08-03,Resigned - better offer,Voluntary
+E01058,Customer Service,L1,Female,Hyderabad,2023-02-18,Permanent,False,3,2025-10-05,Resigned - better offer,Voluntary
+E01059,Operations,L1,Female,Gurugram,2024-06-24,Permanent,False,3,,,
+E01060,Sales,L2,Female,Bengaluru,2025-07-14,Contract,False,4,,,
+E01061,Sales,L2,Male,Pune,2023-12-16,Permanent,True,4,,,
+E01062,HR,L5,Male,Pune,2021-06-04,Permanent,False,3,,,
+E01063,Finance,L2,Male,Hyderabad,2025-08-14,Contract,False,4,,,
+E01064,Operations,L1,Male,Hyderabad,2023-07-10,Contract,False,3,2023-08-09,Resigned - career change,Voluntary
+E01065,Operations,L3,Male,Mumbai,2022-12-13,Permanent,True,3,,,
+E01066,Customer Service,L4,Male,Pune,2022-10-25,Permanent,False,3,,,
+E01067,Supply Chain,L1,Female,Mumbai,2019-10-07,Permanent,False,2,,,
+E01068,IT,L3,Male,Hyderabad,2024-07-15,Permanent,False,4,2025-09-08,Contract ended,Involuntary
+E01069,Supply Chain,L3,Female,Bengaluru,2020-03-12,Permanent,False,4,2024-01-21,Resigned - relocation,Voluntary
+E01070,Operations,L1,Female,Gurugram,2020-07-11,Contract,False,3,2020-08-10,Terminated - performance,Involuntary
+E01071,Supply Chain,L2,Male,Gurugram,2022-07-16,Permanent,False,3,,,
+E01072,Operations,L1,Male,Hyderabad,2019-04-06,Permanent,True,1,2024-01-10,Contract ended,Involuntary
+E01073,Operations,L3,Male,Mumbai,2024-08-25,Permanent,False,3,2025-06-21,Resigned - better offer,Voluntary
+E01074,Supply Chain,L3,Male,Bengaluru,2024-08-28,Permanent,False,3,,,
+E01075,IT,L1,Female,Bengaluru,2020-03-18,Permanent,False,3,2025-02-20,Resigned - better offer,Voluntary
+E01076,Operations,L1,Male,Hyderabad,2025-03-21,Contract,False,3,,,
+E01077,IT,L1,Male,Bengaluru,2022-10-12,Permanent,False,5,2024-05-04,Resigned - career change,Voluntary
+E01078,Finance,L1,Male,Hyderabad,2019-04-26,Permanent,False,4,,,
+E01079,Sales,L3,Female,Hyderabad,2023-07-12,Contract,False,5,,,
+E01080,Operations,L1,Female,Mumbai,2025-02-17,Contract,False,3,2025-10-15,Resigned - better offer,Voluntary
+E01081,Supply Chain,L1,Female,Gurugram,2021-09-14,Contract,False,4,2022-04-12,Resigned - better offer,Voluntary
+E01082,Supply Chain,L3,Male,Bengaluru,2022-05-04,Permanent,True,2,2024-03-24,Resigned - better offer,Voluntary
+E01083,Operations,L2,Female,Pune,2020-03-13,Permanent,False,2,2024-02-21,Resigned - career change,Voluntary
+E01084,HR,L4,Female,Mumbai,2019-07-11,Permanent,False,3,,,
+E01085,Operations,L4,Male,Pune,2019-02-15,Permanent,False,3,2021-12-01,Resigned - relocation,Voluntary
+E01086,Supply Chain,L2,Female,Pune,2020-10-02,Permanent,True,4,,,
+E01087,Sales,L1,Male,Hyderabad,2023-10-14,Permanent,False,4,,,
+E01088,Sales,L2,Female,Hyderabad,2020-03-07,Permanent,True,3,2023-02-20,Resigned - better offer,Voluntary
+E01089,Finance,L3,Male,Gurugram,2019-10-26,Permanent,False,5,2024-10-29,Resigned - career change,Voluntary
+E01090,Customer Service,L1,Male,Bengaluru,2022-08-26,Permanent,False,3,,,
+E01091,Operations,L3,Male,Pune,2024-06-06,Permanent,False,3,,,
+E01092,Sales,L3,Male,Gurugram,2025-12-13,Contract,False,3,,,
+E01093,HR,L2,Male,Hyderabad,2024-02-11,Permanent,False,2,,,
+E01094,Operations,L3,Female,Bengaluru,2021-10-04,Permanent,False,2,,,
+E01095,Operations,L2,Male,Hyderabad,2022-07-16,Permanent,False,4,,,
+E01096,Supply Chain,L2,Female,Mumbai,2023-10-22,Permanent,False,3,,,
+E01097,Finance,L1,Female,Gurugram,2021-11-01,Permanent,False,4,2022-03-01,Resigned - better offer,Voluntary
+E01098,Sales,L2,Male,Pune,2021-02-05,Permanent,False,4,2025-10-12,Terminated - performance,Involuntary
+E01099,Operations,L5,Female,Gurugram,2025-05-24,Permanent,False,3,,,
+E01100,Supply Chain,L3,Female,Pune,2019-12-08,Permanent,False,3,2024-04-15,Resigned - better offer,Voluntary
+E01101,Supply Chain,L1,Female,Gurugram,2024-03-16,Permanent,True,3,,,
+E01102,Supply Chain,L2,Male,Mumbai,2025-11-01,Permanent,True,2,,,
+E01103,Operations,L4,Male,Hyderabad,2023-12-14,Permanent,True,3,,,
+E01104,Finance,L1,Male,Pune,2025-03-07,Permanent,False,1,,,
+E01105,Finance,L5,Male,Bengaluru,2022-12-19,Permanent,False,4,2023-10-15,Resigned - relocation,Voluntary
+E01106,Supply Chain,L2,Female,Hyderabad,2019-09-10,Permanent,False,3,2022-04-27,Resigned - better offer,Voluntary
+E01107,Finance,L3,Female,Bengaluru,2020-09-25,Permanent,False,3,,,
+E01108,Finance,L2,Female,Gurugram,2020-10-02,Permanent,False,3,,,
+E01109,Finance,L1,Female,Mumbai,2022-03-13,Permanent,False,3,,,
+E01110,Operations,L2,Male,Pune,2022-10-15,Permanent,False,4,,,
+E01111,Operations,L1,Male,Gurugram,2019-04-05,Permanent,False,2,2022-07-18,Resigned - relocation,Voluntary
+E01112,Finance,L4,Male,Mumbai,2024-03-15,Permanent,False,5,2024-11-10,Terminated - performance,Involuntary
+E01113,IT,L3,Female,Hyderabad,2023-11-22,Permanent,False,4,,,
+E01114,Sales,L5,Male,Bengaluru,2021-02-22,Permanent,True,1,2025-10-29,Resigned - better offer,Voluntary
+E01115,Finance,L2,Male,Hyderabad,2024-09-29,Permanent,False,3,,,
+E01116,Operations,L2,Female,Gurugram,2019-05-10,Permanent,False,3,2024-03-14,Resigned - better offer,Voluntary
+E01117,Sales,L3,Male,Bengaluru,2019-01-25,Contract,False,3,2019-07-24,Resigned - better offer,Voluntary
+E01118,Customer Service,L2,Female,Mumbai,2020-11-17,Permanent,True,5,2021-06-15,Resigned - relocation,Voluntary
+E01119,Supply Chain,L2,Male,Hyderabad,2019-10-17,Contract,False,3,,,
+E01120,Supply Chain,L2,Male,Hyderabad,2022-12-10,Permanent,True,3,,,
+E01121,IT,L3,Male,Bengaluru,2019-09-17,Contract,False,3,2020-04-14,Terminated - performance,Involuntary
+E01122,Sales,L1,Female,Mumbai,2025-01-05,Contract,False,2,2025-07-04,Resigned - better offer,Voluntary
+E01123,IT,L4,Male,Pune,2020-02-14,Permanent,False,3,,,
+E01124,Supply Chain,L4,Male,Mumbai,2019-02-19,Contract,True,4,2023-12-25,Resigned - career change,Voluntary
+E01125,Operations,L2,Male,Bengaluru,2025-12-06,Permanent,False,2,,,
+E01126,IT,L2,Male,Mumbai,2023-12-20,Permanent,False,4,,,
+E01127,Operations,L1,Male,Hyderabad,2022-01-01,Permanent,False,3,2023-12-22,Contract ended,Involuntary
+E01128,HR,L1,Male,Hyderabad,2023-03-31,Contract,True,1,2025-02-18,Contract ended,Involuntary
+E01129,Supply Chain,L3,Female,Pune,2020-02-12,Permanent,False,3,2022-11-28,Resigned - better offer,Voluntary
+E01130,Customer Service,L2,Male,Gurugram,2021-04-21,Contract,False,4,,,
+E01131,Supply Chain,L1,Male,Bengaluru,2024-09-26,Contract,False,2,,,
+E01132,IT,L1,Male,Pune,2022-04-02,Contract,True,2,2023-02-26,Resigned - career change,Voluntary
+E01133,Supply Chain,L1,Male,Mumbai,2021-05-13,Permanent,False,4,2023-01-03,Resigned - relocation,Voluntary
+E01134,Supply Chain,L3,Male,Mumbai,2019-04-11,Permanent,False,4,2021-10-27,Resigned - relocation,Voluntary
+E01135,Customer Service,L4,Female,Hyderabad,2021-10-14,Permanent,False,3,,,
+E01136,Operations,L2,Male,Bengaluru,2022-06-03,Contract,False,3,2024-01-24,Terminated - performance,Involuntary
+E01137,Operations,L1,Male,Gurugram,2021-03-04,Permanent,False,5,,,
+E01138,Operations,L1,Female,Bengaluru,2024-05-15,Permanent,False,4,,,
+E01139,HR,L1,Male,Bengaluru,2024-02-07,Contract,False,4,,,
+E01140,Supply Chain,L1,Female,Bengaluru,2021-03-08,Permanent,False,3,2023-04-27,Resigned - relocation,Voluntary
+E01141,Finance,L2,Female,Bengaluru,2023-02-07,Permanent,False,3,,,
+E01142,Sales,L2,Female,Hyderabad,2022-12-01,Contract,False,4,2025-11-15,Contract ended,Involuntary
+E01143,Sales,L3,Male,Hyderabad,2019-01-19,Contract,True,5,2021-09-05,Contract ended,Involuntary
+E01144,Operations,L3,Female,Pune,2023-09-13,Permanent,False,4,,,
+E01145,Supply Chain,L2,Female,Mumbai,2024-10-27,Permanent,False,4,,,
+E01146,IT,L1,Female,Hyderabad,2019-10-27,Permanent,True,3,,,
+E01147,Sales,L2,Male,Hyderabad,2020-05-15,Contract,False,3,2023-03-01,Contract ended,Involuntary
+E01148,Finance,L3,Male,Pune,2021-12-06,Permanent,False,3,,,
+E01149,Sales,L4,Female,Bengaluru,2025-05-13,Permanent,False,3,,,
+E01150,Supply Chain,L1,Male,Mumbai,2021-01-11,Permanent,False,4,,,
+E01151,Operations,L1,Male,Hyderabad,2023-06-23,Permanent,False,4,2024-10-15,Resigned - relocation,Voluntary
+E01152,Sales,L1,Male,Bengaluru,2020-08-16,Permanent,False,3,,,
+E01153,Customer Service,L1,Male,Gurugram,2025-05-20,Permanent,True,1,,,
+E01154,Finance,L4,Female,Bengaluru,2023-03-04,Permanent,True,3,,,
+E01155,IT,L1,Female,Pune,2023-07-04,Permanent,True,3,2023-12-01,Resigned - career change,Voluntary
+E01156,IT,L1,Female,Bengaluru,2019-04-27,Permanent,False,4,,,
+E01157,Operations,L5,Female,Gurugram,2023-08-18,Permanent,False,3,,,
+E01158,IT,L1,Male,Bengaluru,2022-08-03,Permanent,False,5,,,
+E01159,Sales,L1,Male,Pune,2024-12-31,Permanent,False,3,,,
+E01160,Sales,L1,Female,Bengaluru,2024-01-19,Permanent,False,2,,,
+E01161,HR,L2,Male,Pune,2019-06-29,Contract,False,3,,,
+E01162,Sales,L4,Male,Pune,2020-07-02,Permanent,False,3,,,
+E01163,Supply Chain,L4,Male,Mumbai,2020-02-01,Permanent,True,3,,,
+E01164,Supply Chain,L3,Male,Hyderabad,2019-03-29,Permanent,False,5,2020-03-23,Contract ended,Involuntary
+E01165,Sales,L2,Male,Pune,2020-06-20,Contract,True,3,2022-07-10,Resigned - career change,Voluntary
+E01166,Sales,L3,Male,Mumbai,2025-01-10,Permanent,True,2,,,
+E01167,IT,L2,Female,Bengaluru,2022-04-09,Permanent,False,3,,,
+E01168,Supply Chain,L2,Female,Gurugram,2024-12-15,Permanent,False,3,2025-02-13,Resigned - better offer,Voluntary
+E01169,IT,L3,Female,Mumbai,2025-01-04,Permanent,False,5,,,
+E01170,Sales,L2,Female,Pune,2021-05-14,Contract,True,3,2021-06-13,Terminated - performance,Involuntary
+E01171,Operations,L2,Male,Hyderabad,2021-01-11,Permanent,False,3,2025-07-19,Resigned - career change,Voluntary
+E01172,Supply Chain,L3,Male,Pune,2024-12-07,Permanent,False,4,,,
+E01173,IT,L3,Male,Gurugram,2021-10-09,Permanent,True,4,2023-11-28,Resigned - better offer,Voluntary
+E01174,Finance,L4,Female,Pune,2020-07-31,Permanent,False,5,,,
+E01175,Operations,L1,Male,Hyderabad,2020-03-31,Contract,False,3,2023-11-11,Resigned - relocation,Voluntary
+E01176,Operations,L4,Female,Hyderabad,2020-05-23,Permanent,False,2,,,
+E01177,Sales,L3,Female,Pune,2025-06-14,Permanent,True,3,,,
+E01178,Sales,L2,Female,Bengaluru,2023-12-21,Permanent,True,4,,,
+E01179,Supply Chain,L2,Male,Hyderabad,2019-07-26,Permanent,False,4,2019-12-23,Resigned - better offer,Voluntary
+E01180,IT,L3,Male,Gurugram,2019-11-30,Permanent,True,2,2020-12-24,Resigned - relocation,Voluntary
+E01181,Operations,L1,Male,Gurugram,2020-11-26,Contract,True,2,2021-04-25,Resigned - better offer,Voluntary
+E01182,Sales,L3,Male,Bengaluru,2021-06-27,Permanent,False,2,2022-04-23,Contract ended,Involuntary
+E01183,IT,L5,Male,Gurugram,2024-01-09,Contract,False,4,2024-10-05,Resigned - relocation,Voluntary
+E01184,Sales,L2,Male,Mumbai,2023-07-11,Permanent,False,3,2025-07-30,Resigned - better offer,Voluntary
+E01185,Supply Chain,L2,Female,Hyderabad,2023-12-24,Permanent,False,3,,,
+E01186,IT,L1,Male,Gurugram,2020-10-29,Permanent,True,3,2021-02-26,Resigned - better offer,Voluntary
+E01187,IT,L1,Male,Gurugram,2024-04-01,Permanent,False,2,2025-03-27,Resigned - career change,Voluntary
+E01188,Customer Service,L1,Female,Pune,2019-01-17,Permanent,True,4,2025-01-15,Resigned - relocation,Voluntary
+E01189,IT,L2,Female,Gurugram,2021-03-20,Permanent,False,4,2024-11-29,Contract ended,Involuntary
+E01190,Sales,L1,Male,Mumbai,2025-05-08,Permanent,False,3,,,
+E01191,Sales,L2,Male,Hyderabad,2021-05-31,Permanent,False,5,,,
+E01192,Finance,L1,Male,Mumbai,2021-04-06,Permanent,False,3,2023-12-22,Resigned - relocation,Voluntary
+E01193,Operations,L1,Male,Pune,2021-07-24,Permanent,False,3,2024-03-10,Resigned - better offer,Voluntary
+E01194,IT,L1,Female,Bengaluru,2020-11-07,Permanent,True,5,,,
+E01195,Supply Chain,L3,Female,Pune,2023-10-28,Permanent,False,3,,,
+E01196,Sales,L3,Female,Pune,2022-08-17,Permanent,False,4,,,
+E01197,Supply Chain,L3,Male,Pune,2022-07-24,Permanent,False,4,,,
+E01198,Sales,L1,Male,Bengaluru,2024-10-23,Permanent,False,3,,,
+E01199,Operations,L4,Male,Mumbai,2023-07-23,Permanent,False,4,,,
+E01200,Operations,L2,Female,Pune,2021-11-27,Permanent,True,2,2023-04-21,Resigned - better offer,Voluntary
+E01201,Supply Chain,L2,Female,Bengaluru,2022-06-13,Contract,False,3,2024-03-04,Resigned - better offer,Voluntary
+E01202,Sales,L3,Male,Hyderabad,2022-09-12,Contract,True,5,2024-04-04,Resigned - better offer,Voluntary
+E01203,Sales,L1,Female,Pune,2024-11-20,Contract,True,3,,,
+E01204,Finance,L3,Female,Mumbai,2024-06-21,Permanent,True,5,2024-08-20,Contract ended,Involuntary
+E01205,Finance,L2,Male,Mumbai,2023-06-23,Contract,True,2,2024-02-18,Contract ended,Involuntary
+E01206,Sales,L1,Male,Hyderabad,2025-10-04,Permanent,False,3,,,
+E01207,Supply Chain,L1,Male,Gurugram,2022-11-07,Permanent,False,4,,,
+E01208,Supply Chain,L2,Female,Gurugram,2023-05-09,Permanent,False,3,,,
+E01209,Sales,L1,Male,Mumbai,2022-05-09,Contract,False,3,,,
+E01210,Operations,L4,Female,Pune,2024-09-14,Permanent,True,2,2025-04-12,Resigned - better offer,Voluntary
+E01211,HR,L4,Female,Hyderabad,2020-05-09,Contract,False,4,,,
+E01212,Sales,L3,Female,Hyderabad,2020-08-19,Contract,True,4,2020-11-17,Resigned - relocation,Voluntary
+E01213,Supply Chain,L1,Male,Mumbai,2022-05-13,Permanent,False,3,,,
+E01214,Operations,L3,Female,Pune,2020-08-07,Permanent,False,1,2021-04-04,Resigned - relocation,Voluntary
+E01215,HR,L2,Female,Mumbai,2019-07-16,Permanent,False,2,2020-03-12,Resigned - career change,Voluntary
+E01216,Supply Chain,L1,Male,Gurugram,2019-09-23,Permanent,False,3,2023-10-02,Terminated - performance,Involuntary
+E01217,Supply Chain,L3,Female,Hyderabad,2019-12-18,Contract,False,3,2024-12-21,Terminated - performance,Involuntary
+E01218,IT,L5,Female,Bengaluru,2020-11-24,Permanent,False,4,2024-12-03,Resigned - relocation,Voluntary
+E01219,Sales,L1,Female,Pune,2024-11-13,Permanent,True,3,2025-12-08,Terminated - performance,Involuntary
+E01220,Customer Service,L4,Male,Mumbai,2020-08-17,Permanent,True,2,2023-01-04,Resigned - better offer,Voluntary
+E01221,Sales,L2,Female,Mumbai,2019-02-24,Permanent,True,2,2023-07-03,Resigned - relocation,Voluntary
+E01222,Customer Service,L1,Female,Mumbai,2024-09-08,Permanent,False,4,2025-03-07,Resigned - better offer,Voluntary
+E01223,HR,L2,Male,Mumbai,2019-11-14,Permanent,False,1,2020-04-12,Terminated - performance,Involuntary
+E01224,Finance,L1,Male,Bengaluru,2025-08-31,Contract,False,4,,,
+E01225,Customer Service,L2,Male,Pune,2019-03-14,Contract,False,3,2019-06-12,Resigned - better offer,Voluntary
+E01226,Operations,L3,Male,Bengaluru,2019-10-10,Permanent,False,5,,,
+E01227,Supply Chain,L2,Male,Gurugram,2020-01-13,Permanent,True,4,,,
+E01228,Supply Chain,L3,Male,Bengaluru,2023-08-02,Contract,False,3,,,
+E01229,HR,L1,Male,Gurugram,2025-07-28,Contract,False,4,,,
+E01230,Finance,L5,Male,Mumbai,2025-11-29,Permanent,False,3,,,
+E01231,Operations,L3,Male,Bengaluru,2020-07-23,Permanent,False,4,2023-05-09,Resigned - relocation,Voluntary
+E01232,Supply Chain,L1,Male,Mumbai,2025-06-14,Contract,True,3,,,
+E01233,Sales,L3,Male,Hyderabad,2025-11-01,Permanent,True,2,,,
+E01234,Sales,L2,Female,Pune,2020-06-20,Permanent,True,3,,,
+E01235,HR,L1,Male,Mumbai,2021-08-14,Permanent,False,3,,,
+E01236,Operations,L1,Female,Bengaluru,2023-02-17,Permanent,False,2,,,
+E01237,IT,L1,Female,Mumbai,2020-12-12,Permanent,True,5,,,
+E01238,Sales,L3,Male,Gurugram,2023-10-16,Contract,False,5,2023-11-15,Contract ended,Involuntary
+E01239,Supply Chain,L2,Male,Bengaluru,2020-09-22,Permanent,False,4,,,
+E01240,Operations,L2,Male,Mumbai,2019-02-14,Permanent,False,4,2024-01-19,Resigned - relocation,Voluntary
+E01241,Sales,L2,Male,Pune,2024-04-18,Permanent,True,5,2024-08-16,Contract ended,Involuntary
+E01242,Finance,L1,Female,Bengaluru,2019-07-23,Permanent,False,4,,,
+E01243,Operations,L2,Female,Bengaluru,2024-03-23,Permanent,False,3,,,
+E01244,Supply Chain,L5,Female,Hyderabad,2024-01-18,Permanent,False,5,2024-06-16,Resigned - relocation,Voluntary
+E01245,IT,L4,Female,Hyderabad,2021-05-22,Permanent,False,2,2023-08-10,Resigned - career change,Voluntary
+E01246,Operations,L1,Male,Hyderabad,2022-07-26,Permanent,True,5,2022-11-23,Resigned - better offer,Voluntary
+E01247,IT,L1,Male,Gurugram,2023-11-19,Permanent,False,2,2024-04-17,Contract ended,Involuntary
+E01248,IT,L1,Male,Pune,2023-09-26,Permanent,True,3,2024-03-24,Resigned - better offer,Voluntary
+E01249,Finance,L2,Male,Mumbai,2025-07-07,Permanent,False,2,,,
+E01250,Sales,L3,Male,Pune,2019-10-10,Contract,False,4,,,
+E01251,IT,L1,Male,Bengaluru,2024-07-26,Permanent,False,3,,,
+E01252,Finance,L3,Male,Hyderabad,2020-05-13,Permanent,False,3,2023-04-28,Resigned - career change,Voluntary
+E01253,Sales,L3,Male,Gurugram,2024-09-20,Contract,False,3,,,
+E01254,IT,L1,Female,Gurugram,2024-06-19,Permanent,False,3,,,
+E01255,Sales,L3,Female,Mumbai,2024-09-25,Permanent,True,3,,,
+E01256,Operations,L3,Male,Mumbai,2021-09-09,Permanent,False,3,2022-01-07,Resigned - better offer,Voluntary
+E01257,Sales,L3,Female,Mumbai,2024-08-17,Permanent,False,3,,,
+E01258,Customer Service,L2,Female,Hyderabad,2022-06-02,Permanent,True,3,,,
+E01259,Finance,L3,Male,Mumbai,2024-04-29,Permanent,False,3,,,
+E01260,Supply Chain,L1,Female,Gurugram,2024-05-13,Permanent,False,4,2025-07-07,Resigned - relocation,Voluntary
+E01261,Sales,L3,Male,Hyderabad,2025-04-11,Permanent,False,4,,,
+E01262,HR,L5,Male,Mumbai,2019-08-02,Permanent,True,2,2020-09-25,Resigned - better offer,Voluntary
+E01263,Supply Chain,L1,Male,Pune,2025-10-11,Permanent,False,3,,,
+E01264,IT,L2,Male,Gurugram,2019-10-24,Contract,True,3,2021-03-17,Resigned - relocation,Voluntary
+E01265,Operations,L2,Male,Gurugram,2024-11-14,Permanent,False,3,,,
+E01266,Operations,L4,Female,Pune,2022-07-01,Contract,False,4,2023-12-23,Resigned - career change,Voluntary
+E01267,Operations,L1,Female,Gurugram,2024-08-30,Contract,False,2,2025-07-26,Resigned - better offer,Voluntary
+E01268,Sales,L2,Male,Hyderabad,2023-07-21,Contract,True,4,,,
+E01269,Sales,L3,Female,Mumbai,2022-05-27,Permanent,False,4,,,
+E01270,Sales,L2,Female,Gurugram,2021-04-22,Permanent,True,1,2021-06-21,Contract ended,Involuntary
+E01271,HR,L1,Female,Pune,2024-03-20,Contract,True,4,2025-03-15,Resigned - career change,Voluntary
+E01272,Finance,L3,Male,Pune,2022-08-08,Permanent,False,5,,,
+E01273,Operations,L1,Female,Mumbai,2022-01-07,Permanent,False,3,2025-06-20,Resigned - better offer,Voluntary
+E01274,Operations,L1,Male,Pune,2024-04-02,Permanent,False,4,,,
+E01275,Customer Service,L4,Female,Gurugram,2020-07-28,Permanent,False,3,,,
+E01276,Sales,L2,Male,Hyderabad,2025-01-15,Permanent,False,3,,,
+E01277,Operations,L1,Male,Mumbai,2020-11-20,Permanent,False,4,2025-08-26,Resigned - better offer,Voluntary
+E01278,Sales,L2,Male,Hyderabad,2020-10-02,Permanent,False,3,2025-11-05,Resigned - better offer,Voluntary
+E01279,Finance,L2,Male,Gurugram,2021-09-01,Permanent,False,3,2024-01-19,Terminated - performance,Involuntary
+E01280,Operations,L3,Male,Gurugram,2024-02-14,Permanent,False,4,,,
+E01281,Sales,L2,Male,Bengaluru,2025-07-26,Permanent,False,3,,,
+E01282,Supply Chain,L2,Male,Bengaluru,2020-07-02,Permanent,True,5,2020-08-01,Resigned - better offer,Voluntary
+E01283,Customer Service,L2,Male,Hyderabad,2020-04-24,Permanent,False,3,,,
+E01284,IT,L1,Male,Pune,2022-04-29,Permanent,False,3,,,
+E01285,Operations,L4,Female,Pune,2024-03-08,Permanent,False,4,2024-05-07,Resigned - better offer,Voluntary
+E01286,Sales,L4,Male,Mumbai,2024-02-25,Permanent,False,3,,,
+E01287,Sales,L1,Female,Mumbai,2023-12-15,Contract,False,4,,,
+E01288,Supply Chain,L1,Male,Gurugram,2021-03-25,Permanent,False,4,,,
+E01289,Sales,L2,Male,Hyderabad,2019-06-25,Permanent,False,4,2021-05-15,Terminated - performance,Involuntary
+E01290,Supply Chain,L3,Male,Hyderabad,2023-04-23,Contract,False,3,,,
+E01291,Sales,L2,Female,Gurugram,2022-05-30,Permanent,False,2,,,
+E01292,Finance,L2,Female,Hyderabad,2020-11-18,Permanent,True,2,2025-04-26,Resigned - career change,Voluntary
+E01293,Customer Service,L1,Male,Hyderabad,2025-11-24,Permanent,True,2,,,
+E01294,Operations,L4,Female,Bengaluru,2023-05-07,Contract,False,3,,,
+E01295,IT,L2,Male,Bengaluru,2025-02-20,Permanent,True,5,,,
+E01296,Sales,L5,Male,Hyderabad,2022-06-03,Permanent,True,5,2023-01-29,Terminated - performance,Involuntary
+E01297,Sales,L5,Male,Gurugram,2023-03-31,Permanent,False,4,,,
+E01298,Sales,L2,Male,Mumbai,2021-12-11,Permanent,True,2,2022-01-10,Resigned - better offer,Voluntary
+E01299,Finance,L1,Female,Pune,2023-08-15,Permanent,False,4,2024-08-09,Contract ended,Involuntary
+E01300,Sales,L1,Female,Bengaluru,2019-11-23,Permanent,False,3,,,
+E01301,Supply Chain,L1,Male,Mumbai,2022-07-29,Permanent,False,5,2023-12-21,Resigned - better offer,Voluntary
+E01302,Supply Chain,L4,Female,Mumbai,2021-09-15,Permanent,False,2,,,
+E01303,Sales,L2,Male,Pune,2022-03-29,Permanent,False,4,,,
+E01304,IT,L2,Male,Pune,2024-07-01,Permanent,True,4,,,
+E01305,Customer Service,L1,Female,Bengaluru,2022-01-15,Contract,True,1,2022-07-14,Resigned - better offer,Voluntary
+E01306,Operations,L2,Female,Pune,2020-03-14,Permanent,False,1,2022-11-29,Resigned - career change,Voluntary
+E01307,Sales,L2,Male,Bengaluru,2020-11-21,Permanent,False,2,2025-08-27,Resigned - better offer,Voluntary
+E01308,Operations,L2,Male,Gurugram,2024-06-12,Contract,False,4,,,
+E01309,Supply Chain,L4,Male,Bengaluru,2025-12-02,Permanent,False,2,,,
+E01310,IT,L1,Male,Pune,2024-09-30,Contract,False,3,,,
+E01311,Customer Service,L2,Female,Mumbai,2024-12-26,Permanent,True,3,2025-08-23,Resigned - relocation,Voluntary
+E01312,Operations,L3,Female,Pune,2025-06-06,Contract,False,3,,,
+E01313,Sales,L1,Male,Mumbai,2020-08-12,Permanent,True,2,2023-02-28,Resigned - relocation,Voluntary
+E01314,Operations,L3,Male,Bengaluru,2022-08-25,Permanent,False,2,,,
+E01315,Supply Chain,L3,Female,Gurugram,2025-08-31,Permanent,True,1,,,
+E01316,Sales,L2,Female,Mumbai,2022-07-27,Contract,False,4,2025-01-12,Resigned - better offer,Voluntary
+E01317,Sales,L1,Female,Gurugram,2021-07-03,Permanent,False,3,2023-10-21,Contract ended,Involuntary
+E01318,Operations,L1,Male,Hyderabad,2022-05-11,Contract,False,4,2022-11-07,Terminated - performance,Involuntary
+E01319,Operations,L1,Male,Bengaluru,2024-05-29,Permanent,False,3,,,
+E01320,Sales,L3,Female,Mumbai,2022-11-13,Contract,True,1,2023-02-11,Contract ended,Involuntary
+E01321,Sales,L1,Male,Pune,2022-06-05,Permanent,False,2,2023-08-29,Resigned - relocation,Voluntary
+E01322,Operations,L1,Male,Gurugram,2025-01-31,Permanent,False,2,,,
+E01323,Sales,L1,Female,Mumbai,2022-02-11,Permanent,True,4,,,
+E01324,Operations,L2,Male,Gurugram,2022-11-26,Permanent,True,5,,,
+E01325,Operations,L1,Male,Bengaluru,2024-03-05,Permanent,False,4,2025-08-27,Contract ended,Involuntary
+E01326,Finance,L1,Female,Bengaluru,2022-12-14,Permanent,False,3,2025-06-01,Resigned - career change,Voluntary
+E01327,Supply Chain,L2,Female,Pune,2022-05-01,Permanent,False,4,2025-06-14,Resigned - career change,Voluntary
+E01328,IT,L4,Female,Hyderabad,2024-06-11,Permanent,True,3,,,
+E01329,Supply Chain,L5,Male,Pune,2024-02-24,Permanent,False,3,2024-05-24,Resigned - better offer,Voluntary
+E01330,Sales,L3,Male,Gurugram,2021-02-24,Contract,False,5,2025-08-02,Resigned - better offer,Voluntary
+E01331,Sales,L1,Female,Pune,2025-09-16,Permanent,False,2,,,
+E01332,Operations,L2,Male,Pune,2019-03-15,Permanent,False,4,,,
+E01333,HR,L1,Female,Gurugram,2024-07-05,Permanent,False,3,,,
+E01334,HR,L2,Female,Bengaluru,2025-06-29,Permanent,False,5,,,
+E01335,Sales,L4,Female,Gurugram,2022-03-19,Permanent,True,3,2025-08-30,Resigned - career change,Voluntary
+E01336,Operations,L5,Male,Pune,2021-09-07,Permanent,False,3,,,
+E01337,Sales,L3,Male,Bengaluru,2024-11-30,Permanent,False,3,2025-10-26,Resigned - relocation,Voluntary
+E01338,Customer Service,L2,Male,Hyderabad,2022-06-02,Permanent,False,3,,,
+E01339,Supply Chain,L2,Male,Bengaluru,2021-05-11,Permanent,True,4,2022-06-05,Resigned - career change,Voluntary
+E01340,Supply Chain,L2,Male,Gurugram,2022-04-19,Permanent,False,1,2023-11-10,Resigned - better offer,Voluntary
+E01341,IT,L1,Male,Pune,2024-07-13,Permanent,True,3,,,
+E01342,Sales,L3,Male,Mumbai,2023-12-10,Permanent,False,3,,,
+E01343,Finance,L2,Male,Bengaluru,2021-05-11,Permanent,False,3,2022-04-06,Resigned - better offer,Voluntary
+E01344,Supply Chain,L3,Female,Pune,2020-07-04,Permanent,True,4,,,
+E01345,Supply Chain,L2,Male,Bengaluru,2019-10-29,Contract,False,4,2024-01-06,Resigned - better offer,Voluntary
+E01346,Sales,L1,Male,Hyderabad,2020-10-15,Permanent,False,5,2025-08-20,Resigned - better offer,Voluntary
+E01347,HR,L4,Female,Mumbai,2022-08-01,Contract,False,2,2025-07-16,Resigned - better offer,Voluntary
+E01348,IT,L2,Female,Hyderabad,2020-08-24,Permanent,False,3,,,
+E01349,Supply Chain,L2,Male,Hyderabad,2020-04-03,Permanent,True,3,2020-07-02,Resigned - relocation,Voluntary
+E01350,HR,L1,Male,Bengaluru,2024-01-11,Contract,True,3,2025-07-04,Resigned - better offer,Voluntary
+E01351,Finance,L1,Male,Pune,2022-09-09,Permanent,True,1,2022-11-08,Resigned - career change,Voluntary
+E01352,IT,L1,Female,Hyderabad,2022-01-06,Permanent,True,4,,,
+E01353,Operations,L5,Male,Hyderabad,2019-07-02,Permanent,False,3,2019-11-29,Resigned - better offer,Voluntary
+E01354,IT,L1,Female,Pune,2025-12-17,Permanent,False,3,,,
+E01355,Customer Service,L2,Female,Gurugram,2025-02-07,Permanent,False,2,,,
+E01356,Sales,L2,Female,Pune,2025-03-04,Permanent,True,1,,,
+E01357,Operations,L1,Male,Bengaluru,2024-09-26,Permanent,False,1,,,
+E01358,Finance,L1,Female,Pune,2025-10-02,Permanent,False,3,,,
+E01359,Operations,L1,Male,Pune,2020-03-19,Permanent,True,3,2022-07-07,Contract ended,Involuntary
+E01360,Operations,L2,Male,Hyderabad,2020-06-16,Contract,False,4,,,
+E01361,Supply Chain,L3,Male,Pune,2024-06-10,Permanent,False,3,,,
+E01362,Finance,L1,Female,Bengaluru,2020-06-09,Permanent,False,2,2021-12-31,Resigned - better offer,Voluntary
+E01363,Operations,L1,Female,Pune,2025-12-02,Permanent,False,4,,,
+E01364,Operations,L1,Male,Pune,2024-04-25,Permanent,True,2,,,
+E01365,Sales,L1,Male,Hyderabad,2023-12-17,Permanent,False,3,2024-05-15,Resigned - career change,Voluntary
+E01366,IT,L4,Female,Bengaluru,2023-07-10,Permanent,True,1,2024-05-05,Terminated - performance,Involuntary
+E01367,Operations,L3,Female,Bengaluru,2024-10-31,Permanent,False,1,,,
+E01368,Finance,L2,Male,Pune,2021-02-19,Permanent,False,3,,,
+E01369,Sales,L4,Female,Gurugram,2025-05-08,Permanent,False,3,,,
+E01370,Sales,L2,Male,Bengaluru,2021-09-17,Permanent,False,5,2022-11-11,Terminated - performance,Involuntary
+E01371,Finance,L2,Male,Bengaluru,2022-02-11,Permanent,False,4,,,
+E01372,Sales,L3,Female,Gurugram,2019-02-11,Permanent,False,5,,,
+E01373,Sales,L1,Male,Bengaluru,2023-10-08,Contract,True,1,,,
+E01374,Sales,L2,Male,Mumbai,2025-10-30,Contract,False,3,,,
+E01375,Sales,L4,Female,Bengaluru,2022-11-20,Permanent,False,5,,,
+E01376,IT,L5,Male,Mumbai,2019-10-04,Permanent,False,5,2020-02-01,Contract ended,Involuntary
+E01377,IT,L1,Male,Pune,2019-12-20,Contract,False,3,2020-10-15,Resigned - better offer,Voluntary
+E01378,IT,L3,Female,Mumbai,2024-08-09,Permanent,True,2,,,
+E01379,Supply Chain,L1,Male,Hyderabad,2020-01-31,Permanent,False,3,2023-08-13,Contract ended,Involuntary
+E01380,Supply Chain,L5,Male,Pune,2022-03-18,Permanent,False,3,2023-08-10,Resigned - better offer,Voluntary
+E01381,Sales,L5,Female,Hyderabad,2022-11-27,Contract,False,4,2025-01-15,Terminated - performance,Involuntary
+E01382,Supply Chain,L4,Male,Gurugram,2024-01-21,Permanent,True,4,2025-03-16,Resigned - better offer,Voluntary
+E01383,Operations,L3,Male,Pune,2025-12-24,Permanent,True,3,,,
+E01384,Operations,L2,Female,Gurugram,2019-07-15,Permanent,False,3,,,
+E01385,Sales,L4,Male,Gurugram,2020-01-22,Contract,False,4,2020-05-21,Resigned - better offer,Voluntary
+E01386,Finance,L1,Female,Mumbai,2022-08-31,Contract,False,3,,,
+E01387,Operations,L1,Female,Gurugram,2025-01-13,Contract,True,3,2025-11-09,Resigned - better offer,Voluntary
+E01388,Supply Chain,L2,Male,Hyderabad,2022-04-12,Permanent,True,3,,,
+E01389,Sales,L1,Female,Bengaluru,2022-01-06,Permanent,True,4,2023-08-29,Resigned - career change,Voluntary
+E01390,Operations,L3,Male,Mumbai,2023-11-20,Contract,False,3,,,
+E01391,Finance,L1,Male,Pune,2020-09-17,Contract,True,4,2022-03-11,Resigned - better offer,Voluntary
+E01392,Finance,L1,Male,Pune,2019-12-26,Permanent,False,3,2022-05-14,Resigned - better offer,Voluntary
+E01393,Operations,L4,Female,Bengaluru,2023-01-21,Permanent,False,5,,,
+E01394,Operations,L3,Male,Gurugram,2025-07-16,Contract,False,1,,,
+E01395,Sales,L1,Female,Hyderabad,2020-04-22,Permanent,False,2,,,
+E01396,Sales,L5,Male,Pune,2025-12-05,Contract,False,3,,,
+E01397,Sales,L1,Female,Pune,2024-06-02,Permanent,True,2,,,
+E01398,IT,L2,Female,Mumbai,2020-06-16,Permanent,True,4,2021-12-08,Contract ended,Involuntary
+E01399,Supply Chain,L5,Male,Hyderabad,2020-05-06,Permanent,False,4,,,
+E01400,Operations,L2,Female,Pune,2019-08-10,Permanent,False,2,2021-06-30,Resigned - career change,Voluntary
+E01401,Sales,L2,Female,Hyderabad,2019-04-13,Contract,False,1,2025-08-09,Contract ended,Involuntary
+E01402,Operations,L1,Male,Mumbai,2022-10-03,Contract,False,2,2024-04-25,Contract ended,Involuntary
+E01403,Supply Chain,L4,Male,Bengaluru,2019-09-11,Permanent,False,3,2024-05-17,Resigned - career change,Voluntary
+E01404,Sales,L1,Male,Pune,2022-01-25,Contract,False,4,2022-07-24,Resigned - better offer,Voluntary
+E01405,Sales,L5,Male,Hyderabad,2022-11-03,Permanent,False,5,,,
+E01406,Sales,L3,Male,Gurugram,2023-06-29,Permanent,True,3,2024-03-25,Resigned - better offer,Voluntary
+E01407,Finance,L1,Female,Mumbai,2019-11-10,Permanent,True,2,2021-06-02,Resigned - better offer,Voluntary
+E01408,IT,L2,Male,Hyderabad,2025-11-13,Permanent,False,3,,,
+E01409,Operations,L2,Female,Hyderabad,2019-10-19,Permanent,False,3,2020-02-16,Resigned - better offer,Voluntary
+E01410,Supply Chain,L1,Female,Mumbai,2024-01-12,Permanent,False,3,,,
+E01411,Operations,L3,Male,Bengaluru,2019-04-10,Permanent,False,3,2021-12-25,Resigned - better offer,Voluntary
+E01412,Operations,L1,Female,Hyderabad,2024-01-17,Contract,True,3,,,
+E01413,Operations,L2,Female,Bengaluru,2020-12-04,Permanent,False,4,,,
+E01414,HR,L2,Male,Gurugram,2025-04-05,Permanent,True,2,,,
+E01415,Operations,L1,Male,Gurugram,2021-05-31,Permanent,False,1,,,
+E01416,IT,L4,Female,Pune,2023-04-10,Permanent,True,3,,,
+E01417,Operations,L2,Male,Hyderabad,2024-12-07,Contract,False,3,,,
+E01418,Supply Chain,L1,Male,Bengaluru,2021-04-25,Permanent,True,2,2023-12-11,Terminated - performance,Involuntary
+E01419,Finance,L3,Male,Gurugram,2021-05-08,Contract,True,4,2025-04-17,Resigned - better offer,Voluntary
+E01420,HR,L2,Male,Mumbai,2019-12-24,Permanent,False,5,,,
+E01421,Sales,L5,Male,Hyderabad,2024-03-21,Contract,True,3,,,
+E01422,IT,L1,Male,Mumbai,2020-11-20,Permanent,True,3,2023-01-09,Terminated - performance,Involuntary
+E01423,Operations,L3,Female,Mumbai,2021-05-03,Permanent,False,3,2024-08-15,Contract ended,Involuntary
+E01424,Sales,L3,Female,Gurugram,2023-03-14,Contract,False,3,,,
+E01425,Sales,L2,Male,Mumbai,2025-07-04,Permanent,True,3,,,
+E01426,Supply Chain,L2,Male,Mumbai,2020-08-25,Permanent,False,3,,,
+E01427,HR,L4,Male,Hyderabad,2021-04-13,Permanent,True,3,2023-04-03,Resigned - better offer,Voluntary
+E01428,HR,L2,Male,Mumbai,2020-11-05,Permanent,False,2,,,
+E01429,Supply Chain,L1,Male,Mumbai,2022-09-06,Permanent,False,3,,,
+E01430,Sales,L3,Female,Bengaluru,2023-10-28,Permanent,False,1,,,
+E01431,Operations,L2,Female,Mumbai,2020-04-23,Permanent,True,2,2021-07-17,Resigned - better offer,Voluntary
+E01432,Sales,L1,Female,Pune,2024-08-12,Permanent,True,5,2025-06-08,Resigned - better offer,Voluntary
+E01433,Finance,L2,Female,Mumbai,2019-02-11,Permanent,False,2,,,
+E01434,Sales,L3,Male,Hyderabad,2021-01-12,Permanent,False,2,,,
+E01435,Operations,L1,Female,Pune,2020-07-27,Permanent,False,3,,,
+E01436,Sales,L3,Male,Hyderabad,2025-07-22,Permanent,True,2,,,
+E01437,Operations,L2,Female,Bengaluru,2019-11-14,Permanent,False,1,2020-03-13,Terminated - performance,Involuntary
+E01438,Sales,L1,Female,Pune,2024-05-25,Permanent,False,4,,,
+E01439,Sales,L3,Male,Gurugram,2021-11-09,Permanent,False,3,2025-11-18,Resigned - career change,Voluntary
+E01440,Operations,L4,Male,Gurugram,2021-06-14,Permanent,True,3,,,
+E01441,Supply Chain,L2,Male,Pune,2025-12-19,Permanent,False,3,,,
+E01442,IT,L3,Male,Bengaluru,2022-04-06,Permanent,False,3,,,
+E01443,Operations,L1,Male,Pune,2024-09-23,Contract,False,3,,,
+E01444,IT,L2,Female,Gurugram,2019-12-11,Permanent,False,4,2022-09-26,Resigned - relocation,Voluntary
+E01445,Operations,L1,Male,Mumbai,2020-07-27,Permanent,False,4,2021-06-22,Resigned - better offer,Voluntary
+E01446,Customer Service,L3,Male,Mumbai,2024-06-20,Permanent,False,2,,,
+E01447,Sales,L4,Male,Gurugram,2024-05-18,Permanent,False,3,,,
+E01448,Customer Service,L1,Female,Mumbai,2025-05-17,Permanent,False,2,,,
+E01449,Supply Chain,L3,Female,Gurugram,2020-03-22,Permanent,False,2,2023-01-06,Resigned - relocation,Voluntary
+E01450,Sales,L1,Male,Hyderabad,2024-07-17,Permanent,False,4,,,
+E01451,Supply Chain,L1,Female,Bengaluru,2020-10-12,Contract,False,3,2021-02-09,Resigned - relocation,Voluntary
+E01452,Supply Chain,L2,Female,Hyderabad,2019-08-24,Permanent,True,3,2023-04-05,Resigned - better offer,Voluntary
+E01453,Supply Chain,L1,Female,Hyderabad,2021-06-07,Permanent,False,4,2024-05-22,Resigned - better offer,Voluntary
+E01454,IT,L3,Male,Hyderabad,2025-07-30,Permanent,True,3,,,
+E01455,Operations,L2,Male,Bengaluru,2019-05-26,Contract,True,2,2021-08-13,Resigned - better offer,Voluntary
+E01456,Operations,L5,Female,Pune,2021-06-06,Permanent,False,3,,,
+E01457,Sales,L3,Male,Bengaluru,2022-08-22,Permanent,False,3,2023-05-19,Terminated - performance,Involuntary
+E01458,Sales,L1,Male,Gurugram,2023-02-22,Permanent,False,3,,,
+E01459,Operations,L2,Female,Gurugram,2019-06-18,Permanent,True,2,2020-09-10,Resigned - better offer,Voluntary
+E01460,HR,L4,Male,Mumbai,2021-01-17,Contract,True,3,2025-03-27,Terminated - performance,Involuntary
+E01461,Sales,L2,Female,Mumbai,2021-02-22,Permanent,False,4,,,
+E01462,Supply Chain,L3,Male,Bengaluru,2021-05-20,Permanent,False,3,2022-02-14,Resigned - better offer,Voluntary
+E01463,Sales,L1,Male,Bengaluru,2019-09-30,Permanent,False,5,2023-07-11,Contract ended,Involuntary
+E01464,IT,L1,Female,Gurugram,2021-02-13,Permanent,True,2,2021-06-13,Resigned - better offer,Voluntary
+E01465,IT,L1,Female,Hyderabad,2022-01-26,Permanent,False,3,2024-10-12,Resigned - better offer,Voluntary
+E01466,Supply Chain,L1,Male,Bengaluru,2019-01-29,Permanent,True,4,2019-03-30,Terminated - performance,Involuntary
+E01467,Finance,L2,Male,Pune,2021-07-05,Contract,False,4,,,
+E01468,HR,L2,Male,Gurugram,2022-11-23,Permanent,False,2,2024-02-16,Resigned - career change,Voluntary
+E01469,Operations,L1,Female,Pune,2021-04-21,Contract,False,3,,,
+E01470,IT,L4,Female,Pune,2022-06-10,Contract,True,3,2024-01-31,Terminated - performance,Involuntary
+E01471,Operations,L1,Male,Hyderabad,2021-08-22,Contract,False,3,,,
+E01472,Operations,L1,Male,Bengaluru,2023-07-26,Permanent,False,4,2023-10-24,Resigned - career change,Voluntary
+E01473,Sales,L2,Male,Gurugram,2023-01-25,Permanent,True,3,2025-07-13,Resigned - better offer,Voluntary
+E01474,Sales,L1,Female,Mumbai,2021-09-17,Permanent,False,2,2023-09-07,Resigned - better offer,Voluntary
+E01475,Finance,L3,Male,Pune,2023-11-15,Permanent,False,4,,,
+E01476,IT,L5,Female,Hyderabad,2025-10-31,Permanent,False,1,,,
+E01477,Operations,L2,Male,Hyderabad,2019-08-20,Permanent,True,3,,,
+E01478,Finance,L4,Female,Pune,2024-01-06,Permanent,True,2,,,
+E01479,Operations,L2,Female,Pune,2025-02-24,Permanent,True,4,,,
+E01480,Operations,L2,Female,Mumbai,2024-03-29,Permanent,False,3,2024-08-26,Resigned - relocation,Voluntary
+E01481,Sales,L5,Male,Mumbai,2022-12-02,Contract,False,3,,,
+E01482,Operations,L1,Female,Bengaluru,2021-01-20,Permanent,False,3,2024-10-31,Contract ended,Involuntary
+E01483,Sales,L2,Female,Bengaluru,2024-07-02,Permanent,False,4,,,
+E01484,Operations,L4,Male,Gurugram,2025-06-05,Permanent,True,2,,,
+E01485,Operations,L4,Male,Gurugram,2025-05-18,Permanent,False,3,,,
+E01486,Customer Service,L1,Male,Mumbai,2024-04-26,Permanent,False,3,2024-06-25,Resigned - better offer,Voluntary
+E01487,IT,L1,Female,Gurugram,2020-01-06,Permanent,False,3,2020-11-01,Resigned - career change,Voluntary
+E01488,Sales,L2,Female,Mumbai,2023-12-13,Contract,True,5,2024-11-07,Resigned - relocation,Voluntary
+E01489,Operations,L4,Male,Mumbai,2021-02-17,Contract,False,3,,,
+E01490,Sales,L1,Female,Pune,2019-05-04,Contract,False,4,2020-06-27,Resigned - relocation,Voluntary
+E01491,Operations,L2,Male,Hyderabad,2025-07-18,Permanent,False,3,,,
+E01492,Sales,L4,Male,Mumbai,2022-09-18,Contract,False,3,2025-07-04,Resigned - better offer,Voluntary
+E01493,IT,L2,Male,Mumbai,2019-12-10,Contract,False,3,,,
+E01494,IT,L2,Female,Bengaluru,2019-03-12,Contract,False,2,2020-05-05,Terminated - performance,Involuntary
+E01495,Sales,L1,Male,Gurugram,2021-09-24,Permanent,True,5,,,
+E01496,Finance,L2,Male,Hyderabad,2020-02-28,Permanent,False,3,,,
+E01497,HR,L2,Male,Bengaluru,2019-05-23,Contract,False,5,,,
+E01498,Customer Service,L3,Female,Pune,2023-10-30,Permanent,True,1,2024-06-26,Resigned - better offer,Voluntary
+E01499,Operations,L2,Female,Hyderabad,2020-04-18,Permanent,False,3,2025-10-19,Terminated - performance,Involuntary
+E01500,Sales,L3,Male,Bengaluru,2021-08-28,Permanent,False,4,,,
+E01501,Sales,L2,Female,Hyderabad,2023-08-29,Permanent,False,3,2025-04-20,Resigned - career change,Voluntary
+E01502,HR,L1,Male,Bengaluru,2024-09-16,Permanent,False,2,,,
+E01503,IT,L1,Male,Mumbai,2020-05-17,Contract,False,3,2024-10-23,Resigned - better offer,Voluntary
+E01504,IT,L4,Male,Bengaluru,2024-09-23,Permanent,True,3,,,
+E01505,HR,L1,Male,Gurugram,2025-10-16,Permanent,False,3,,,
+E01506,Sales,L2,Male,Mumbai,2019-05-12,Permanent,False,3,,,
+E01507,Customer Service,L1,Male,Gurugram,2021-10-26,Permanent,False,4,2023-12-15,Terminated - performance,Involuntary
+E01508,IT,L2,Male,Mumbai,2020-08-04,Contract,False,4,2021-11-27,Contract ended,Involuntary
+E01509,Operations,L2,Male,Bengaluru,2021-06-02,Permanent,False,3,2024-05-17,Resigned - career change,Voluntary
+E01510,Sales,L3,Male,Gurugram,2023-10-21,Contract,False,3,,,
+E01511,HR,L1,Male,Pune,2020-11-29,Permanent,False,4,2024-02-12,Resigned - better offer,Voluntary
+E01512,Customer Service,L2,Male,Mumbai,2022-02-25,Contract,False,2,2025-10-07,Resigned - relocation,Voluntary
+E01513,IT,L4,Male,Bengaluru,2021-08-15,Permanent,False,3,2022-03-13,Resigned - career change,Voluntary
+E01514,Sales,L2,Male,Hyderabad,2025-02-02,Permanent,False,2,2025-11-29,Resigned - better offer,Voluntary
+E01515,Finance,L1,Male,Pune,2025-10-20,Permanent,False,3,,,
+E01516,Customer Service,L2,Male,Hyderabad,2025-01-27,Contract,False,5,,,
+E01517,Operations,L2,Male,Gurugram,2020-04-11,Permanent,False,2,2020-10-08,Resigned - better offer,Voluntary
+E01518,Sales,L2,Female,Hyderabad,2024-08-24,Permanent,False,4,,,
+E01519,Finance,L1,Male,Hyderabad,2020-09-17,Contract,False,2,2025-02-23,Resigned - better offer,Voluntary
+E01520,Supply Chain,L4,Female,Bengaluru,2023-10-11,Permanent,False,3,,,
+E01521,HR,L2,Male,Bengaluru,2019-08-26,Permanent,False,3,2022-11-08,Resigned - career change,Voluntary
+E01522,Customer Service,L3,Male,Pune,2020-09-24,Permanent,False,3,2024-01-07,Resigned - relocation,Voluntary
+E01523,Sales,L2,Male,Hyderabad,2021-02-05,Permanent,True,2,2022-09-28,Contract ended,Involuntary
+E01524,Finance,L1,Female,Gurugram,2021-08-19,Permanent,False,5,,,
+E01525,Sales,L2,Female,Hyderabad,2019-10-15,Permanent,True,5,2019-11-14,Terminated - performance,Involuntary
+E01526,Operations,L2,Male,Mumbai,2019-01-18,Permanent,True,3,2020-04-12,Resigned - relocation,Voluntary
+E01527,Supply Chain,L2,Female,Bengaluru,2023-12-28,Permanent,True,3,2024-10-23,Resigned - relocation,Voluntary
+E01528,Operations,L2,Male,Pune,2023-10-29,Permanent,False,2,2025-02-20,Resigned - relocation,Voluntary
+E01529,Supply Chain,L4,Male,Pune,2021-03-11,Permanent,True,2,2022-03-06,Terminated - performance,Involuntary
+E01530,Finance,L1,Female,Pune,2019-07-06,Contract,True,4,2022-11-17,Resigned - better offer,Voluntary
+E01531,Supply Chain,L4,Male,Bengaluru,2021-05-16,Permanent,False,2,,,
+E01532,IT,L1,Female,Mumbai,2021-07-03,Contract,False,2,,,
+E01533,Operations,L2,Female,Bengaluru,2020-01-20,Permanent,True,1,,,
+E01534,Finance,L1,Male,Bengaluru,2019-01-24,Permanent,False,2,2019-02-23,Resigned - better offer,Voluntary
+E01535,Customer Service,L2,Male,Bengaluru,2023-05-11,Permanent,False,3,,,
+E01536,Sales,L4,Male,Hyderabad,2019-05-18,Permanent,True,5,2024-07-20,Resigned - career change,Voluntary
+E01537,IT,L2,Male,Bengaluru,2020-04-27,Permanent,True,2,2022-02-16,Terminated - performance,Involuntary
+E01538,Sales,L1,Male,Pune,2024-04-27,Permanent,False,4,,,
+E01539,IT,L3,Female,Hyderabad,2024-09-19,Permanent,False,4,,,
+E01540,Operations,L1,Female,Gurugram,2020-12-17,Permanent,False,3,,,
+E01541,Operations,L3,Female,Hyderabad,2024-12-21,Permanent,False,4,,,
+E01542,IT,L2,Male,Bengaluru,2023-03-28,Permanent,False,3,,,
+E01543,Sales,L3,Female,Hyderabad,2024-09-17,Permanent,False,4,,,
+E01544,HR,L2,Female,Bengaluru,2021-07-28,Contract,False,3,2021-11-25,Contract ended,Involuntary
+E01545,Supply Chain,L5,Male,Mumbai,2022-10-23,Permanent,True,3,,,
+E01546,Supply Chain,L1,Female,Bengaluru,2022-08-05,Permanent,False,3,,,
+E01547,Finance,L1,Male,Gurugram,2025-03-10,Permanent,False,3,,,
+E01548,Supply Chain,L1,Female,Mumbai,2025-09-25,Contract,False,1,,,
+E01549,Supply Chain,L4,Male,Gurugram,2025-06-08,Permanent,True,4,,,
+E01550,Customer Service,L1,Female,Hyderabad,2021-06-12,Permanent,False,4,2021-08-11,Terminated - performance,Involuntary
+E01551,Finance,L5,Male,Bengaluru,2021-07-18,Contract,True,3,2022-04-14,Resigned - better offer,Voluntary
+E01552,Supply Chain,L1,Female,Pune,2021-08-04,Permanent,False,2,,,
+E01553,Customer Service,L3,Male,Mumbai,2024-09-01,Permanent,False,5,,,
+E01554,IT,L1,Female,Hyderabad,2025-04-04,Permanent,True,4,,,
+E01555,Sales,L1,Female,Hyderabad,2024-01-07,Contract,True,4,,,
+E01556,Operations,L1,Female,Hyderabad,2021-11-30,Permanent,False,3,2022-12-25,Resigned - better offer,Voluntary
+E01557,Customer Service,L2,Male,Bengaluru,2022-01-20,Permanent,False,3,,,
+E01558,Finance,L3,Male,Hyderabad,2024-07-12,Permanent,False,3,,,
+E01559,Supply Chain,L1,Female,Bengaluru,2023-08-15,Permanent,False,1,,,
+E01560,IT,L5,Female,Gurugram,2024-10-02,Contract,False,4,,,
+E01561,Operations,L4,Female,Mumbai,2024-09-04,Contract,False,3,2025-07-31,Contract ended,Involuntary
+E01562,Customer Service,L1,Female,Pune,2020-07-02,Permanent,False,3,2020-08-31,Terminated - performance,Involuntary
+E01563,IT,L4,Male,Bengaluru,2022-12-16,Permanent,False,5,,,
+E01564,Supply Chain,L2,Male,Bengaluru,2020-09-02,Permanent,False,3,,,
+E01565,Sales,L2,Female,Hyderabad,2020-10-16,Permanent,False,2,2024-02-28,Resigned - better offer,Voluntary
+E01566,Operations,L1,Male,Gurugram,2024-05-17,Permanent,False,2,,,
+E01567,Finance,L3,Female,Gurugram,2022-09-01,Permanent,True,2,,,
+E01568,Supply Chain,L1,Female,Hyderabad,2023-11-26,Contract,False,3,2025-12-15,Resigned - relocation,Voluntary
+E01569,IT,L3,Female,Gurugram,2021-07-22,Permanent,True,2,2023-11-09,Resigned - relocation,Voluntary
+E01570,HR,L3,Male,Mumbai,2021-07-06,Permanent,False,4,2021-08-05,Terminated - performance,Involuntary
+E01571,Operations,L3,Male,Hyderabad,2021-06-08,Permanent,False,1,2024-04-23,Resigned - career change,Voluntary
+E01572,Sales,L2,Male,Gurugram,2020-08-13,Permanent,False,2,2021-08-08,Resigned - relocation,Voluntary
+E01573,Sales,L2,Female,Hyderabad,2020-01-11,Permanent,False,4,2021-01-05,Resigned - relocation,Voluntary
+E01574,Supply Chain,L2,Male,Bengaluru,2020-06-05,Permanent,False,3,,,
+E01575,HR,L2,Female,Bengaluru,2024-12-15,Permanent,True,3,,,
+E01576,Operations,L2,Male,Bengaluru,2024-05-22,Permanent,False,3,,,
+E01577,Sales,L3,Male,Mumbai,2023-02-23,Contract,False,2,2023-10-21,Resigned - better offer,Voluntary
+E01578,HR,L1,Female,Pune,2023-12-19,Permanent,False,3,,,
+E01579,Operations,L2,Male,Bengaluru,2023-05-13,Contract,False,3,,,
+E01580,IT,L4,Male,Pune,2021-04-06,Contract,False,4,,,
+E01581,IT,L3,Male,Bengaluru,2021-06-06,Permanent,True,4,2022-01-02,Resigned - better offer,Voluntary
+E01582,Operations,L3,Male,Hyderabad,2020-03-07,Permanent,False,5,2023-09-18,Terminated - performance,Involuntary
+E01583,Operations,L5,Female,Mumbai,2019-12-04,Contract,False,5,2021-07-26,Contract ended,Involuntary
+E01584,IT,L1,Male,Bengaluru,2023-11-29,Permanent,True,4,2024-03-28,Resigned - better offer,Voluntary
+E01585,Operations,L1,Female,Hyderabad,2019-10-13,Contract,False,5,,,
+E01586,Sales,L3,Female,Hyderabad,2022-04-03,Permanent,False,3,,,
+E01587,Sales,L1,Male,Gurugram,2024-04-29,Contract,False,4,2024-05-29,Resigned - career change,Voluntary
+E01588,Sales,L3,Male,Mumbai,2023-02-23,Permanent,False,3,,,
+E01589,Sales,L2,Female,Bengaluru,2020-04-25,Permanent,False,4,,,
+E01590,Finance,L1,Male,Gurugram,2021-05-31,Permanent,False,3,2021-07-30,Contract ended,Involuntary
+E01591,Sales,L1,Female,Pune,2020-01-19,Permanent,False,4,2021-10-10,Resigned - better offer,Voluntary
+E01592,Sales,L1,Female,Pune,2021-01-14,Contract,False,3,,,
+E01593,Sales,L1,Female,Gurugram,2019-01-16,Permanent,True,4,2020-03-11,Resigned - relocation,Voluntary
+E01594,Sales,L2,Female,Gurugram,2021-05-10,Permanent,True,4,,,
+E01595,Supply Chain,L3,Male,Hyderabad,2020-09-25,Permanent,False,3,2024-12-03,Resigned - better offer,Voluntary
+E01596,Operations,L1,Female,Hyderabad,2022-08-30,Permanent,False,3,2024-09-18,Resigned - better offer,Voluntary
+E01597,Customer Service,L1,Male,Pune,2023-08-02,Permanent,False,5,2025-01-23,Resigned - better offer,Voluntary
+E01598,IT,L2,Female,Pune,2023-06-29,Contract,False,3,2025-06-18,Resigned - career change,Voluntary
+E01599,Supply Chain,L2,Male,Mumbai,2019-01-15,Permanent,False,3,,,
+E01600,Operations,L5,Male,Gurugram,2019-02-28,Contract,False,2,2023-10-05,Resigned - better offer,Voluntary
+E01601,Finance,L4,Male,Gurugram,2019-04-11,Permanent,False,4,2020-10-02,Resigned - career change,Voluntary
+E01602,Customer Service,L3,Male,Gurugram,2019-04-25,Contract,False,2,2019-10-22,Resigned - relocation,Voluntary
+E01603,IT,L2,Female,Mumbai,2020-01-10,Contract,False,2,2021-03-05,Resigned - better offer,Voluntary
+E01604,HR,L2,Male,Hyderabad,2022-03-23,Permanent,True,4,2025-08-04,Resigned - better offer,Voluntary
+E01605,Supply Chain,L2,Female,Mumbai,2020-06-05,Permanent,True,3,,,
+E01606,Customer Service,L3,Male,Hyderabad,2024-07-17,Permanent,False,4,,,
+E01607,Sales,L2,Male,Hyderabad,2021-07-26,Permanent,False,4,2025-12-02,Resigned - career change,Voluntary
+E01608,Sales,L1,Male,Pune,2022-04-13,Contract,False,4,,,
+E01609,Operations,L1,Female,Gurugram,2021-06-14,Permanent,False,3,2023-12-31,Contract ended,Involuntary
+E01610,IT,L1,Male,Mumbai,2025-09-16,Permanent,True,1,2025-11-15,Contract ended,Involuntary
+E01611,Operations,L1,Female,Mumbai,2025-02-18,Permanent,False,3,,,
+E01612,HR,L1,Male,Pune,2020-05-17,Permanent,False,4,2025-04-21,Resigned - relocation,Voluntary
+E01613,Operations,L1,Male,Hyderabad,2025-03-08,Permanent,False,4,,,
+E01614,IT,L1,Female,Gurugram,2022-05-12,Permanent,False,5,2023-10-04,Resigned - relocation,Voluntary
+E01615,IT,L3,Female,Bengaluru,2023-11-30,Permanent,False,4,2024-06-27,Resigned - better offer,Voluntary
+E01616,Operations,L1,Male,Gurugram,2025-09-11,Permanent,False,4,,,
+E01617,Operations,L2,Male,Mumbai,2023-09-16,Permanent,False,3,2025-06-07,Terminated - performance,Involuntary
+E01618,Supply Chain,L1,Male,Mumbai,2025-01-11,Permanent,True,3,,,
+E01619,Operations,L2,Female,Gurugram,2024-01-16,Contract,False,2,,,
+E01620,IT,L3,Female,Hyderabad,2019-09-27,Contract,False,3,2020-12-20,Terminated - performance,Involuntary
+E01621,Supply Chain,L1,Male,Mumbai,2020-06-01,Permanent,False,4,2025-04-06,Resigned - better offer,Voluntary
+E01622,HR,L5,Male,Mumbai,2022-03-20,Permanent,True,3,,,
+E01623,Operations,L1,Female,Gurugram,2020-05-01,Permanent,False,2,2022-04-21,Resigned - better offer,Voluntary
+E01624,HR,L1,Male,Bengaluru,2020-10-31,Permanent,False,3,,,
+E01625,IT,L4,Female,Hyderabad,2023-03-10,Permanent,False,5,2023-12-05,Resigned - better offer,Voluntary
+E01626,Finance,L2,Male,Bengaluru,2021-03-25,Permanent,False,3,2022-07-18,Contract ended,Involuntary
+E01627,Operations,L1,Male,Pune,2020-11-09,Permanent,True,2,2021-04-08,Contract ended,Involuntary
+E01628,Sales,L5,Male,Hyderabad,2025-08-03,Contract,False,3,,,
+E01629,Sales,L2,Female,Pune,2025-02-15,Permanent,False,4,2025-07-15,Resigned - career change,Voluntary
+E01630,Supply Chain,L3,Female,Bengaluru,2022-11-24,Permanent,False,4,2023-11-19,Resigned - better offer,Voluntary
+E01631,IT,L5,Female,Gurugram,2025-09-09,Permanent,True,3,,,
+E01632,Operations,L2,Male,Pune,2022-03-16,Permanent,False,3,,,
+E01633,Customer Service,L4,Female,Bengaluru,2023-04-11,Permanent,False,4,,,
+E01634,Operations,L2,Female,Mumbai,2021-03-11,Contract,True,5,2022-02-04,Resigned - better offer,Voluntary
+E01635,Supply Chain,L1,Male,Pune,2021-02-22,Permanent,False,1,2021-03-24,Contract ended,Involuntary
+E01636,Sales,L2,Male,Pune,2024-11-30,Permanent,False,3,,,
+E01637,HR,L1,Female,Hyderabad,2019-08-20,Permanent,False,2,2022-08-04,Resigned - better offer,Voluntary
+E01638,Sales,L1,Female,Bengaluru,2022-08-09,Permanent,False,3,2025-02-24,Terminated - performance,Involuntary
+E01639,Sales,L4,Female,Mumbai,2021-09-19,Permanent,False,3,,,
+E01640,Operations,L5,Male,Mumbai,2025-07-13,Permanent,True,3,,,
+E01641,Operations,L2,Female,Mumbai,2024-01-10,Permanent,True,5,,,
+E01642,Operations,L4,Male,Bengaluru,2024-08-16,Permanent,False,3,,,
+E01643,Supply Chain,L2,Female,Gurugram,2023-08-01,Permanent,False,3,,,
+E01644,Finance,L2,Male,Gurugram,2025-06-15,Permanent,False,3,,,
+E01645,IT,L4,Male,Hyderabad,2023-08-13,Permanent,True,2,,,
+E01646,Supply Chain,L1,Female,Gurugram,2019-07-10,Permanent,False,2,2021-01-30,Resigned - career change,Voluntary
+E01647,Operations,L2,Female,Mumbai,2023-05-03,Permanent,True,3,2024-05-27,Contract ended,Involuntary
+E01648,Customer Service,L5,Male,Bengaluru,2022-01-27,Permanent,False,3,,,
+E01649,IT,L2,Male,Hyderabad,2025-01-22,Permanent,False,3,,,
+E01650,Operations,L4,Female,Bengaluru,2024-09-12,Permanent,True,3,,,
+E01651,Operations,L4,Male,Pune,2023-02-04,Permanent,True,4,,,
+E01652,Sales,L4,Male,Pune,2022-02-01,Contract,True,5,2023-10-24,Contract ended,Involuntary
+E01653,IT,L2,Male,Mumbai,2023-05-13,Permanent,False,2,,,
+E01654,Operations,L1,Male,Hyderabad,2025-06-02,Permanent,False,3,,,
+E01655,Supply Chain,L4,Male,Pune,2020-03-21,Permanent,True,2,2023-09-02,Terminated - performance,Involuntary
+E01656,Sales,L3,Male,Bengaluru,2022-02-06,Permanent,False,3,,,
+E01657,Sales,L2,Male,Pune,2025-09-18,Permanent,False,3,,,
+E01658,Operations,L1,Male,Mumbai,2024-04-28,Permanent,False,4,,,
+E01659,Finance,L2,Male,Bengaluru,2022-12-02,Permanent,False,3,2023-08-29,Resigned - better offer,Voluntary
+E01660,Operations,L1,Female,Pune,2019-06-04,Permanent,False,3,2024-07-07,Terminated - performance,Involuntary
+E01661,Sales,L2,Female,Bengaluru,2023-05-06,Permanent,False,5,,,
+E01662,Sales,L4,Male,Mumbai,2024-02-29,Permanent,True,4,2025-11-20,Resigned - better offer,Voluntary
+E01663,IT,L4,Male,Mumbai,2020-08-18,Permanent,False,4,2022-12-06,Resigned - career change,Voluntary
+E01664,Operations,L4,Male,Hyderabad,2022-01-13,Permanent,False,3,,,
+E01665,HR,L4,Female,Pune,2025-06-02,Permanent,False,1,,,
+E01666,IT,L1,Male,Mumbai,2025-08-04,Contract,False,5,,,
+E01667,Operations,L2,Female,Mumbai,2021-03-19,Permanent,False,3,,,
+E01668,IT,L2,Male,Hyderabad,2024-02-20,Permanent,False,1,2025-05-15,Contract ended,Involuntary
+E01669,IT,L1,Female,Mumbai,2023-05-30,Contract,True,3,2023-07-29,Resigned - better offer,Voluntary
+E01670,Customer Service,L2,Female,Bengaluru,2024-05-23,Permanent,False,4,,,
+E01671,Sales,L2,Male,Pune,2021-06-12,Permanent,True,5,2023-05-03,Terminated - performance,Involuntary
+E01672,Sales,L3,Female,Mumbai,2023-09-20,Contract,False,2,,,
+E01673,Supply Chain,L5,Female,Pune,2021-10-13,Permanent,False,3,,,
+E01674,Operations,L2,Male,Hyderabad,2025-12-10,Contract,False,3,,,
+E01675,Supply Chain,L5,Male,Bengaluru,2023-12-02,Permanent,True,3,,,
+E01676,Finance,L2,Male,Hyderabad,2019-07-20,Permanent,False,3,,,
+E01677,IT,L1,Male,Mumbai,2021-05-31,Permanent,False,4,2021-08-29,Resigned - relocation,Voluntary
+E01678,IT,L2,Male,Gurugram,2024-01-21,Permanent,False,3,,,
+E01679,Sales,L4,Male,Bengaluru,2023-08-23,Contract,False,1,2024-09-16,Contract ended,Involuntary
+E01680,Supply Chain,L4,Male,Hyderabad,2025-02-18,Permanent,True,5,,,
+E01681,Sales,L2,Female,Pune,2020-03-30,Permanent,False,4,2021-04-24,Resigned - better offer,Voluntary
+E01682,Supply Chain,L4,Male,Hyderabad,2019-09-10,Permanent,False,3,2023-12-18,Resigned - better offer,Voluntary
+E01683,Operations,L1,Male,Pune,2024-11-13,Contract,True,3,2025-10-09,Resigned - relocation,Voluntary
+E01684,IT,L1,Male,Pune,2022-09-07,Permanent,True,4,,,
+E01685,Sales,L2,Female,Pune,2020-02-09,Permanent,True,3,2020-11-05,Contract ended,Involuntary
+E01686,Finance,L3,Female,Hyderabad,2021-04-05,Permanent,True,3,2022-03-31,Resigned - better offer,Voluntary
+E01687,IT,L3,Female,Gurugram,2021-09-28,Contract,False,2,2022-09-23,Contract ended,Involuntary
+E01688,Operations,L3,Female,Hyderabad,2023-05-02,Permanent,False,5,,,
+E01689,Sales,L2,Male,Mumbai,2025-01-20,Contract,False,1,,,
+E01690,Sales,L3,Male,Gurugram,2020-06-17,Permanent,False,2,2020-09-15,Resigned - relocation,Voluntary
+E01691,Supply Chain,L3,Male,Pune,2023-01-16,Permanent,False,2,,,
+E01692,Operations,L3,Female,Bengaluru,2021-11-01,Permanent,False,4,,,
+E01693,Sales,L2,Male,Hyderabad,2024-01-31,Permanent,False,4,,,
+E01694,Sales,L1,Male,Gurugram,2023-03-01,Permanent,False,5,,,
+E01695,Sales,L2,Male,Hyderabad,2021-02-19,Permanent,False,3,,,
+E01696,Operations,L3,Male,Mumbai,2019-12-09,Permanent,False,3,,,
+E01697,Sales,L2,Female,Mumbai,2022-08-13,Permanent,False,3,,,
+E01698,Operations,L3,Female,Pune,2024-03-16,Permanent,False,4,,,
+E01699,Operations,L2,Male,Mumbai,2019-02-26,Permanent,False,4,,,
+E01700,Sales,L2,Female,Gurugram,2019-12-28,Contract,False,3,2023-02-10,Resigned - better offer,Voluntary
+E01701,Supply Chain,L1,Male,Hyderabad,2023-08-27,Contract,True,3,2023-09-26,Resigned - career change,Voluntary
+E01702,Operations,L3,Female,Bengaluru,2019-02-03,Contract,False,3,2022-12-14,Resigned - career change,Voluntary
+E01703,Supply Chain,L3,Male,Hyderabad,2024-05-06,Permanent,False,3,2024-07-05,Contract ended,Involuntary
+E01704,IT,L2,Female,Pune,2022-11-25,Permanent,False,5,2024-06-17,Resigned - relocation,Voluntary
+E01705,Operations,L1,Male,Hyderabad,2021-09-10,Permanent,False,4,,,
+E01706,Operations,L2,Male,Bengaluru,2022-06-30,Permanent,False,5,,,
+E01707,Supply Chain,L3,Male,Mumbai,2022-01-21,Permanent,False,3,2025-03-06,Contract ended,Involuntary
+E01708,Customer Service,L2,Male,Mumbai,2022-07-20,Permanent,False,1,2023-12-12,Resigned - better offer,Voluntary
+E01709,Finance,L2,Male,Bengaluru,2024-11-10,Permanent,False,3,,,
+E01710,Sales,L5,Male,Gurugram,2020-12-03,Permanent,False,3,,,
+E01711,Sales,L3,Female,Pune,2019-06-30,Permanent,False,4,2020-06-24,Resigned - relocation,Voluntary
+E01712,Operations,L1,Male,Pune,2023-11-06,Contract,False,3,,,
+E01713,HR,L1,Male,Gurugram,2024-12-24,Permanent,True,3,2025-08-21,Resigned - better offer,Voluntary
+E01714,Operations,L3,Male,Gurugram,2025-04-02,Permanent,False,4,,,
+E01715,Operations,L2,Male,Bengaluru,2024-04-12,Permanent,False,3,,,
+E01716,Operations,L3,Female,Hyderabad,2024-08-16,Permanent,False,4,2025-04-13,Resigned - better offer,Voluntary
+E01717,Sales,L4,Male,Hyderabad,2019-04-17,Permanent,True,3,2021-11-02,Resigned - career change,Voluntary
+E01718,Supply Chain,L5,Female,Pune,2024-02-11,Permanent,False,3,,,
+E01719,Sales,L1,Female,Bengaluru,2020-11-25,Permanent,False,4,2022-01-19,Resigned - relocation,Voluntary
+E01720,Sales,L3,Male,Mumbai,2019-01-01,Permanent,False,5,,,
+E01721,Sales,L1,Male,Gurugram,2023-01-16,Permanent,True,5,2025-12-31,Terminated - performance,Involuntary
+E01722,Sales,L1,Male,Bengaluru,2024-12-10,Permanent,False,5,,,
+E01723,Operations,L3,Male,Hyderabad,2025-04-24,Permanent,True,3,,,
+E01724,Supply Chain,L1,Male,Pune,2019-09-09,Contract,False,4,2019-10-09,Resigned - better offer,Voluntary
+E01725,Sales,L2,Female,Bengaluru,2022-11-27,Permanent,False,5,,,
+E01726,Supply Chain,L2,Female,Gurugram,2025-03-18,Permanent,False,4,,,
+E01727,Sales,L3,Female,Pune,2023-04-07,Permanent,True,2,2024-05-01,Contract ended,Involuntary
+E01728,IT,L2,Female,Mumbai,2021-10-13,Permanent,False,3,2023-08-04,Terminated - performance,Involuntary
+E01729,Sales,L1,Male,Mumbai,2025-09-26,Permanent,True,3,,,
+E01730,Operations,L1,Female,Hyderabad,2023-06-08,Permanent,False,4,2025-02-27,Resigned - relocation,Voluntary
+E01731,Sales,L3,Female,Hyderabad,2025-02-13,Permanent,False,3,,,
+E01732,Supply Chain,L3,Female,Bengaluru,2019-12-17,Permanent,False,5,2023-12-26,Resigned - relocation,Voluntary
+E01733,HR,L4,Male,Hyderabad,2020-08-12,Permanent,False,3,,,
+E01734,Sales,L2,Female,Mumbai,2019-04-22,Permanent,False,4,,,
+E01735,Customer Service,L1,Female,Hyderabad,2023-10-02,Permanent,False,4,,,
+E01736,IT,L3,Male,Pune,2023-01-24,Contract,True,4,2023-07-23,Resigned - relocation,Voluntary
+E01737,Supply Chain,L2,Female,Hyderabad,2024-03-01,Permanent,False,3,,,
+E01738,IT,L2,Male,Gurugram,2022-02-12,Permanent,True,1,2023-01-08,Resigned - better offer,Voluntary
+E01739,Sales,L3,Male,Bengaluru,2025-02-28,Permanent,False,3,,,
+E01740,Customer Service,L1,Female,Bengaluru,2021-04-04,Permanent,False,3,,,
+E01741,Operations,L3,Male,Bengaluru,2023-02-26,Permanent,False,3,,,
+E01742,Customer Service,L5,Male,Hyderabad,2023-04-22,Permanent,True,3,2024-05-16,Terminated - performance,Involuntary
+E01743,Sales,L1,Male,Hyderabad,2022-08-14,Contract,True,3,2025-11-26,Resigned - better offer,Voluntary
+E01744,Customer Service,L1,Male,Gurugram,2024-01-09,Permanent,False,3,,,
+E01745,Operations,L3,Female,Bengaluru,2023-02-23,Permanent,False,3,2025-02-12,Resigned - better offer,Voluntary
+E01746,Operations,L2,Male,Gurugram,2020-10-13,Contract,False,2,2021-01-11,Resigned - relocation,Voluntary
+E01747,IT,L4,Male,Pune,2021-02-10,Permanent,False,4,,,
+E01748,Operations,L1,Female,Gurugram,2024-10-07,Permanent,False,3,,,
+E01749,Sales,L3,Female,Hyderabad,2020-03-06,Permanent,False,3,2022-04-25,Contract ended,Involuntary
+E01750,Customer Service,L1,Male,Bengaluru,2022-04-30,Permanent,False,2,2023-03-26,Resigned - better offer,Voluntary
+E01751,HR,L5,Male,Pune,2020-12-10,Contract,True,5,2024-02-23,Resigned - better offer,Voluntary
+E01752,Operations,L1,Female,Mumbai,2025-11-09,Permanent,True,4,,,
+E01753,Customer Service,L1,Female,Bengaluru,2019-04-09,Permanent,False,4,2025-02-06,Resigned - better offer,Voluntary
+E01754,Sales,L1,Male,Pune,2023-07-10,Contract,False,3,2025-05-30,Resigned - career change,Voluntary
+E01755,Sales,L4,Male,Bengaluru,2020-07-18,Permanent,False,2,2023-05-04,Resigned - career change,Voluntary
+E01756,Supply Chain,L4,Female,Gurugram,2025-03-25,Permanent,False,2,,,
+E01757,HR,L3,Male,Gurugram,2019-05-03,Permanent,True,4,,,
+E01758,Sales,L3,Male,Mumbai,2020-05-04,Permanent,True,4,2024-10-10,Terminated - performance,Involuntary
+E01759,Finance,L2,Male,Pune,2019-01-28,Contract,True,3,2020-12-18,Resigned - relocation,Voluntary
+E01760,Operations,L2,Male,Pune,2022-03-11,Permanent,False,4,,,
+E01761,IT,L3,Female,Pune,2024-07-16,Permanent,False,2,2025-06-11,Resigned - relocation,Voluntary
+E01762,Operations,L2,Male,Hyderabad,2019-02-23,Contract,False,3,2025-08-20,Resigned - career change,Voluntary
+E01763,IT,L5,Male,Gurugram,2022-05-19,Permanent,True,4,2025-07-02,Resigned - better offer,Voluntary
+E01764,Supply Chain,L1,Male,Mumbai,2022-09-01,Permanent,False,4,,,
+E01765,Supply Chain,L3,Male,Pune,2022-07-25,Contract,False,3,2024-11-11,Resigned - career change,Voluntary
+E01766,Operations,L4,Female,Mumbai,2024-09-10,Permanent,False,4,,,
+E01767,Supply Chain,L3,Male,Mumbai,2022-09-26,Contract,False,4,,,
+E01768,Operations,L3,Male,Pune,2024-12-01,Contract,False,4,,,
+E01769,Sales,L4,Female,Gurugram,2024-02-24,Permanent,True,3,2025-03-20,Resigned - relocation,Voluntary
+E01770,Customer Service,L4,Female,Gurugram,2024-09-05,Contract,False,3,,,
+E01771,Operations,L3,Female,Mumbai,2022-01-15,Permanent,True,3,2025-02-28,Resigned - better offer,Voluntary
+E01772,Sales,L2,Male,Bengaluru,2023-02-17,Contract,False,5,2025-09-04,Resigned - career change,Voluntary
+E01773,Supply Chain,L2,Female,Pune,2024-12-14,Permanent,False,3,,,
+E01774,Supply Chain,L2,Female,Gurugram,2025-06-27,Permanent,True,2,,,
+E01775,Operations,L2,Male,Gurugram,2021-01-30,Permanent,False,4,2021-03-01,Resigned - better offer,Voluntary
+E01776,Supply Chain,L3,Male,Hyderabad,2023-09-04,Permanent,False,4,,,
+E01777,Supply Chain,L5,Male,Hyderabad,2019-04-27,Permanent,True,3,2020-08-19,Resigned - better offer,Voluntary
+E01778,Supply Chain,L4,Male,Pune,2022-09-04,Contract,False,3,2024-01-27,Resigned - career change,Voluntary
+E01779,IT,L4,Male,Gurugram,2024-01-18,Permanent,False,4,,,
+E01780,Sales,L2,Male,Bengaluru,2020-04-24,Permanent,False,3,2023-06-08,Resigned - career change,Voluntary
+E01781,Finance,L4,Female,Bengaluru,2025-08-23,Permanent,True,3,,,
+E01782,HR,L2,Female,Pune,2023-11-04,Permanent,False,4,,,
+E01783,Customer Service,L3,Male,Mumbai,2025-10-17,Permanent,False,4,,,
+E01784,Operations,L2,Male,Mumbai,2025-08-04,Permanent,True,4,,,
+E01785,Operations,L2,Male,Pune,2025-07-20,Contract,False,3,,,
+E01786,Supply Chain,L2,Male,Mumbai,2019-09-11,Permanent,True,3,2023-04-23,Terminated - performance,Involuntary
+E01787,Sales,L3,Male,Gurugram,2020-01-11,Permanent,False,3,2024-07-18,Resigned - better offer,Voluntary
+E01788,Supply Chain,L2,Female,Gurugram,2021-07-25,Permanent,False,3,,,
+E01789,Finance,L1,Male,Pune,2020-09-22,Contract,False,2,2020-12-21,Resigned - better offer,Voluntary
+E01790,Sales,L3,Male,Pune,2024-11-25,Contract,False,3,2025-05-24,Resigned - better offer,Voluntary
+E01791,IT,L2,Female,Pune,2025-04-03,Contract,True,4,,,
+E01792,Customer Service,L1,Male,Bengaluru,2023-03-18,Permanent,True,3,2023-04-17,Resigned - better offer,Voluntary
+E01793,Operations,L2,Female,Gurugram,2025-01-12,Contract,True,4,,,
+E01794,Operations,L2,Male,Bengaluru,2023-01-10,Permanent,False,3,,,
+E01795,Operations,L3,Female,Gurugram,2024-12-01,Permanent,True,4,2025-01-30,Resigned - relocation,Voluntary
+E01796,HR,L2,Female,Bengaluru,2022-06-09,Permanent,False,4,2023-12-31,Contract ended,Involuntary
+E01797,Operations,L1,Female,Hyderabad,2025-04-29,Permanent,False,5,2025-06-28,Resigned - better offer,Voluntary
+E01798,Sales,L2,Female,Bengaluru,2019-01-29,Permanent,False,3,,,
+E01799,Operations,L1,Male,Mumbai,2024-09-22,Permanent,False,1,2024-12-21,Resigned - relocation,Voluntary
+E01800,Finance,L2,Male,Hyderabad,2023-05-15,Permanent,False,5,2024-03-10,Resigned - better offer,Voluntary
